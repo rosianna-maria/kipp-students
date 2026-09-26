@@ -82,10 +82,10 @@ Peran A: **Anggota Tim Proyek** — Peran B: **Anak / Sahabat Pendengar**. Dua p
 
 ## Episode yang dianalisis
 
-> **Saya:** "Sebelum kita atur ulang jadwal, boleh cerita apa yang bikin bagian ini masih tertahan?"
-> **Mitra K:** "Aku masih bingung di bagian penanganan error-nya, coba beberapa kali masih gagal test case."
-> **Saya:** "Oke, berarti hambatannya di logic error handling, bukan soal waktu ya?"
-> **Mitra K:** "Iya, betul."
+> **Saya:** "Sebelum kita atur ulang jadwal, boleh cerita apa yang bikin bagian ini masih tertahan?"  
+> **Mitra K:** "Aku masih bingung di bagian penanganan error-nya, coba beberapa kali masih gagal test case."  
+> **Saya:** "Oke, berarti hambatannya di logic error handling, bukan soal waktu ya?"  
+> **Mitra K:** "Iya, betul."  
 > **Saya:** "Aku bisa bantu review bagian itu malam ini atau kita pair programming sebentar. Mana yang lebih membantu?"
 
 Respons Mitra K mengubah repertoire saya dari sekadar menagih perkembangan menjadi problem solving bersama. Kesepakatan akhirnya: kami pair programming dua jam, modul selesai sebelum tenggat dan test case ikut disesuaikan.
@@ -96,7 +96,9 @@ Ada satu ketidakpastian yang saya sadari saat itu: saya bukan ketua kelompok, ja
 
 ::: {.evidence-block}
 Screenshot spesifik dari momen pair programming dengan Mitra K tidak tersimpan karena diskusi dan penyelesaian error handling terjadi secara langsung (tatap muka). Repository Tugas Besar juga sudah tidak lagi dapat diakses untuk melampirkan commit log terkait. Sebagai gambaran pola kolaborasi dengan Mitra K pada periode pengerjaan yang sama, berikut chat koordinasi terkait saling membantu mengecek pekerjaan sebelum tenggat:
-![Screenshot chat koordinasi dengan Mitra K](images/bukti-chat.jpeg)
+
+![Screenshot chat koordinasi dengan Mitra K](images/bukti-chat.jpeg){width="50%"}
+
 Kontribusi pribadi: dalam episode pair programming yang dianalisis, saya berperan sebagai driver/navigator saat menyusun ulang logic penanganan error pada modul yang menjadi tanggung jawab Mitra K, sementara Mitra K menjelaskan konteks bug dan memvalidasi hasil test case secara langsung di layar yang sama. Bagian yang murni kontribusi saya adalah perbaikan logic error handling tersebut, bukan keseluruhan modul yang tetap menjadi tanggung jawab Mitra K.
 :::
 
