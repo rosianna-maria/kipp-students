@@ -59,6 +59,15 @@ Karena episode ini bersifat proses batin (intra-self communication), tidak ada a
 > Pergeseran ke narasi analitis: "Bisa saja Rekan P lagi panik sendiri soal kualitas tugas. Belum tentu mereka sengaja meremehkan saya."
 
 **Kontribusi pribadi:** Seluruh isi substantif berasal dari pengalaman saya sendiri. Fakta yang benar-benar terjadi, interpretasi pertama yang muncul di kepala saya, emosi dan sensasi tubuh yang saya rasakan, hingga pelajaran dan rencana tindakan yang saya pilih untuk ke depannya. Proses pengorganisasian cerita mentah tersebut ke dalam struktur fakta/interpretasi/tiga narasi sesuai format lembar kerja dibantu oleh AI, namun keputusan mana yang menjadi fakta, mana yang sekadar asumsi, serta narasi dan tindakan mana yang saya pilih untuk dipegang, sepenuhnya merupakan penilaian saya sendiri.
+
+**Bukti realisasi rencana (tambahan pasca-revisi):**
+
+![Percakapan proyek kelompok Literasi Data dan Inteligensi Artifisial soal pembagian tugas](https://rosianna-maria.github.io/kipp-students/portfolio/images/week-02-diskusi-proyek.jpeg){width="50%"}
+
+![Saya menyampaikan jadwal mentoring agama dan menanyakan kesediaan menyesuaikan jadwal diskusi, 4 Mei 2026](https://rosianna-maria.github.io/kipp-students/portfolio/images/week-02-batas-waktu.jpeg){width="50%"}
+
+Screenshot kedua menunjukkan realisasi nyata dari rencana "next practice" pada episode sebelumnya: saya secara proaktif menyampaikan batas waktu pribadi (jadwal mentoring agama) ke grup proyek Literasi Data dan Inteligensi Artifisial pada 4 Mei 2026, alih-alih memendamnya seperti pola lama. Kelompok merespons dengan menyesuaikan jadwal diskusi ke keesokan harinya.
+
 :::
 
 ## Analisis komunikasi
@@ -86,7 +95,7 @@ Karena episode ini bersifat proses batin (intra-self communication), tidak ada a
 
 **Adaptation/replay:** Setelah menyelesaikan tugas besar, saya menyadari bahwa memendam kekesalan sampai menangis bukan strategi yang berkelanjutan, ke depannya saya berencana menyampaikan batas dan keberatan lebih awal alih-alih menahannya sampai akhir pengerjaan.
 
-**Next practice:** Saat memulai proyek kelompok berikutnya, saya akan menyampaikan jam-jam yang tidak bisa diganggu (termasuk waktu ibadah) di awal pembagian tugas dan langsung menyampaikan secara asertif jika pembagian kerja terasa timpang.
+**Next practice (sudah direalisasikan):** Pada 4 Mei 2026, dalam proyek kelompok mata kuliah Literasi Data dan Inteligensi Artifisial, saya proaktif menyampaikan ke grup bahwa saya ada mentoring agama yang baru selesai sekitar jam 10-11 malam, dan menanyakan apakah itu masih memungkinkan untuk jadwal diskusi kelompok malam itu ("win baru nyadar gw tuh ada mentoring agama... kayaknya kelarnya jam 10/11 gt winn, aman kahh"). Rekan kelompok (WS) awalnya kaget ("HAH malam bener"), namun setelah saya konfirmasi ulang bahwa diskusi rencananya mulai jam 8 malam, kelompok akhirnya sepakat menjadwalkan ulang diskusi ke keesokan harinya. Ini merupakan eksekusi nyata dari rencana "menyampaikan jam-jam yang tidak bisa diganggu sejak awal proyek" yang saya rumuskan di episode sebelumnya dan bukan lagi sekadar niat, melainkan tindakan yang benar-benar saya lakukan dan direspons oleh tim.
 
 ## Self-assessment
 
@@ -96,7 +105,7 @@ Karena episode ini bersifat proses batin (intra-self communication), tidak ada a
 | Objective & State | 4 | Mengelola tiga objective sekaligus (tugas, batas pribadi, relasi tim) beserta uncertainty soal niat sebenarnya di balik perilaku rekan yang tidak pernah terverifikasi |
 | Repertoire, Language & AI | 4 | Repertoire beradaptasi luwes (dari diam menjadi rencana asertif) dengan batas dan rationale AI yang jelas |
 | Response & Adaptation | 4 | Sinyal lemah (sensasi tubuh) terbaca dan dipakai untuk memutus loop reaktif dan digantikan loop baru sinyal→cek fakta→pilih respons |
-| Agreement, Action & Relationship | 4 | Trade-off (waktu pribadi vs tenggat), batas otoritas, dan rencana repair untuk proyek berikutnya dikelola secara eksplisit |
+| Agreement, Action & Relationship | 4 | Trade-off (waktu pribadi vs tenggat), batas otoritas, dan rencana repair untuk proyek berikutnya dikelola secara eksplisit dan realisasi nyata sudah dilakukan pada 4 Mei 2026 (lihat evidence tambahan) |
 
 **Total: 20/20 — Lanjut.** Seluruh dimensi menunjukkan analisis yang melampaui deskripsi dasar: power/otoritas, uncertainty, trade-off, dan sinyal lemah semuanya dibaca dan direspons secara sadar dalam satu episode.
 
