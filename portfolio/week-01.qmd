@@ -97,7 +97,7 @@ Ada satu ketidakpastian yang saya sadari saat itu: saya bukan ketua kelompok, ja
 ::: {.evidence-block}
 Screenshot spesifik dari momen pair programming dengan Mitra K tidak tersimpan karena diskusi dan penyelesaian error handling terjadi secara langsung (tatap muka). Repository Tugas Besar juga sudah tidak lagi dapat diakses untuk melampirkan commit log terkait. Sebagai gambaran pola kolaborasi dengan Mitra K pada periode pengerjaan yang sama, berikut chat koordinasi terkait saling membantu mengecek pekerjaan sebelum tenggat:
 
-![Screenshot chat koordinasi dengan Mitra K](images/bukti-chat.jpeg){width="50%"}
+![Screenshot chat koordinasi dengan Mitra K](https://rosianna-maria.github.io/kipp-students/portfolio/images/bukti-chat.jpeg)
 
 Kontribusi pribadi: dalam episode pair programming yang dianalisis, saya berperan sebagai driver/navigator saat menyusun ulang logic penanganan error pada modul yang menjadi tanggung jawab Mitra K, sementara Mitra K menjelaskan konteks bug dan memvalidasi hasil test case secara langsung di layar yang sama. Bagian yang murni kontribusi saya adalah perbaikan logic error handling tersebut, bukan keseluruhan modul yang tetap menjadi tanggung jawab Mitra K.
 :::
