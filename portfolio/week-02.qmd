@@ -62,9 +62,9 @@ Karena episode ini bersifat proses batin (intra-self communication), tidak ada a
 
 **Bukti realisasi rencana (tambahan pasca-revisi):**
 
-![Percakapan proyek kelompok Literasi Data dan Inteligensi Artifisial soal pembagian tugas](images/week-02-diskusi-proyek.jpeg){width="50%"}
+![Percakapan proyek kelompok Literasi Data dan Inteligensi Artifisial soal pembagian tugas](https://rosianna-maria.github.io/kipp-students/portfolio/images/week-02-diskusi-proyek.jpeg){width="50%"}
 
-![Saya menyampaikan jadwal mentoring agama dan menanyakan kesediaan menyesuaikan jadwal diskusi, 4 Mei 2026](images/week-02-batas-waktu.jpeg){width="50%"}
+![Saya menyampaikan jadwal mentoring agama dan menanyakan kesediaan menyesuaikan jadwal diskusi, 4 Mei 2026](https://rosianna-maria.github.io/kipp-students/portfolio/images/week-02-batas-waktu.jpeg){width="50%"}
 
 Screenshot kedua menunjukkan realisasi nyata dari rencana "next practice" pada episode sebelumnya: saya secara proaktif menyampaikan batas waktu pribadi (jadwal mentoring agama) ke grup proyek Literasi Data dan Inteligensi Artifisial pada 4 Mei 2026, alih-alih memendamnya seperti pola lama. Kelompok merespons dengan menyesuaikan jadwal diskusi ke keesokan harinya.
 
