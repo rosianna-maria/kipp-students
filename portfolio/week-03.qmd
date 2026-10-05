@@ -53,7 +53,7 @@ Evidence lengkap (lembar kerja penuh, catatan Bagian A–C, dan rubrik evaluasi 
 
 **Konfirmasi pasca-sesi (tambahan pasca-revisi):** Karena gawai disimpan selama sesi berlangsung (sesuai instruksi Langkah 1), detail sensorik yang saya catat murni berdasarkan ingatan segera setelah sesi. Untuk memvalidasi akurasi detail tersebut secara independen, saya mengirim pesan konfirmasi ke Mitra K **setelah** sesi selesai (bukan merekam selama sesi), menanyakan apakah detail nada suara, bahasa tubuh, dan ekspresi wajah yang saya catat sesuai dengan ingatannya sendiri:
 
-![Konfirmasi tertulis dari Mitra K soal detail sensorik dalam sesi](https://rosianna-maria.github.io/kipp-students/portfolio/images/week-03-konfirmasi-mitra.jpeg){width="60%"}
+![Konfirmasi tertulis dari Mitra K soal detail sensorik dalam sesi](images/week-03-konfirmasi-mitra.jpeg){width="60%"}
 
 Mitra K mengonfirmasi ketiga detail secara eksplisit: nada suara yang melembek dan menunduk saat menyebut "kerjaanku nggak kelihatan", ekspresi saya yang sempat terlihat seperti "mau buru-buru kasih solusi" di awal sesi, dan bahwa repair saya justru meningkatkan kepercayaannya. Ini bukan rekaman audio/video (yang memang dilarang instruksi), melainkan korroborasi independen dari pihak kedua yang hadir langsung di sesi, mengurangi risiko detail tersebut murni hasil rekonstruksi satu arah dari ingatan saya atau saran AI semata.
 
