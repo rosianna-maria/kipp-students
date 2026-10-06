@@ -22,7 +22,7 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 [Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-**Nama Mahasiswa     :** Rosianna Maria Aviv Silalahi 
+**Nama Mahasiswa     :** Rosianna Maria Aviv Silalahi  
 **Tanggal Pengerjaan :** 26 September 2026
 
 ## Bagian A: Peta 5 Domain Kehidupan
@@ -33,8 +33,8 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 | 2. Keluarga / Sahabat | Anak rantau dari Kota Batam | Orang tua dan keluarga di rumah | Menjaga kedekatan meski jarak jauh dan memberi kabar yang jujur |
 | 3. Profesional / Akademik | Anggota tim proyek Tugas Besar Algoritma dan Pemrograman 1 | Rekan satu kelompok tugas besar | Menyelesaikan deliverable tepat waktu dan selaras dengan tim |
 | 4. Komunitas / Kelompok | Anggota aktif komunitas teknis (GDGOC ITB, URO, dan HMIF) | Sesama anggota komunitas di masing-masing organisasi | Berkontribusi ide, ikut kegiatan/latihan, dan berkolaborasi dengan gaya kerja yang beragam |
-| 5. Dunia / Publik | Mentor OSKM ITB |  Mentee OSKM ITB | Membimbing dengan jujur dan bertanggung jawab dan menyesuaikan komunikasi dengan kebutuhan mentee |
- 
+| 5. Dunia / Publik | Mentor OSKM ITB | Mentee OSKM ITB | Membimbing dengan jujur dan bertanggung jawab dan menyesuaikan komunikasi dengan kebutuhan mentee |
+
 ## Lima character
 
 | Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
@@ -82,24 +82,26 @@ Peran A: **Anggota Tim Proyek** — Peran B: **Anak / Sahabat Pendengar**. Dua p
 
 ## Episode yang dianalisis
 
+> **Catatan:** Percakapan ini terjadi secara tatap muka. Karena tidak ada rekaman, bagian dialog di bawah ditulis sebagai rekonstruksi dari percakapan yang saya ingat, bukan diklaim sebagai transkrip kata-per-kata.
+
 > **Saya:** "Sebelum kita atur ulang jadwal, boleh cerita apa yang bikin bagian ini masih tertahan?"  
 > **Mitra K:** "Aku masih bingung di bagian penanganan error-nya, coba beberapa kali masih gagal test case."  
 > **Saya:** "Oke, berarti hambatannya di logic error handling, bukan soal waktu ya?"  
 > **Mitra K:** "Iya, betul."  
 > **Saya:** "Aku bisa bantu review bagian itu malam ini atau kita pair programming sebentar. Mana yang lebih membantu?"
 
-Respons Mitra K mengubah repertoire saya dari sekadar menagih perkembangan menjadi problem solving bersama. Kesepakatan akhirnya: kami pair programming dua jam, modul selesai sebelum tenggat dan test case ikut disesuaikan.
+Dari respons Mitra K, saya mengubah repertoire dari sekadar menagih perkembangan menjadi problem solving bersama. Saya tidak langsung mengulang tuntutan tenggat karena ternyata state yang sebenarnya bukan "tidak mengerjakan", melainkan "sudah mencoba tetapi masih gagal di error handling". Pilihan pair programming juga memberi ruang untuk melihat bagian yang benar-benar menjadi hambatan, bukan hanya menebak dari progres yang belum selesai.
 
-Ada satu ketidakpastian yang saya sadari saat itu: saya bukan ketua kelompok, jadi secara otoritas saya sebenarnya tidak berwenang penuh mengubah tenggat internal tim. Saya memutuskan menawarkan bantuan personal (pair programming) dulu tanpa menunggu keputusan ketua kelompok dengan trade-off mengorbankan waktu belajar saya sendiri malam itu dan risiko yang saya terima sadar karena dampaknya ke keberhasilan tim lebih besar daripada risiko ke jadwal pribadi saya. Saya juga memperhatikan Mitra K sempat menjawab lebih pelan dan ragu-ragu ("masih bingung") yang merupakan sinyal bahwa masalahnya mungkin lebih dalam dari sekadar teknis, jadi saya memilih pair programming (bukan hanya review) agar bisa membaca reaksinya langsung dan menyesuaikan bantuan secara real-time.
+Kesepakatan akhirnya adalah kami melakukan pair programming sekitar dua jam. Modul kemudian selesai sebelum tenggat dan test case ikut disesuaikan.
+
+Ada dua hal yang saya baca sebagai konteks penting. Pertama, saya bukan ketua kelompok sehingga saya tidak punya otoritas formal untuk mengubah tenggat internal. Karena itu saya menawarkan bantuan yang berada dalam kendali saya sendiri, lalu tetap mengomunikasikan hasilnya kepada ketua kelompok. Kedua, jawaban Mitra K yang "masih bingung" dan disampaikan dengan lebih pelan menjadi sinyal bahwa saya sebaiknya tidak langsung menganggap masalahnya sebagai kurang disiplin. Saya memilih bertanya dan membantu lebih dulu sebelum membuat penilaian.
 
 ## Evidence
 
 ::: {.evidence-block}
-Screenshot spesifik dari momen pair programming dengan Mitra K tidak tersimpan karena diskusi dan penyelesaian error handling terjadi secara langsung (tatap muka). Repository Tugas Besar juga sudah tidak lagi dapat diakses untuk melampirkan commit log terkait. Sebagai gambaran pola kolaborasi dengan Mitra K pada periode pengerjaan yang sama, berikut chat koordinasi terkait saling membantu mengecek pekerjaan sebelum tenggat:
+Bukti langsung dari episode pair programming tidak tersimpan karena diskusi dan penyelesaian error handling terjadi secara tatap muka. Repository Tugas Besar juga sudah tidak lagi dapat diakses sehingga saya tidak dapat melampirkan commit log terkait.
 
-![Screenshot chat koordinasi dengan Mitra K](https://rosianna-maria.github.io/kipp-students/portfolio/images/bukti-chat.jpeg)
-
-Kontribusi pribadi: dalam episode pair programming yang dianalisis, saya berperan sebagai driver/navigator saat menyusun ulang logic penanganan error pada modul yang menjadi tanggung jawab Mitra K, sementara Mitra K menjelaskan konteks bug dan memvalidasi hasil test case secara langsung di layar yang sama. Bagian yang murni kontribusi saya adalah perbaikan logic error handling tersebut, bukan keseluruhan modul yang tetap menjadi tanggung jawab Mitra K.
+**Kontribusi pribadi:** dalam episode yang dianalisis, saya berperan sebagai driver/navigator saat menyusun ulang logic penanganan error pada modul yang menjadi tanggung jawab Mitra K. Mitra K menjelaskan konteks bug dan memvalidasi hasil test case di layar yang sama. Bagian yang menjadi kontribusi saya adalah perbaikan logic error handling, bukan keseluruhan modul.
 :::
 
 ## Perubahan language
@@ -130,21 +132,23 @@ Sebagai **anggota tim proyek**, saya akan berkata, "Bagian ini butuh selesai seb
 
 **Feedback yang diterima:** "Menurut Mitra A, cara saya menangani situasi ini sudah cukup baik dan meyakinkan, tetapi saya masih perlu melatih kesabaran serta terus memperdalam pemahaman teknis saya." -A
 
-**Adaptation/replay:** Setelah menyadari reaksi awal saya (menganggap rekan "kurang disiplin") adalah story bukan fact, saya mengubah pendekatan dari menagih menjadi bertanya klarifikasi dulu dan hasilnya kesepakatan tercapai lebih cepat dan relasi tim tetap terjaga.
+Feedback ini saya gunakan bukan sebagai bukti bahwa semua keputusan saya sudah benar, tetapi sebagai cermin untuk melihat pola yang masih perlu diperbaiki. Masukan tentang kesabaran sesuai dengan hal yang saya sadari dalam episode: saya punya kecenderungan ingin segera menyelesaikan masalah ketika melihat pekerjaan tertahan.
 
-**Next practice:** Berlatih menahan diri untuk tidak langsung menyimpulkan/menawarkan solusi sebelum benar-benar memahami hambatan orang lain, sesuai sasaran pertumbuhan di Bagian C.
+**Adaptation/replay:** Jika menghadapi situasi yang sama, saya akan tetap mulai dengan pertanyaan klarifikasi sebelum menilai penyebab keterlambatan. Perbedaannya, saya juga akan memberi waktu lebih banyak untuk lawan bicara menjelaskan sebelum masuk ke solusi. Dengan begitu, saya tidak hanya berpindah dari "menagih" ke "membantu", tetapi benar-benar memastikan bantuan yang saya tawarkan sesuai dengan kebutuhan orang tersebut.
+
+**Next practice:** Selama empat minggu, saya akan menggunakan pola sederhana: **tanya → dengarkan → rangkum → baru tawarkan solusi**. Saya akan memperhatikan terutama situasi ketika saya sudah merasa tahu penyebab masalah sebelum orang tersebut selesai menjelaskan.
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 4 | Person, character, dan relationship dipetakan di lima domain; perubahan power (saya bukan pemegang otoritas tenggat) dan context (hambatan teknis, bukan kedisiplinan) dibaca eksplisit |
-| Objective & State | 4 | State awal, state tujuan, dan ketidakpastian (apakah hambatan murni teknis atau ada faktor lain) dikelola sekaligus |
-| Repertoire, Language & AI | 4 | Repertoire beradaptasi luwes (dari menagih menjadi problem-solving) dengan batas AI yang jelas dan alasan pemakaiannya dijelaskan |
-| Response & Adaptation | 4 | Sinyal lemah (jawaban ragu-ragu Mitra K) terbaca dan mengubah pilihan dari sekadar review menjadi pair programming langsung |
-| Agreement, Action & Relationship | 4 | Trade-off (waktu pribadi vs kebutuhan tim), batas otoritas, dan rencana lapor ke ketua kelompok dikelola secara eksplisit |
+| Person & Character | 4 | Lima domain menunjukkan perubahan character sesuai konteks; pada episode utama saya membedakan fakta keterlambatan dari asumsi "kurang disiplin". |
+| Objective & State | 4 | State awal, hambatan aktual, tujuan, dan batas otoritas saya dijelaskan sehingga perubahan tindakan punya alasan yang jelas. |
+| Repertoire, Language & AI | 4 | Repertoire berubah dari menagih menjadi bertanya, mendengarkan, lalu menawarkan bantuan; penggunaan AI dibatasi pada penyuntingan dan pengujian kejelasan. |
+| Response & Adaptation | 4 | Respons "masih bingung" menjadi sinyal yang mengubah tindakan saya dari reminder menjadi pair programming. |
+| Agreement, Action & Relationship | 4 | Ada pilihan tindakan yang konkret, trade-off waktu pribadi, kesadaran batas wewenang, serta tindak lanjut untuk menjaga hubungan kerja. |
 
-**Total: 20/20 — Lanjut.** Seluruh dimensi menunjukkan analisis yang melampaui deskripsi dasar: power/otoritas, uncertainty, trade-off, dan sinyal lemah semuanya dibaca dan direspons secara sadar dalam satu episode.
+**Total self-assessment: 20/20 — Lanjut.** Analisis tidak berhenti pada apa yang terjadi, tetapi menjelaskan bagaimana saya membaca konteks, mengubah repertoire, dan menentukan tindakan berikutnya.
 
 ::: {.assessor-only}
 ### Assessment dosen
