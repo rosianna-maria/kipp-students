@@ -1419,100 +1419,177 @@
   {
     "objectID": "portfolio/week-08.html",
     "href": "portfolio/week-08.html",
-    "title": "UTS Performance Evidence Package",
+    "title": "Desire-State Communication",
     "section": "",
-    "text": "Mengintegrasikan person recognition, state recognition, repertoire, language, response, dan adaptation.",
+    "text": "Membangun desired state bersama target dan menghubungkannya dengan solution secara kredibel.",
     "crumbs": [
       "Beranda",
-      "UTS Performance Evidence Package"
+      "Desire-State Communication"
     ]
   },
   {
     "objectID": "portfolio/week-08.html#kompetensi-target",
     "href": "portfolio/week-08.html#kompetensi-target",
-    "title": "UTS Performance Evidence Package",
+    "title": "Desire-State Communication",
     "section": "",
-    "text": "Mengintegrasikan person recognition, state recognition, repertoire, language, response, dan adaptation.",
+    "text": "Membangun desired state bersama target dan menghubungkannya dengan solution secara kredibel.",
     "crumbs": [
       "Beranda",
-      "UTS Performance Evidence Package"
+      "Desire-State Communication"
     ]
   },
   {
     "objectID": "portfolio/week-08.html#evidence-wajib",
     "href": "portfolio/week-08.html#evidence-wajib",
-    "title": "UTS Performance Evidence Package",
+    "title": "Desire-State Communication",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nPerformance card dan initial state.\nRekaman/transcript serta observer sheet.\nFeedback, replay, evidence improvement, dan reflection.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 8 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nCurrent dan desired state milik person.\nFeature–benefit–value–outcome chain.\nRisk, evidence threshold, response, dan adaptation.",
     "crumbs": [
       "Beranda",
-      "UTS Performance Evidence Package"
+      "Desire-State Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-08.html#person-dan-current-state",
+    "href": "portfolio/week-08.html#person-dan-current-state",
+    "title": "Desire-State Communication",
+    "section": "1. Person dan Current State",
+    "text": "1. Person dan Current State\nPerson yang dianalisis adalah Ali, pengelola usaha kecil dalam simulasi komunikasi KIPP. Ali menghadapi pertanyaan pelanggan yang berulang, risiko pesanan terlewat, dan keterbatasan jumlah staf.\nKondisi tersebut menunjukkan bahwa proses pelayanan dan pengelolaan pesanan masih menghadapi tantangan. Sebelum menentukan solusi, saya perlu memahami proses kerja Ali, masalah yang paling sering muncul, serta keterbatasan biaya, waktu, dan kemampuan staf.",
+    "crumbs": [
+      "Beranda",
+      "Desire-State Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-08.html#desired-state",
+    "href": "portfolio/week-08.html#desired-state",
+    "title": "Desire-State Communication",
+    "section": "2. Desired State",
+    "text": "2. Desired State\nKondisi yang ingin dicapai adalah proses pelayanan pelanggan dan pengelolaan pesanan yang lebih teratur dan efisien. Staf diharapkan dapat menangani pertanyaan berulang dengan lebih mudah, sementara pesanan dapat dicatat dan dipantau secara lebih sistematis.\nDesired state ini perlu disepakati bersama Ali agar solusi yang ditawarkan benar-benar sesuai dengan kebutuhan dan prioritasnya.",
+    "crumbs": [
+      "Beranda",
+      "Desire-State Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-08.html#featurebenefitvalueoutcome-chain",
+    "href": "portfolio/week-08.html#featurebenefitvalueoutcome-chain",
+    "title": "Desire-State Communication",
+    "section": "3. Feature–Benefit–Value–Outcome Chain",
+    "text": "3. Feature–Benefit–Value–Outcome Chain\n\nFeature: Teknologi sederhana untuk membantu menjawab pertanyaan pelanggan yang berulang dan mencatat pesanan.\nBenefit: Staf dapat mengurangi pekerjaan berulang dan memantau pesanan dengan lebih mudah.\nValue: Waktu dan tenaga yang terbatas dapat digunakan secara lebih efektif.\nOutcome: Pelayanan pelanggan menjadi lebih konsisten dan pengelolaan pesanan lebih teratur.\n\nRangkaian ini menjelaskan hubungan antara fitur solusi dan hasil yang diharapkan. Namun, outcome tersebut masih berupa target dan perlu dibuktikan melalui penerapan serta evaluasi.",
+    "crumbs": [
+      "Beranda",
+      "Desire-State Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-08.html#risk-dan-evidence-threshold",
+    "href": "portfolio/week-08.html#risk-dan-evidence-threshold",
+    "title": "Desire-State Communication",
+    "section": "4. Risk dan Evidence Threshold",
+    "text": "4. Risk dan Evidence Threshold\n\nRisk\nRisiko yang mungkin muncul adalah solusi tidak sesuai dengan kebutuhan Ali, biaya penerapan terlalu tinggi, staf kesulitan menggunakan teknologi, atau sistem baru justru menambah kompleksitas pekerjaan.\n\n\nEvidence Threshold\nKeberhasilan solusi perlu dievaluasi berdasarkan indikator yang relevan, seperti frekuensi pesanan terlewat, waktu penanganan pertanyaan pelanggan, dan feedback dari Ali serta staf. Data kondisi awal diperlukan sebagai pembanding sebelum menyimpulkan adanya perbaikan.",
+    "crumbs": [
+      "Beranda",
+      "Desire-State Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-08.html#response-dan-adaptation",
+    "href": "portfolio/week-08.html#response-dan-adaptation",
+    "title": "Desire-State Communication",
+    "section": "5. Response dan Adaptation",
+    "text": "5. Response dan Adaptation\n\nResponse\nSaya akan mendengarkan kebutuhan Ali, merangkum masalah yang disampaikan, dan mengonfirmasi apakah pemahaman saya sudah tepat. Setelah itu, saya akan menjelaskan pilihan solusi beserta manfaat, keterbatasan, dan konsekuensi penerapannya.\n\n\nAdaptation\nApabila solusi terlalu rumit atau belum memberikan manfaat yang diharapkan, saya akan mengevaluasi kembali kebutuhan Ali dan menyesuaikan pendekatan. Penyesuaian dapat berupa penyederhanaan fitur, pengujian pada satu masalah terlebih dahulu, atau pemilihan alternatif yang lebih sesuai.",
+    "crumbs": [
+      "Beranda",
+      "Desire-State Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-08.html#refleksi",
+    "href": "portfolio/week-08.html#refleksi",
+    "title": "Desire-State Communication",
+    "section": "6. Refleksi",
+    "text": "6. Refleksi\nSaya belajar bahwa membangun desired state bukan hanya tentang menjelaskan kondisi ideal, tetapi juga memastikan bahwa kondisi tersebut relevan bagi person. Solusi perlu dihubungkan dengan manfaat yang benar-benar dibutuhkan, bukan sekadar fitur teknologi yang tersedia.\nSaya juga perlu membedakan antara hasil yang diharapkan dan hasil yang telah terbukti. Dengan menentukan indikator keberhasilan, mempertimbangkan risiko, dan terbuka terhadap feedback, saya dapat menyampaikan solusi secara lebih kredibel dan menyesuaikannya berdasarkan kebutuhan person.",
+    "crumbs": [
+      "Beranda",
+      "Desire-State Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-08.html#batasan-evidence",
+    "href": "portfolio/week-08.html#batasan-evidence",
+    "title": "Desire-State Communication",
+    "section": "7. Batasan Evidence",
+    "text": "7. Batasan Evidence\nAnalisis ini menggunakan kasus simulasi Ali. Belum tersedia bukti implementasi nyata maupun data pengukuran sebelum dan sesudah penerapan solusi. Karena itu, manfaat dan outcome yang dibahas masih merupakan target yang perlu diuji.\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 9 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "crumbs": [
+      "Beranda",
+      "Desire-State Communication"
     ]
   },
   {
     "objectID": "portfolio/week-08.html#konteks-performance",
     "href": "portfolio/week-08.html#konteks-performance",
-    "title": "UTS Performance Evidence Package",
+    "title": "Desire-State Communication",
     "section": "Konteks performance",
     "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
     "crumbs": [
       "Beranda",
-      "UTS Performance Evidence Package"
+      "Desire-State Communication"
     ]
   },
   {
     "objectID": "portfolio/week-08.html#evidence",
     "href": "portfolio/week-08.html#evidence",
-    "title": "UTS Performance Evidence Package",
+    "title": "Desire-State Communication",
     "section": "Evidence",
     "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
     "crumbs": [
       "Beranda",
-      "UTS Performance Evidence Package"
+      "Desire-State Communication"
     ]
   },
   {
     "objectID": "portfolio/week-08.html#analisis-komunikasi",
     "href": "portfolio/week-08.html#analisis-komunikasi",
-    "title": "UTS Performance Evidence Package",
+    "title": "Desire-State Communication",
     "section": "Analisis komunikasi",
     "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
     "crumbs": [
       "Beranda",
-      "UTS Performance Evidence Package"
+      "Desire-State Communication"
     ]
   },
   {
     "objectID": "portfolio/week-08.html#penggunaan-ai",
     "href": "portfolio/week-08.html#penggunaan-ai",
-    "title": "UTS Performance Evidence Package",
+    "title": "Desire-State Communication",
     "section": "Penggunaan AI",
     "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
     "crumbs": [
       "Beranda",
-      "UTS Performance Evidence Package"
+      "Desire-State Communication"
     ]
   },
   {
     "objectID": "portfolio/week-08.html#feedback-dan-tindak-lanjut",
     "href": "portfolio/week-08.html#feedback-dan-tindak-lanjut",
-    "title": "UTS Performance Evidence Package",
+    "title": "Desire-State Communication",
     "section": "Feedback dan tindak lanjut",
     "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
     "crumbs": [
       "Beranda",
-      "UTS Performance Evidence Package"
+      "Desire-State Communication"
     ]
   },
   {
     "objectID": "portfolio/week-08.html#self-assessment",
     "href": "portfolio/week-08.html#self-assessment",
-    "title": "UTS Performance Evidence Package",
+    "title": "Desire-State Communication",
     "section": "Self-assessment",
     "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
-      "UTS Performance Evidence Package"
+      "Desire-State Communication"
     ]
   },
   {
@@ -1839,7 +1916,7 @@
     "href": "portfolio/index.html",
     "title": "Indeks Portfolio",
     "section": "",
-    "text": "Perbarui metadata di bagian atas setiap file week-XX.qmd. Nilai status yang disarankan: Belum dimulai, Draft, Siap dinilai, Perlu revisi, atau Tercapai.\n\n\n\n\n\n\nTipButuh contoh?\n\n\n\nLihat contoh portfolio lengkap untuk Minggu 1–15. Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Urut berdasar\n      Default\n      \n        Evidence\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nMinggu\n\n\n\nEvidence\n\n\n\nStatus\n\n\n\nSelf\n\n\n\nAssessor\n\n\n\n\n\n\n\n\n1\n\n\nCharacter Map\n\n\nSiap dinilai\n\n\n20/20 (Lanjut)\n\n\n—\n\n\n\n\n\n\n2\n\n\nIntra-Self Communication Journal\n\n\nSiap dinilai\n\n\n20/20 (Lanjut)\n\n\n—\n\n\n\n\n\n\n3\n\n\nRelationship Conversation\n\n\nSiap dinilai\n\n\n20/20 (Lanjut)\n\n\n—\n\n\n\n\n\n\n4\n\n\nFive-Language Translation Portfolio\n\n\nSiap dinilai\n\n\n20/20 (Lanjut)\n\n\n—\n\n\n\n\n\n\n5\n\n\nProfessional Discovery Interview\n\n\nSiap dinilai\n\n\n20/20 (Lanjut)\n\n\n—\n\n\n\n\n\n\n6\n\n\nTarget–Attention Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n7\n\n\nProblem–Solution Interest Pitch\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n8\n\n\nUTS Performance Evidence Package\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n10\n\n\nAction & Agreement Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n11\n\n\nMulti-Person Negotiation Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n12\n\n\nCommunity Communication Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n13\n\n\nPublic Contribution Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n14\n\n\nAI-Mediated Communication Design\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n15\n\n\nCapstone Performance Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\nTidak ada yang cocok\n Kembali ke atas",
+    "text": "Perbarui metadata di bagian atas setiap file week-XX.qmd. Nilai status yang disarankan: Belum dimulai, Draft, Siap dinilai, Perlu revisi, atau Tercapai.\n\n\n\n\n\n\nTipButuh contoh?\n\n\n\nLihat contoh portfolio lengkap untuk Minggu 1–15. Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Urut berdasar\n      Default\n      \n        Evidence\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nMinggu\n\n\n\nEvidence\n\n\n\nStatus\n\n\n\nSelf\n\n\n\nAssessor\n\n\n\n\n\n\n\n\n1\n\n\nCharacter Map\n\n\nSiap dinilai\n\n\n20/20 (Lanjut)\n\n\n—\n\n\n\n\n\n\n2\n\n\nIntra-Self Communication Journal\n\n\nSiap dinilai\n\n\n20/20 (Lanjut)\n\n\n—\n\n\n\n\n\n\n3\n\n\nRelationship Conversation\n\n\nSiap dinilai\n\n\n20/20 (Lanjut)\n\n\n—\n\n\n\n\n\n\n4\n\n\nFive-Language Translation Portfolio\n\n\nSiap dinilai\n\n\n20/20 (Lanjut)\n\n\n—\n\n\n\n\n\n\n5\n\n\nProfessional Discovery Interview\n\n\nSiap dinilai\n\n\n20/20 (Lanjut)\n\n\n—\n\n\n\n\n\n\n6\n\n\nTarget–Attention Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n7\n\n\nProblem–Solution Interest Pitch\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nSiap dinilai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n10\n\n\nAction & Agreement Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n11\n\n\nMulti-Person Negotiation Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n12\n\n\nCommunity Communication Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n13\n\n\nPublic Contribution Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n14\n\n\nAI-Mediated Communication Design\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n15\n\n\nCapstone Performance Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\nTidak ada yang cocok\n Kembali ke atas",
     "crumbs": [
       "Beranda",
       "Indeks Portfolio"
