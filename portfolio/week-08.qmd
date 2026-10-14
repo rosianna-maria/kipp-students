@@ -1,25 +1,76 @@
 ---
-title: "UTS Performance Evidence Package"
-week: 8
-status: "Belum dimulai"
+title: "Desire-State Communication"
+week: 9
+status: "Siap dinilai"
 self_score: "—"
 assessor_score: "—"
-description: "Integrated performance Target–Attention–Interest."
-categories: [Assessment, UTS]
+description: "Current state, desired state, value, evidence, dan risk."
+categories: [TAIDA, Desire]
 ---
 
 ## Kompetensi target
 
-Mengintegrasikan person recognition, state recognition, repertoire, language, response, dan adaptation.
+Membangun desired state bersama target dan menghubungkannya dengan solution secara kredibel.
 
 ## Evidence wajib
 
-- Performance card dan initial state.
-- Rekaman/transcript serta observer sheet.
-- Feedback, replay, evidence improvement, dan reflection.
+- Current dan desired state milik person.
+- Feature–benefit–value–outcome chain.
+- Risk, evidence threshold, response, dan adaptation.
+
+## 1. Person dan Current State
+
+Person yang dianalisis adalah Ali, pengelola usaha kecil dalam simulasi komunikasi KIPP. Ali menghadapi pertanyaan pelanggan yang berulang, risiko pesanan terlewat, dan keterbatasan jumlah staf.
+
+Kondisi tersebut menunjukkan bahwa proses pelayanan dan pengelolaan pesanan masih menghadapi tantangan. Sebelum menentukan solusi, saya perlu memahami proses kerja Ali, masalah yang paling sering muncul, serta keterbatasan biaya, waktu, dan kemampuan staf.
+
+## 2. Desired State
+
+Kondisi yang ingin dicapai adalah proses pelayanan pelanggan dan pengelolaan pesanan yang lebih teratur dan efisien. Staf diharapkan dapat menangani pertanyaan berulang dengan lebih mudah, sementara pesanan dapat dicatat dan dipantau secara lebih sistematis.
+
+Desired state ini perlu disepakati bersama Ali agar solusi yang ditawarkan benar-benar sesuai dengan kebutuhan dan prioritasnya.
+
+## 3. Feature–Benefit–Value–Outcome Chain
+
+- **Feature:** Teknologi sederhana untuk membantu menjawab pertanyaan pelanggan yang berulang dan mencatat pesanan.
+- **Benefit:** Staf dapat mengurangi pekerjaan berulang dan memantau pesanan dengan lebih mudah.
+- **Value:** Waktu dan tenaga yang terbatas dapat digunakan secara lebih efektif.
+- **Outcome:** Pelayanan pelanggan menjadi lebih konsisten dan pengelolaan pesanan lebih teratur.
+
+Rangkaian ini menjelaskan hubungan antara fitur solusi dan hasil yang diharapkan. Namun, outcome tersebut masih berupa target dan perlu dibuktikan melalui penerapan serta evaluasi.
+
+## 4. Risk dan Evidence Threshold
+
+### Risk
+
+Risiko yang mungkin muncul adalah solusi tidak sesuai dengan kebutuhan Ali, biaya penerapan terlalu tinggi, staf kesulitan menggunakan teknologi, atau sistem baru justru menambah kompleksitas pekerjaan.
+
+### Evidence Threshold
+
+Keberhasilan solusi perlu dievaluasi berdasarkan indikator yang relevan, seperti frekuensi pesanan terlewat, waktu penanganan pertanyaan pelanggan, dan feedback dari Ali serta staf. Data kondisi awal diperlukan sebagai pembanding sebelum menyimpulkan adanya perbaikan.
+
+## 5. Response dan Adaptation
+
+### Response
+
+Saya akan mendengarkan kebutuhan Ali, merangkum masalah yang disampaikan, dan mengonfirmasi apakah pemahaman saya sudah tepat. Setelah itu, saya akan menjelaskan pilihan solusi beserta manfaat, keterbatasan, dan konsekuensi penerapannya.
+
+### Adaptation
+
+Apabila solusi terlalu rumit atau belum memberikan manfaat yang diharapkan, saya akan mengevaluasi kembali kebutuhan Ali dan menyesuaikan pendekatan. Penyesuaian dapat berupa penyederhanaan fitur, pengujian pada satu masalah terlebih dahulu, atau pemilihan alternatif yang lebih sesuai.
+
+## 6. Refleksi
+
+Saya belajar bahwa membangun desired state bukan hanya tentang menjelaskan kondisi ideal, tetapi juga memastikan bahwa kondisi tersebut relevan bagi person. Solusi perlu dihubungkan dengan manfaat yang benar-benar dibutuhkan, bukan sekadar fitur teknologi yang tersedia.
+
+Saya juga perlu membedakan antara hasil yang diharapkan dan hasil yang telah terbukti. Dengan menentukan indikator keberhasilan, mempertimbangkan risiko, dan terbuka terhadap feedback, saya dapat menyampaikan solusi secara lebih kredibel dan menyesuaikannya berdasarkan kebutuhan person.
+
+## 7. Batasan Evidence
+
+Analisis ini menggunakan kasus simulasi Ali. Belum tersedia bukti implementasi nyata maupun data pengukuran sebelum dan sesudah penerapan solusi. Karena itu, manfaat dan outcome yang dibahas masih merupakan target yang perlu diuji.
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 8](../examples/week-08.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+[Buka contoh fiktif Minggu 9](../examples/week-09.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
 {{< include ../includes/evidence-template.md >}}
