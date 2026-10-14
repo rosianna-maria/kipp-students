@@ -1,0 +1,357 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3a — Kasus 3"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Rosianna Maria Aviv Silalahi |
+| NIM | 18225083 |
+| Kelas dan tanggal | K01; 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3a; Kasus 3 — Menawarkan Solusi TI dan AI |
+| Nama dan ID target | Dimas (K3-04) |
+| Versi bank/aturan penugasan | Bank 2.0; paket individual 2.0; penugasan sesuai `PENUGASAN.md` |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif |
+| Kelengkapan transkrip | Parsial dalam arti hanya percakapan yang tersedia di sesi ini yang dicatat; seluruh pesan yang tersedia dari Tahap B sampai konfirmasi dan uji ulang disertakan. Tidak ada transkrip eksternal yang diklaim. |
+| Status identitas | Data sesuai konfirmasi mahasiswa; bukan verifikasi identitas independen. |
+| Status pengumpulan | Berkas ini disiapkan untuk diunduh dan diunggah sendiri oleh mahasiswa; tidak dikirim ke portal. |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+**Brief kasus.** Mahasiswa berperan sebagai komunikator yang menawarkan solusi teknologi informasi dan kecerdasan buatan (AI) kepada Dimas, calon pelanggan. Tugas komunikator ialah memahami kebutuhan dan kendala sebelum menyarankan solusi, menjelaskan manfaat serta batas teknologi secara relevan, mempertimbangkan risiko dan kemampuan pengguna, serta mengupayakan langkah tindak lanjut yang realistis tanpa memaksakan persetujuan.
+
+**Tujuan mahasiswa.** Memahami kebutuhan dan kendala Dimas sebelum menawarkan solusi TI/AI. Indikator keberhasilan yang dinyatakan mahasiswa:
+1. Dimas bersedia menjelaskan masalah dan kebutuhan.
+2. Mahasiswa memahami serta mengonfirmasi kendala.
+3. Kesesuaian solusi dapat dinilai bersama.
+4. Jika relevan, disepakati tindak lanjut realistis seperti demonstrasi singkat atau diskusi lanjutan.
+5. Keputusan Dimas untuk menunda atau tidak melanjutkan tetap dihormati.
+
+**Hasil yang teramati.** Dalam simulasi, Dimas akhirnya menyatakan bersedia mempertimbangkan percobaan terbatas dan setuju hasilnya hanya digunakan untuk evaluasi. Percakapan menyepakati rencana simulatif selama 30 menit pada Jumat, 16 Oktober 2026 pukul 15.30, dengan laporan contoh yang disamarkan dan kriteria evaluasi. Ini bukan pemesanan kalender nyata dan bukan bukti uji coba telah berlangsung. Tujuan memahami kebutuhan dan menyepakati langkah awal tercapai sebagian; manfaat AI pada pekerjaan nyata belum terbukti dan Dimas belum berkomitmen menggunakan AI secara rutin.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Peluang: membantu menyelesaikan masalah pekerjaan. Ancaman: ketidakpercayaan terhadap AI, anggaran terbatas, atau ketidaksesuaian solusi. Kekuatan: mendengarkan dan menjelaskan dengan bahasa sederhana. Kelemahan: belum mengetahui kebutuhan Dimas secara langsung. | U002 | Laporan diri mahasiswa |
+| Attitude | Mahasiswa menyatakan ingin memahami kebutuhan terlebih dahulu, tidak memaksakan teknologi, dan menghargai keputusan calon pelanggan. | U002, U003, U005–U007 | Laporan diri; perilaku selaras tampak dalam transkrip |
+| Knowledge | Mahasiswa menyadari AI berpotensi membantu ringkasan dan pemeriksaan pola, tetapi dapat salah; hasil perlu diverifikasi dan keamanan data diperhatikan. | U003–U005, U007 | Pernyataan dan penerapan dalam simulasi; tidak mengukur pengetahuan teknis menyeluruh |
+| Skill | Mahasiswa dapat menggunakan pertanyaan terbuka, merangkum pilihan, merancang percobaan terbatas, dan menyebut ukuran evaluasi. Perlu menggali data dasar operasional lebih awal. | U003, U005–U007; refleksi U014 | Interpretasi berbasis transkrip dan refleksi mahasiswa |
+| Preferensi/MBTI jika dilaporkan | Tidak ada preferensi pribadi/hasil MBTI mahasiswa yang dilaporkan. Tidak dilakukan diagnosis MBTI. | Tidak dilaporkan | Tidak tersedia |
+| Karakter, peran, kultur/ko-kultur | Peran yang dijalankan mahasiswa adalah komunikator profesional kepada calon pelanggan. Mahasiswa berusaha menghormati otonomi dan memberi alasan yang dapat diuji. | U003–U007 | Interpretasi perilaku komunikasi; bukan penetapan identitas budaya |
+
+## Dugaan awal profil target dan rencana
+
+**Sebelum pengungkapan profil target**, mahasiswa menduga Dimas mungkin tertarik pada manfaat teknologi tetapi khawatir tentang biaya, keamanan data, kesulitan penggunaan, serta membutuhkan informasi tentang manfaat, cara kerja, keterbatasan, kesiapan teknis, waktu, sumber daya, dan dukungan (U002). Ini adalah dugaan awal, bukan fakta yang telah diverifikasi.
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Memahami masalah dan tujuan Dimas sebelum menawarkan solusi | A: menghormati pilihan; K: memahami proses kerja; S: menggali kondisi nyata | Pertanyaan terbuka tentang pekerjaan dan kendala | Dimas menjelaskan proses dan masalah |
+| Attention | Menghubungkan percakapan dengan masalah yang dianggap relevan oleh Dimas | A/K: tidak berasumsi bahwa AI pasti dibutuhkan | Mendengar dan mengklarifikasi masalah | Dimas mengenali isu yang layak diperiksa |
+| Interest | Menilai kemungkinan solusi untuk laporan rutin | K: manfaat dan batas AI; S: kemampuan dan waktu penerapan | Menjelaskan contoh penggunaan terbatas, bertanya tentang proses saat ini | Minat dan pertanyaan spesifik |
+| Desire | Menilai manfaat relatif terhadap risiko dan usaha | A/K/S: transparansi, akurasi, keamanan, biaya, pemeriksaan manusia | Uji coba terbatas dengan kriteria yang disepakati | Kesediaan mempertimbangkan percobaan, tanpa memaksa keputusan |
+| Action | Menetapkan langkah yang realistis dan dapat dievaluasi | S: persiapan, tanggung jawab, dukungan, indikator | Menyepakati laporan contoh, durasi, dan ukuran keberhasilan | Rencana tindak lanjut eksplisit; pelaksanaan belum diasumsikan |
+
+# C) Skrip Percakapan
+
+**Catatan transkrip.** Pesan mahasiswa disalin dari percakapan yang tersedia. Pesan Dimas adalah respons tokoh simulasi yang dimainkan asisten. Penanda tahap ditambahkan untuk navigasi; ID mengikuti urutan kronologis pesan dalam transkrip yang tersedia. Respons Dimas tidak merepresentasikan orang nyata.
+
+## Tahap B — Kasus dan tujuan
+
+**U001 — Mahasiswa (tujuan komunikasi)**
+
+Tujuan utama saya adalah memahami kebutuhan dan kendala Dimas sebelum menawarkan solusi TI atau AI yang sesuai. Saya ingin memastikan bahwa solusi yang ditawarkan benar-benar relevan dengan masalahnya, bukan sekadar mempromosikan teknologi.
+
+Indikator keberhasilan saya adalah Dimas bersedia menjelaskan masalah dan kebutuhannya, saya mampu memahami serta mengonfirmasi kendala yang dihadapinya, dan kami dapat menilai apakah solusi yang ditawarkan sesuai dengan kondisinya. Jika sesuai, saya ingin menyepakati tindak lanjut yang realistis, seperti demonstrasi singkat atau diskusi lebih lanjut. Namun, saya juga akan menghargai jika Dimas belum ingin melanjutkan. Bagi saya, keberhasilan komunikasi bukan hanya mendapatkan persetujuan, tetapi membangun pemahaman dan kepercayaan.
+
+**U002 — Mahasiswa (dugaan awal dan rencana komunikasi)**
+
+Menurut saya, Dimas mungkin tertarik pada teknologi TI dan AI karena dapat membantu pekerjaannya, tetapi ia juga mungkin memiliki kekhawatiran tentang biaya, keamanan data, atau kesulitan penggunaan. Dari aspek *Attitude*, saya perlu memahami pandangannya terhadap teknologi. Dari aspek *Knowledge*, saya perlu mengetahui informasi apa yang ia butuhkan tentang manfaat, cara kerja, dan keterbatasan solusi. Dari aspek *Skill*, saya perlu menggali kesiapan teknis, waktu, sumber daya, dan dukungan yang tersedia untuk penerapannya.
+
+Dalam analisis SWOT subjektif, peluang saya adalah membantu Dimas menemukan solusi untuk masalah yang sedang dihadapinya. Ancaman yang mungkin muncul adalah ketidakpercayaan terhadap AI, keterbatasan anggaran, atau ketidaksesuaian solusi dengan kebutuhannya. Kekuatan saya adalah kesediaan untuk mendengarkan dan menjelaskan teknologi dengan bahasa sederhana, sedangkan kelemahan saya adalah belum mengetahui kebutuhan Dimas secara langsung.
+
+Saya akan memulai dengan tahap *Target* dalam TAIDA, yaitu memahami tujuan dan masalah Dimas. Selanjutnya, saya akan membangun *Attention* dengan membahas masalah yang relevan, mengembangkan *Interest* melalui penjelasan solusi yang sesuai, dan mengeksplorasi *Desire* dengan menunjukkan manfaat serta mempertimbangkan kendalanya. Jika Dimas tertarik, saya akan mengajak menyepakati *Action* berupa tindak lanjut yang realistis.
+
+Untuk menguji dugaan awal tersebut, saya akan membuka percakapan dengan pertanyaan terbuka, misalnya, “Boleh cerita tentang tantangan yang sedang Anda hadapi dan bagian mana yang paling ingin diperbaiki?” Saya akan mendengarkan jawabannya, mengajukan pertanyaan lanjutan, lalu mengonfirmasi pemahaman saya sebelum menawarkan solusi. Jika Dimas menyampaikan keberatan, saya akan berusaha memahami alasannya dan memberikan penjelasan yang relevan tanpa memaksakan keputusan atau menjanjikan bahwa teknologi pasti menyelesaikan semua masalah.
+
+## Tahap C — Simulasi awal
+
+**AI001 — Dimas (pembukaan simulasi)**
+
+“Halo. Katanya Anda ingin menjelaskan tentang solusi TI dan AI, ya? Terus terang, saya masih belum terlalu paham apa manfaatnya untuk saya. Sekarang pun saya masih bisa menjalankan pekerjaan seperti biasa. Jadi, sebenarnya teknologi seperti ini bisa membantu saya dalam hal apa?”
+
+**U003 — Mahasiswa**
+
+Halo, Pak Dimas. Terima kasih sudah terbuka soal hal ini. Menurut saya, kalau pekerjaan Bapak sekarang masih berjalan dengan baik, kita tidak perlu langsung mengubah cara kerja yang sudah ada. Solusi TI dan AI seharusnya membantu menyelesaikan masalah yang memang ada, bukan sekadar menggunakan teknologi karena sedang berkembang.
+Supaya saya bisa menjelaskan manfaat yang relevan, boleh saya tahu sedikit tentang pekerjaan Bapak sehari-hari? Apakah ada proses yang cukup menyita waktu, sering dilakukan berulang kali, atau terkadang mengalami kendala? Dari situ, kita bisa melihat apakah ada bagian yang memang bisa dibantu teknologi, atau justru belum ada kebutuhan yang mendesak untuk menggunakannya.
+
+**AI002 — Dimas**
+
+“Hmm, kalau pekerjaan sehari-hari, sebenarnya ada beberapa hal yang cukup menyita waktu. Saya harus mengurus data dan membuat laporan secara rutin. Kadang-kadang saya juga perlu memeriksa ulang data karena takut ada kesalahan.
+
+Tapi saya belum yakin kalau menggunakan AI itu benar-benar bisa membantu. Saya juga khawatir kalau nanti malah jadi lebih rumit atau data yang saya gunakan tidak aman.
+
+Menurut Anda, apakah masalah seperti itu memang bisa dibantu dengan teknologi AI? Dan apakah penggunaannya tidak akan membuat pekerjaan saya semakin sulit?”
+
+**U004 — Mahasiswa**
+
+Menurut saya, Pak Dimas, masalah seperti pengolahan data, pembuatan laporan rutin, dan pemeriksaan kesalahan memang berpotensi dibantu oleh teknologi AI. Misalnya, AI bisa membantu merangkum data, menyusun draf laporan, atau menandai data yang terlihat tidak konsisten untuk diperiksa kembali. Namun, hasilnya tetap perlu diverifikasi karena AI juga bisa membuat kesalahan.
+Saya juga memahami kekhawatiran Bapak tentang kerumitan dan keamanan data. Penggunaan AI tidak harus langsung mengubah seluruh cara kerja. Kita bisa mulai dari satu proses sederhana yang tidak menggunakan data sensitif, lalu melihat apakah teknologi tersebut benar-benar menghemat waktu dan mudah digunakan. Untuk keamanan, kita juga perlu memeriksa bagaimana layanan yang dipilih menyimpan dan mengolah data, serta memastikan data rahasia tidak dimasukkan sembarangan.
+Sebelum saya menyarankan solusi tertentu, boleh saya tahu bagaimana Bapak biasanya mengolah data dan membuat laporan saat ini? Apakah sebagian besar masih dilakukan secara manual menggunakan spreadsheet, atau sudah menggunakan aplikasi tertentu? Dengan begitu, saya bisa menilai apakah AI memang diperlukan atau ada solusi yang lebih sederhana.
+
+**AI003 — Dimas**
+
+“Saat ini saya lebih banyak menggunakan spreadsheet untuk mengolah data. Untuk laporan, biasanya saya mengambil data dari beberapa tabel, memeriksa angkanya, lalu menyusunnya menjadi laporan. Proses itu cukup memakan waktu, terutama ketika datanya banyak.
+
+Saya memang tertarik kalau ada cara yang bisa membuat pekerjaan lebih cepat. Tetapi saya tidak ingin harus belajar aplikasi yang terlalu rumit atau mengeluarkan biaya besar untuk sesuatu yang belum tentu bermanfaat.
+
+Kalau misalnya saya ingin mencoba, menurut Anda sebaiknya mulai dari mana? Apakah saya harus langsung menggunakan aplikasi AI khusus, atau ada cara yang lebih sederhana terlebih dahulu?”
+
+**U005 — Mahasiswa**
+
+Menurut saya, Pak Dimas, sebaiknya kita mulai dari cara yang paling sederhana terlebih dahulu, jadi Bapak tidak perlu langsung membeli aplikasi AI khusus atau mengubah seluruh proses kerja.
+Karena Bapak sudah terbiasa menggunakan spreadsheet, kita bisa mulai dengan mengevaluasi proses yang paling banyak memakan waktu, misalnya menggabungkan data dari beberapa tabel atau memeriksa angka yang tidak konsisten. Jika spreadsheet yang Bapak gunakan sudah memiliki fitur otomatisasi yang cukup, mungkin kita bisa memanfaatkannya terlebih dahulu. Kalau masih ada kendala yang belum teratasi, barulah kita mempertimbangkan bantuan AI untuk tugas tertentu, seperti membuat draf ringkasan laporan.
+Saya menyarankan kita mencoba satu proses kecil menggunakan data contoh yang tidak sensitif, lalu membandingkan waktu pengerjaan, ketepatan hasil, dan kemudahan penggunaannya dengan cara Bapak saat ini. Dengan begitu, Bapak bisa menilai manfaatnya sebelum mengeluarkan biaya atau berkomitmen menggunakan aplikasi tertentu.
+Boleh saya tahu, dari proses menggabungkan data, memeriksa angka, dan menyusun laporan, bagian mana yang paling banyak menyita waktu Bapak? Kita bisa mulai dari bagian itu agar percobaannya lebih terarah.
+
+**AI004 — Dimas**
+
+“Kalau dipikir-pikir, bagian yang paling menyita waktu itu menyusun laporan. Data dari beberapa tabel sebenarnya sudah tersedia, tetapi saya harus merapikannya, memeriksa angka-angkanya, lalu menulis ringkasan agar mudah dipahami.
+
+Saya tertarik mencoba cara yang lebih cepat. Namun, saya masih punya dua pertanyaan. Pertama, bagaimana saya bisa memastikan ringkasan yang dibuat AI tidak mengandung kesalahan? Kedua, kalau percobaan itu ternyata berhasil, bagaimana cara mengetahui apakah manfaatnya sepadan dengan biaya dan waktu yang dikeluarkan?
+
+Saya tidak ingin hanya melihat hasil yang kelihatannya bagus, tetapi ternyata masih membutuhkan banyak pemeriksaan tambahan.”
+
+**U006 — Mahasiswa**
+
+Pertanyaan Bapak sangat masuk akal. Menurut saya, kita perlu menilai bukan hanya seberapa cepat AI membuat ringkasan, tetapi juga seberapa akurat hasilnya dan berapa banyak pekerjaan tambahan yang masih diperlukan.
+Untuk memastikan ringkasannya tidak mengandung kesalahan, kita bisa menggunakan data contoh yang sudah diketahui kebenarannya, lalu membandingkan hasil AI dengan angka dan informasi pada tabel sumber. Kita juga bisa memeriksa apakah setiap kesimpulan didukung oleh data yang tersedia. AI sebaiknya digunakan untuk membantu menyusun ringkasan, bukan menggantikan pemeriksaan manusia, terutama jika laporan tersebut digunakan untuk mengambil keputusan penting.
+Untuk mengetahui apakah manfaatnya sepadan, kita bisa melakukan percobaan pada satu laporan terlebih dahulu. Kita catat waktu yang dibutuhkan dengan cara biasa, lalu bandingkan dengan waktu menggunakan AI, termasuk waktu untuk memeriksa dan memperbaiki hasilnya. Kita juga perlu memperhitungkan biaya aplikasi dan kemudahan penggunaannya. Jika penghematan waktunya kecil atau hasilnya membutuhkan terlalu banyak pemeriksaan tambahan, berarti solusi tersebut perlu dievaluasi lagi.
+Bagaimana kalau kita mulai dengan satu contoh laporan yang tidak mengandung data sensitif, lalu menetapkan kriteria keberhasilan sebelum percobaan? Misalnya, hasil harus tetap akurat, waktu pengerjaan total berkurang, dan prosesnya tidak terlalu rumit. Apakah pendekatan seperti itu sesuai dengan yang Bapak butuhkan, atau ada hal lain yang ingin Bapak pastikan terlebih dahulu?
+
+**AI005 — Dimas**
+
+“Ya, pendekatan itu terdengar masuk akal. Saya suka karena kita tidak langsung mengeluarkan biaya atau mengubah cara kerja yang sudah ada.
+
+Tetapi saya ingin tahu satu hal lagi. Kalau hasil percobaannya bagus, apakah saya harus terus bergantung pada AI untuk membuat laporan? Saya khawatir kalau suatu saat sistemnya bermasalah, saya justru kesulitan menyelesaikan pekerjaan sendiri.
+
+Selain itu, saya juga tidak punya banyak waktu untuk belajar hal baru. Bagaimana supaya percobaan ini tetap sederhana dan tidak mengganggu pekerjaan rutin saya?”
+
+**U007 — Mahasiswa**
+
+Saya paham kekhawatiran Bapak. Menurut saya, AI sebaiknya menjadi alat bantu, bukan sesuatu yang membuat Bapak kehilangan kemampuan untuk menyusun laporan secara mandiri. Karena itu, kita tetap perlu mempertahankan proses manual yang sudah Bapak kuasai sebagai alternatif jika sistem bermasalah. Bapak juga perlu memahami cara memeriksa hasil AI agar tetap bisa menilai apakah ringkasannya benar, bukan sekadar menerima hasilnya begitu saja.
+Supaya tidak mengganggu pekerjaan rutin, saya menyarankan percobaan yang kecil saja. Kita pilih satu laporan rutin dan gunakan data contoh yang tidak sensitif. Saya bisa membantu menyiapkan panduan singkat berisi langkah penggunaan dan pemeriksaan hasilnya, sehingga Bapak tidak perlu mempelajari banyak fitur sekaligus. Kita juga bisa membatasi waktu percobaan, misalnya 30 menit, lalu mengevaluasi apakah prosesnya cukup mudah dan memberikan manfaat.
+Bagaimana kalau kita mulai dengan percobaan singkat selama 30 menit pada waktu yang Bapak pilih, lalu membandingkan hasilnya dengan cara kerja biasa? Setelah itu, Bapak bisa memutuskan apakah percobaan tersebut layak dilanjutkan, perlu disesuaikan, atau tidak perlu digunakan. Apakah rencana ini cocok dengan jadwal Bapak, atau ada waktu lain yang lebih memungkinkan?
+
+**AI006 — Dimas**
+
+“Baiklah, saya rasa percobaan selama 30 menit masih memungkinkan, asalkan tidak mengganggu pekerjaan saya.
+
+Saya lebih nyaman melakukannya pada hari Jumat sore. Sebelum itu, saya ingin tahu apa saja yang perlu saya siapkan supaya waktunya tidak terbuang hanya untuk mengatur aplikasi.
+
+Kalau setelah dicoba ternyata hasilnya cukup baik, saya bersedia mempertimbangkan langkah selanjutnya. Tetapi saya ingin melihat hasilnya terlebih dahulu sebelum memutuskan menggunakan AI secara rutin.”
+
+**U008 — Mahasiswa**
+
+Baik, Pak Dimas. Terima kasih atas kesediaan Bapak untuk mencoba pendekatan ini. Jadi, kita sepakat untuk melakukan uji coba terbatas selama 30 menit pada Jumat sore, dengan fokus membantu penyusunan ringkasan laporan. Tujuannya adalah melihat apakah prosesnya lebih cepat, hasilnya tetap akurat, dan penggunaannya cukup mudah tanpa mengganggu pekerjaan rutin Bapak.
+Agar waktunya efektif, Bapak cukup menyiapkan satu contoh laporan beserta data pendukung yang tidak mengandung informasi sensitif. Jika memungkinkan, siapkan juga contoh laporan yang sudah selesai sebagai pembanding untuk memeriksa ketepatan ringkasan. Saya akan menyiapkan panduan singkat dan opsi alat yang bisa dicoba tanpa harus langsung membeli atau berlangganan layanan.
+Saat uji coba, kita akan membandingkan waktu pengerjaan, ketepatan hasil, dan banyaknya pemeriksaan tambahan yang diperlukan. Setelah itu, kita evaluasi bersama apakah percobaan ini memberikan manfaat yang nyata. Jika hasilnya belum sesuai, kita bisa memperbaiki pendekatannya atau berhenti tanpa kewajiban melanjutkan.
+Apakah Jumat sore ini sudah sesuai dengan jadwal Bapak? Jika iya, kita bisa menyepakati jam yang paling nyaman. Untuk saat ini, belum ada keputusan untuk menggunakan AI secara rutin; keputusan tersebut baru akan dipertimbangkan setelah Bapak melihat hasil uji cobanya.
+
+**AI007 — Dimas**
+
+“Ya, Jumat sore cocok untuk saya. Bagaimana kalau pukul 15.30? Saya akan menyiapkan satu contoh laporan beserta data pendukung yang sudah disamarkan.
+
+Saya juga setuju kita menggunakan kriteria yang tadi dibahas: waktu pengerjaan, ketepatan ringkasan, dan kemudahan penggunaan. Kalau hasilnya baik, kita bisa membicarakan langkah berikutnya setelah evaluasi.
+
+Terima kasih sudah menjelaskan dengan cara yang tidak memaksa. Saya jadi lebih nyaman untuk mencoba.”
+
+## Tahap D — Evaluasi dan refleksi sementara
+
+**U009 — Mahasiswa (refleksi pilihan)**
+
+Aspek paling berhasil: Menangani keberatan dan membangun kepercayaan.
+
+Aspek yang perlu ditingkatkan: Menggali kondisi dan kebutuhan secara lebih spesifik.
+
+Refleksi pribadi: Saya belajar bahwa komunikasi dengan calon pelanggan bukan sekadar meyakinkan mereka untuk menggunakan teknologi, melainkan memahami kebutuhan, mendengarkan kekhawatiran, dan membantu mereka mengambil keputusan berdasarkan informasi yang cukup. Saya juga menyadari bahwa solusi yang baik tidak selalu harus menggunakan teknologi yang paling canggih, tetapi harus sesuai dengan kebutuhan dan kemampuan pengguna.
+
+Pada kesempatan berikutnya, saya akan lebih banyak mengajukan pertanyaan terbuka sebelum menawarkan solusi. Saya juga akan berusaha menetapkan ukuran keberhasilan yang lebih spesifik sejak awal, misalnya membandingkan waktu pengerjaan laporan sebelum dan sesudah uji coba serta memeriksa ketepatan hasilnya. Dengan demikian, rekomendasi yang saya berikan akan lebih terarah, realistis, dan dapat dipertanggungjawabkan.
+
+**AI008 — Fasilitator (evaluasi berbasis bukti)**
+
+Evaluasi sementara menyimpulkan bahwa mahasiswa berulang kali mengakui keterbatasan AI, menghormati pilihan Dimas, dan mengusulkan uji coba terbatas. Area pengembangan yang menonjol adalah penggalian data dasar operasional lebih awal. Dimas bersedia mempertimbangkan uji coba dalam skenario, tetapi tidak berkomitmen menggunakan AI secara rutin.
+
+**AI009 — Fasilitator (pertanyaan refleksi relasional)**
+
+“Pesan apa yang menurut Anda paling membantu atau justru menghambat Dimas merasa dipercaya dan dipedulikan, dan apa bukti responsnya dalam percakapan?”
+
+**U010 — Mahasiswa (dugaan relasional sebelum pengungkapan profil)**
+
+Menurut saya, pesan yang paling membantu adalah ketika saya menegaskan bahwa kita tidak perlu mengubah cara kerja jika belum ada kebutuhan, dan ketika saya menawarkan percobaan terbatas tanpa kewajiban membeli atau berlangganan. Respons Dimas menjadi lebih terbuka: ia menjelaskan proses kerja, mengungkapkan kekhawatiran, dan bersedia mempertimbangkan uji coba. Saya menafsirkan ini sebagai tanda bahwa pendekatan yang tidak memaksa membantu menjaga keterbukaan. Saya tidak dapat memastikan perasaan batinnya; yang dapat saya tunjukkan adalah respons yang muncul dalam percakapan.
+
+## Pengungkapan profil target setelah simulasi awal
+
+Profil konfigurasi simulasi K3-04 menyebut Dimas sebagai penilai teknis/pengelola usaha dalam peran calon pelanggan. Preferensi komunikasi fiktifnya berorientasi pada alasan kritis, otonomi, logika ringkas, dan ukuran keberhasilan. Hambatan yang ditetapkan: A — meragukan akurasi serta klaim manfaat; K — memerlukan data, ukuran, dan batas solusi; S — memerlukan evaluasi terukur dan kendali manusia, dengan waktu implementasi terbatas. Profil ini adalah konfigurasi tokoh fiktif, bukan diagnosis psikologis orang nyata.
+
+Perbandingan dengan dugaan awal: dugaan mahasiswa tentang kekhawatiran akurasi, biaya, keamanan, dan kerumitan sebagian selaras dengan respons tokoh. Kebutuhan akan ukuran keberhasilan dan kontrol manusia juga muncul jelas. Dugaan awal tetap dicatat sebagaimana diajukan sebelum pengungkapan; keselarasan ini tidak mengubah dugaan menjadi fakta tentang orang nyata.
+
+## Tahap E — Uji ulang
+
+**AI010 — Dimas (kendala lanjutan untuk uji ulang)**
+
+“Saya sudah memikirkan rencana kita. Masalahnya, saya khawatir hasil percobaan nanti terlihat bagus hanya karena kita memakai contoh laporan yang sederhana. Dalam pekerjaan sehari-hari, datanya bisa lebih berantakan dan saya tetap harus bertanggung jawab atas hasil akhirnya.
+
+Saya tidak ingin menghabiskan waktu mencoba sesuatu yang hasilnya belum tentu bisa diterapkan pada pekerjaan saya. Bagaimana Anda menyarankan kita menguji manfaatnya secara adil tanpa mengambil risiko yang tidak perlu?”
+
+**U011 — Mahasiswa (respons uji ulang)**
+
+Saya memahami kekhawatiran Bapak. Kalau kita hanya menggunakan contoh laporan yang sederhana, hasil percobaan memang belum tentu menggambarkan kondisi pekerjaan sehari-hari. Karena itu, menurut saya, kita perlu menguji solusi ini secara bertahap dengan kondisi yang lebih mendekati pekerjaan Bapak, tetapi tetap aman.
+Kita bisa mulai dengan satu laporan lama yang sudah selesai, menggunakan data yang telah disamarkan, lalu memilih contoh yang memiliki tingkat kerumitan yang cukup mewakili pekerjaan Bapak. Sebelum mencoba AI, kita tentukan terlebih dahulu hasil yang diharapkan dan cara menilainya. Setelah itu, kita bandingkan ringkasan AI dengan laporan yang sudah diverifikasi, termasuk ketepatan angka, kesesuaian isi dengan data sumber, waktu pengerjaan total, dan waktu yang diperlukan untuk memeriksa atau memperbaiki hasilnya.
+Saya juga menyarankan agar hasil AI tidak langsung digunakan untuk laporan resmi atau pengambilan keputusan. Bapak tetap memegang kendali untuk memeriksa hasilnya, dan jika ada informasi yang tidak sesuai atau manfaatnya tidak terbukti, kita tidak perlu melanjutkan penggunaan AI. Dengan cara ini, kita bisa memperoleh bukti yang lebih relevan tanpa mengambil risiko yang tidak perlu.
+Sebelum menentukan contoh laporan, boleh saya tahu apakah Bapak memiliki laporan terdahulu yang cukup mewakili kondisi pekerjaan sehari-hari, tetapi bisa digunakan tanpa membuka informasi rahasia? Jika ada, kita bisa menjadikannya bahan uji dan menetapkan kriteria keberhasilan bersama sebelum percobaan dimulai.
+
+**AI011 — Dimas (respons uji ulang)**
+
+“Ya, saya punya beberapa laporan lama yang bisa digunakan sebagai contoh. Saya bisa memilih satu laporan yang cukup mewakili pekerjaan sehari-hari dan memastikan data yang sensitif sudah dihapus atau disamarkan.
+
+Saya setuju kita membandingkan hasil AI dengan laporan yang sudah diverifikasi. Saya juga ingin memastikan bahwa waktu untuk memeriksa dan memperbaiki hasil ikut dihitung, bukan hanya waktu membuat ringkasannya.
+
+Kalau begitu, saya bersedia mencoba dengan ketentuan bahwa hasilnya hanya untuk evaluasi, bukan langsung dipakai sebagai laporan resmi. Setelah itu, kita lihat bersama apakah manfaatnya benar-benar terbukti.”
+
+## Tahap F — Hasil dan refleksi akhir
+
+**U012 — Mahasiswa (perubahan ASK)**
+
+Selama sesi ini, saya belajar bahwa sikap yang penting dalam menawarkan solusi TI dan AI adalah terbuka terhadap kekhawatiran calon pelanggan dan tidak memaksakan solusi yang belum tentu dibutuhkan. Dari aspek pengetahuan, saya memahami bahwa AI memiliki manfaat sekaligus keterbatasan, sehingga hasilnya tetap perlu diperiksa dan keamanan data harus diperhatikan. Dari aspek keterampilan, saya belajar menyusun uji coba yang lebih terukur dengan membandingkan waktu pengerjaan, ketepatan hasil, dan kemudahan penggunaan. Saya juga menyadari bahwa saya perlu menggali kebutuhan pelanggan secara lebih spesifik sebelum menentukan solusi.
+
+**U013 — Mahasiswa (SWOT akhir)**
+
+Penilaian SWOT saya menjadi lebih jelas setelah simulasi. Kekuatan saya adalah kemampuan mendengarkan kekhawatiran Dimas, menjelaskan solusi dengan bahasa sederhana, dan menghormati keputusannya. Kelemahan saya adalah belum menggali data dasar mengenai kondisi pekerjaannya sejak awal, seperti waktu yang dibutuhkan untuk membuat laporan dan frekuensi kesalahan. Peluangnya adalah teknologi dapat membantu mempercepat penyusunan laporan, tetapi manfaat tersebut belum terbukti sebelum uji coba dilakukan. Sementara itu, ancamannya meliputi risiko kesalahan AI, keamanan data, biaya, dan kemungkinan proses baru justru menambah pekerjaan. Karena itu, saya perlu memastikan bahwa solusi yang ditawarkan benar-benar sesuai dengan kebutuhan dan dapat memberikan manfaat yang terukur.
+
+**U014 — Mahasiswa (stimulus efektif/kurang efektif)**
+
+Pesan yang menurut saya paling efektif adalah ketika saya menjelaskan bahwa AI sebaiknya membantu menyusun ringkasan, bukan menggantikan pemeriksaan manusia. Saya juga menawarkan uji coba terbatas menggunakan data yang tidak sensitif tanpa mewajibkan Dimas membeli atau berlangganan layanan. Respons Dimas menunjukkan bahwa ia semakin bersedia berdiskusi: ia menyetujui percobaan terbatas dan bersedia menyiapkan laporan yang datanya telah disamarkan. Pada uji ulang, ia juga menyetujui evaluasi berdasarkan ketepatan hasil dan waktu pengerjaan, termasuk waktu pemeriksaan dan perbaikan.
+
+Hal yang masih perlu saya perbaiki adalah penggalian kebutuhan operasional yang lebih terperinci sejak awal. Saya seharusnya menanyakan waktu pengerjaan laporan saat ini, tingkat kerumitan data, dan kendala yang paling sering terjadi sebelum menyusun rencana uji coba. Dengan demikian, pembicaraan tidak hanya menghasilkan kesepakatan, tetapi juga memiliki dasar pengukuran yang lebih kuat.
+
+**U015 — Mahasiswa (perubahan relasional dan pencapaian tujuan)**
+
+Pada awal percakapan, Dimas mempertanyakan manfaat AI karena pekerjaannya masih dapat berjalan seperti biasa. Setelah saya menggali kebutuhannya dan menjelaskan manfaat serta keterbatasan teknologi, ia mulai menjelaskan kendala dalam mengolah data dan menyusun laporan. Ia kemudian menyampaikan kekhawatiran mengenai akurasi, keamanan, biaya, dan ketergantungan pada AI. Saya menanggapi kekhawatiran tersebut dengan menawarkan percobaan kecil, menjaga kendali manusia, dan menetapkan kriteria evaluasi yang jelas.
+
+Bukti percakapan menunjukkan bahwa Dimas akhirnya bersedia mempertimbangkan uji coba terbatas dan menyepakati bahwa hasilnya hanya digunakan untuk evaluasi. Menurut interpretasi saya, perubahan respons ini menunjukkan bahwa pendekatan yang tidak memaksa dan berfokus pada kebutuhan membantu menjaga keterbukaan dalam percakapan. Namun, tujuan baru tercapai sebagian, yaitu memahami kebutuhan dan menyepakati rencana pengujian. Manfaat AI dalam pekerjaan nyata belum terbukti karena uji coba belum dilakukan, dan Dimas belum memutuskan untuk menggunakannya secara rutin. Pada kesempatan berikutnya, saya akan menggali kondisi awal dengan lebih terukur dan memastikan bahwa rekomendasi didasarkan pada hasil evaluasi, bukan hanya perkiraan manfaat.
+
+**U016 — Mahasiswa (konfirmasi Tahap G)**
+
+Saya mengonfirmasi ringkasan laporan Sesi 3a. Buat `hasil_3a_18225083.qmd` sesuai template asli dan seluruh aturan `PENUGASAN.md` versi 2.0. Pertahankan transkrip aktual, empat bagian utama A–D, evaluasi berbasis bukti, skor BT bila tidak sah ditetapkan, serta bobot UTS. Jangan mengklaim pengiriman ke portal.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+**Status tujuan: tercapai sebagian.** Mahasiswa memperoleh informasi tentang proses kerja Dimas (spreadsheet, pengambilan data dari beberapa tabel, pemeriksaan angka, penyusunan ringkasan), merespons beberapa hambatan yang disebutkan, dan menyepakati rencana uji coba dalam simulasi. Belum ada bukti bahwa uji coba terjadi, bahwa waktu benar-benar berkurang, atau bahwa AI sesuai untuk penggunaan rutin.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Peluang membantu masalah kerja; ancaman skeptisisme, biaya dan ketidaksesuaian; kekuatan mendengarkan/menjelaskan; kelemahan belum tahu kebutuhan. | SWOT lebih spesifik: perlu mengukur waktu dan frekuensi kesalahan; manfaat masih hipotesis; ancaman juga mencakup keamanan, kesalahan, dan tambahan pekerjaan. | U002, U013 | Laporan diri mahasiswa; interpretasi berbasis jawaban |
+| Attitude | Menyatakan tidak ingin memaksakan teknologi dan menghargai keputusan pelanggan. | Tetap berorientasi pada otonomi, transparansi, dan risiko yang dapat diterima. | U002–U008, U011, U015 | Pernyataan dan perilaku dalam simulasi; bukan bukti sikap jangka panjang |
+| Knowledge | Mengetahui kemungkinan penggunaan AI, tetapi perlu menguji kebutuhan dan batas. | Menjelaskan verifikasi terhadap sumber, penyamaran data, biaya, dan keterbatasan AI; hasil tetap perlu evaluasi. | U004–U006, U011, U012 | Demonstrasi penjelasan dalam skenario; bukan pengujian pengetahuan teknis formal |
+| Skill | Pertanyaan terbuka dan pendekatan bertahap; data dasar belum digali di awal. | Dalam uji ulang, mengusulkan contoh lebih representatif, hasil pembanding terverifikasi, dan menghitung waktu koreksi. | U003–U008, U011, U014 | Demonstrasi komunikasi dalam teks; tidak membuktikan keterampilan implementasi AI nyata |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| Awal, AI001–AI002 / U003 | Status awal simulatif: keraguan tampak dari pertanyaan tentang manfaat; respons berikutnya lebih terbuka dan menyebut masalah laporan. | Mengakui tidak perlu mengubah cara kerja bila belum ada kebutuhan; pertanyaan terbuka tentang proses harian. | Dimas menjelaskan pengolahan data, laporan rutin, dan kekhawatiran. | A: keterbukaan dalam simulasi meningkat; K/S masih belum teratasi. | Menggali konteks sebelum rekomendasi. |
+| Penjelasan batas, U004 / AI003 | Dimas melanjutkan dengan detail tentang spreadsheet dan proses laporan. | Menjelaskan penggunaan AI yang mungkin, menyebut kesalahan dan keamanan data, lalu bertanya tentang alat saat ini. | Dimas menjelaskan spreadsheet dan kendala merapikan data serta menulis ringkasan. | K: pemahaman masalah lebih jelas; S: belum dibuktikan ada kemampuan menerapkan solusi. | Meminta detail proses yang digunakan. |
+| Pilihan bertahap, U005–U006 | Dimas mengidentifikasi penyusunan laporan sebagai bagian paling menyita waktu dan menanyakan akurasi serta biaya/waktu. | Menyarankan evaluasi spreadsheet terlebih dahulu, percobaan kecil, dan perbandingan waktu/ketepatan/kemudahan. | Dimas mengajukan pertanyaan kritis tentang hasil dan manfaat bersih. | K: kebutuhan bukti lebih spesifik; A: masih berhati-hati. | Memperluas kriteria dari kecepatan ke akurasi dan pekerjaan koreksi. |
+| Kontrol manusia, U007–U008 | Dimas menyatakan uji coba 30 menit memungkinkan dan mengusulkan Jumat sore. | Mempertahankan proses manual, menyiapkan panduan, memberi opsi berhenti, dan tidak menuntut komitmen rutin. | Dimas menyepakati rencana dalam skenario dan menyebut persiapan data. | A/keterbukaan dan kesiapan mencoba membaik secara simulatif; keterampilan nyata belum teramati. | Membuat langkah kecil dan membatasi risiko. |
+| Uji ulang, U011 / AI011 | Dimas menerima laporan terdahulu yang representatif, pembandingan dengan laporan terverifikasi, dan penggunaan untuk evaluasi saja. | Mengusulkan data disamarkan, tingkat kerumitan representatif, kriteria sebelum tes, waktu total dan koreksi, serta larangan penggunaan resmi. | Dimas menyetujui pendekatan dan menyatakan tanggung jawab atas hasil tetap penting. | Adaptasi tampak lebih kuat: rencana pengujian lebih adil dan terukur. | Menanggapi keberatan baru tanpa mengulang promosi atau memaksa persetujuan. |
+
+**Batas diagnosis profil.** Konfigurasi tokoh menetapkan tiga hambatan: A (keraguan terhadap akurasi/manfaat), K (butuh bukti, ukuran, dan batas solusi), dan S (butuh evaluasi terukur serta kontrol manusia). Respons simulasi konsisten dengan hambatan tersebut. Kategori ini hanya status karakter fiktif untuk asesmen; tidak digunakan untuk mendiagnosis orang nyata atau menyimpulkan tipe MBTI mahasiswa.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U003 / AI002 | “Kalau pekerjaan Bapak sekarang masih berjalan dengan baik, kita tidak perlu langsung mengubah cara kerja yang sudah ada.” | Dimas kemudian menjelaskan masalah rutin dan kekhawatiran. | Status awal: rendah–sedang (indikasi skeptis dari AI001); setelahnya keterbukaan tampak meningkat ke sedang. | Ada perubahan respons dalam skenario; tidak mengukur perasaan batin. |
+| U004–U005 / AI003–AI004 | Mengakui risiko kesalahan, keamanan, kerumitan, dan menyarankan mulai dari proses sederhana. | Dimas menguraikan proses spreadsheet dan kendala laporan secara lebih rinci. | Keterbukaan sedang–tinggi dalam konteks percakapan simulasi; kepercayaan jangka panjang tidak diketahui. | Pengakuan kekhawatiran diikuti informasi lebih rinci; tidak membuktikan bahwa semua risiko telah teratasi. |
+| U006–U007 / AI005–AI006 | Mengajak mengukur waktu total termasuk koreksi, mempertahankan proses manual, dan tidak mengikat keputusan. | Dimas menyetujui percobaan kecil serta mengungkap keterbatasan waktu. | Merasa dipahami/dipedulikan: indikasi sedang–tinggi berdasarkan respons yang menyebut pendekatan masuk akal dan tidak mengganggu rutinitas. | Otonomi dan tanggung jawab dijaga; kategori adalah catatan simulator, bukan skala psikometri. |
+| U008 / AI007 | Menyatakan tidak ada kewajiban membeli/berlangganan dan meminta konfirmasi jadwal. | Dimas memilih Jumat pukul 15.30 dalam skenario dan bersedia menyiapkan data yang disamarkan. | Kesediaan membuka informasi dan mempertimbangkan tindakan meningkat dalam skenario. | Kesediaan ini terbatas pada uji coba; tidak sama dengan persetujuan penggunaan rutin. |
+| U011 / AI011 | Mengusulkan tes representatif, hasil pembanding, kontrol manusia, dan kemungkinan berhenti jika manfaat tidak terbukti. | Dimas menerima syarat evaluasi dan menyebut laporan lama yang bisa disamarkan. | Keterbukaan dan kepercayaan situasional tampak bertahan pada uji ulang. | Konsistensi batas dan bantuan konkret tampak; motif batin tidak dapat dipastikan. |
+
+**Status relasional awal/akhir dalam simulasi:** pada awalnya Dimas menunjukkan keraguan dan meminta bukti; menjelang akhir ia lebih terbuka menjelaskan proses dan bersedia mempertimbangkan uji coba dengan syarat. Rasa aman, merasa dipahami, kepercayaan, dan keterbukaan ditaksir hanya secara kategoris berdasarkan respons tokoh simulasi; ini bukan ukuran psikologis independen.
+
+## Uji ulang dan pembelajaran
+
+Uji ulang menguji keberatan baru yang berkaitan dengan kebutuhan evaluasi terukur dan kendali manusia: contoh terlalu sederhana dapat menghasilkan kesimpulan yang tidak representatif. Mahasiswa merespons dengan mengusulkan laporan terdahulu yang cukup mewakili kondisi kerja, data disamarkan, laporan pembanding terverifikasi, kriteria ditetapkan sebelum percobaan, serta pengukuran waktu pengerjaan total termasuk pemeriksaan dan perbaikan.
+
+Dibanding simulasi awal, respons uji ulang lebih eksplisit tentang validitas contoh dan tanggung jawab atas hasil. Ini merupakan demonstrasi adaptasi komunikasi dalam teks, bukan bukti bahwa mahasiswa telah menjalankan uji coba atau mampu mengimplementasikan sistem AI.
+
+**Pembelajaran yang dilaporkan mahasiswa:** solusi yang baik harus sesuai kebutuhan dan kemampuan pengguna; komunikasi memerlukan mendengarkan kekhawatiran dan memberi informasi yang cukup; pada kesempatan berikutnya, mahasiswa akan menggali waktu pengerjaan, kerumitan data, dan sumber kesalahan sejak awal serta menetapkan ukuran keberhasilan lebih spesifik (U012–U015).
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | BT | U001, U003 | Tujuan dan konteks dijelaskan; skor formal belum ditetapkan tanpa moderasi rubrik. |
+| Persepsi dan validasi profil/status | BT | U002–U006, U013–U015 | Dugaan awal eksplisit dan beberapa pertanyaan validasi diajukan; penggalian data dasar masih terlambat. |
+| Pemilihan dan urutan repertoar | BT | U003–U008, U011 | Pergerakan dari eksplorasi ke uji terbatas dan tindak lanjut terlihat; skor sah memerlukan moderasi. |
+| Eksekusi jelas, peduli dan konsisten | BT | U003–U008, U011 | Mengakui batas, menghormati pilihan, dan menjaga kontrol manusia; bukti berupa simulasi teks. |
+| Evaluasi dan adaptasi | BT | U006, U011, U014–U015 | Uji ulang memperlihatkan adaptasi pada keberatan baru dan kriteria yang lebih terukur; belum ada tes nyata. |
+| Refleksi dan lesson learned | BT | U009–U010, U012–U015 | Refleksi diri, SWOT, stimulus, dan pencapaian tujuan dinyatakan rinci. Skor formal tetap memerlukan moderasi dosen. |
+
+**Nilai usulan AI: BT (belum dapat ditetapkan).** Tidak dihitung nilai sesi dari jumlah skor karena keenam skor formal belum ditetapkan secara sah. BT bukan nol. Semua usulan skor AI memerlukan moderasi dosen.
+
+## Refleksi dan lesson learned mahasiswa
+
+Refleksi mahasiswa menyatakan bahwa komunikasi dengan calon pelanggan bukan sekadar meyakinkan mereka untuk memakai teknologi, tetapi memahami kebutuhan, mendengarkan kekhawatiran, dan membantu mereka mengambil keputusan dengan informasi yang cukup. Mahasiswa belajar bahwa AI dapat membantu penyusunan ringkasan, tetapi hasil perlu diperiksa dan keamanan data diperhatikan. Dari aspek keterampilan, mahasiswa belajar menyusun uji coba terukur dengan membandingkan waktu pengerjaan, ketepatan, dan kemudahan.
+
+Mahasiswa menilai kekuatan utamanya adalah mendengarkan, menjelaskan dengan bahasa sederhana, dan menghormati keputusan Dimas. Kelemahan utamanya ialah belum menggali data dasar operasional sejak awal, seperti waktu penyusunan laporan dan frekuensi kesalahan. Peluang manfaat AI masih hipotesis; ancaman meliputi kesalahan AI, keamanan, biaya, dan tambahan pekerjaan.
+
+Stimulus yang dinilai efektif oleh mahasiswa adalah penjelasan bahwa AI membantu menyusun ringkasan dan tidak menggantikan pemeriksaan manusia, ditambah tawaran uji coba terbatas tanpa kewajiban membeli atau berlangganan. Bukti respons yang dikemukakan adalah Dimas bersedia mempertimbangkan uji coba, menyiapkan laporan yang disamarkan, dan menyepakati evaluasi waktu serta ketepatan. Interpretasi mahasiswa bahwa keterbukaan meningkat masuk akal dalam konteks skenario, tetapi tidak membuktikan perasaan batin tokoh atau perubahan relasi jangka panjang.
+
+## Tindak lanjut dan batas bukti
+
+| Unsur | Rencana/kondisi |
+|---|---|
+| Langkah berikutnya dalam simulasi | Uji coba terbatas 30 menit untuk membantu penyusunan ringkasan laporan |
+| Waktu yang disepakati dalam skenario | Jumat, 16 Oktober 2026 pukul 15.30 |
+| Persiapan | Satu laporan terdahulu yang cukup mewakili pekerjaan; data sensitif dihapus/disamarkan; laporan selesai yang terverifikasi sebagai pembanding bila tersedia |
+| Indikator | Ketepatan angka dan isi terhadap sumber; waktu pengerjaan total termasuk pemeriksaan/perbaikan; kemudahan penggunaan; biaya bila ada |
+| Batas penggunaan | Hasil hanya untuk evaluasi; tidak digunakan langsung untuk laporan resmi atau keputusan penting tanpa pemeriksaan manusia |
+| Keputusan setelah evaluasi | Lanjutkan, sesuaikan, atau berhenti berdasarkan hasil; belum ada komitmen penggunaan AI rutin |
+| Status pelaksanaan | Belum dilakukan; jadwal merupakan kesepakatan di dalam simulasi, bukan pemesanan kalender nyata |
+
+**Batas bukti umum:** transkrip merupakan simulasi teks dengan tokoh chatbot; tidak menilai prosodi atau bahasa tubuh, tidak membuktikan perubahan perilaku jangka panjang, dan tidak menunjukkan hasil bisnis aktual. Pengukuran manfaat baru dapat dilakukan jika uji coba benar-benar dijalankan dengan data yang aman.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100; belum tersedia |
+| Sesi 1 | 18% | BT — belum tersedia |
+| Sesi 2a | 18% | BT — belum tersedia |
+| Sesi 2b | 18% | BT — belum tersedia |
+| Sesi 3a | 18% | BT — enam skor sah belum tersedia |
+| Sesi 3b | 18% | BT — belum tersedia |
+| **Total** | **100%** | **Belum dihitung** |
+
+**Rumus nilai akhir UTS:**
+
+\[
+\text{Nilai akhir UTS}=0{,}10M+0{,}18(S1+S2a+S2b+S3a+S3b)
+\]
+
+Seluruh nilai komponen menggunakan skala 0–100. Nilai sesi hanya dihitung jika keenam skor sah tersedia, dengan rumus jumlah enam skor dibagi 24 dikali 100. BT berarti belum dapat ditetapkan, bukan nol. Bobot tidak dinormalisasi ulang untuk komponen yang belum tersedia. Rata-rata sesi 2a/2b dan 3a/3b boleh digunakan sebagai ringkasan kasus, tetapi tidak dihitung lagi sebagai komponen tambahan. Nilai akhir UTS tetap **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia. Semua usulan skor AI memerlukan moderasi dosen.

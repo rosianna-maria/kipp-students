@@ -1,0 +1,491 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3b — Kasus 3"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+<!-- Diisi berdasarkan paket versi 2.0 dan percakapan yang tersedia. Tepat empat bagian utama A–D dipertahankan. -->
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Rosianna Maria Aviv Silalahi |
+| NIM | 18225083 |
+| Kelas dan tanggal | K01; 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b; Kasus 3 |
+| Nama dan ID target | Ali (K3-01) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks; transkrip berasal dari percakapan teks ChatGPT |
+| Kasus nyata/fiktif | Simulasi tokoh fiktif; usaha dan kejadian operasional tidak diverifikasi di dunia nyata |
+| Kelengkapan transkrip | Parsial terhadap seluruh sesi sejak identifikasi: transkrip simulasi AI001–AI013 dan jawaban mahasiswa yang tersedia disalin di bawah; beberapa respons pengantar/konfirmasi administratif awal tidak dipertahankan kata demi kata dalam konteks yang tersedia. Tidak ada kejadian uji coba dunia nyata. |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Kasus konseptual 3: Ali (K3-01), pengelola usaha, menghadapi pertanyaan pelanggan yang berulang dan pesanan yang terkadang tercecer, sementara tenaga terbatas. Ali belum yakin membutuhkan AI dan khawatir aplikasi baru menambah kerumitan, biaya, serta beban staf. Tujuan mahasiswa adalah menggali kebutuhan dan alur kerja, tidak langsung memaksakan teknologi, lalu bersama Ali memilih langkah yang realistis dan dapat diuji. Respons akhir yang diharapkan ialah kesepakatan uji coba konkret dengan cakupan, tanggung jawab, dukungan, risiko, indikator keberhasilan dan tindak lanjut. Indikator yang dibahas: pesanan terlewat, keterlambatan pencatatan, kejelasan tanggung jawab, akurasi status, waktu dan beban kerja. Uji coba nyata lanjutan belum dilaksanakan.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Kekuatan: proses usaha masih berjalan; kemampuan dasar menerima pesanan melalui chat (dugaan). Kelemahan: pencatatan tersebar dan mengandalkan ingatan. Peluang: memperbaiki pencatatan/alur kerja dengan cara sederhana. Ancaman: tenaga, waktu, biaya, kerumitan dan kekhawatiran staf tidak sanggup. | AI001–AI005; U002 | Dugaan awal berdasarkan brief dan respons simulasi; belum diverifikasi di usaha nyata |
+| Attitude | Ali ragu memakai aplikasi/AI dan khawatir menambah beban, tetapi ingin memperbaiki proses. | AI001–AI004 | Sementara; berdasarkan dialog fiktif |
+| Knowledge | Ali belum tahu pilihan prosedur sederhana dan cara mengukur apakah proses baru lebih baik. | AI004–AI009 | Sementara; bukan pengukuran pengetahuan formal |
+| Skill | Ali biasa menerima pesanan via chat dan mencatat manual ketika sempat; kemampuan menggunakan catatan digital bersama belum terbukti. | AI002–AI006 | Sementara; perlu demonstrasi untuk menyimpulkan kemampuan |
+| Preferensi/MBTI jika dilaporkan | Tidak ada laporan diri MBTI dari mahasiswa. Profil simulasi setelah sesi mencantumkan INFP untuk tokoh Ali; bukan diagnosis dan tidak digunakan sebagai bukti awal mahasiswa. | Profil paket; bukan transkrip | Data profil fiktif untuk evaluasi pascasimulasi |
+| Karakter, peran, kultur/ko-kultur | Ali adalah pengelola usaha/customer; menjaga harmoni dan enggan mempermalukan orang. | Profil paket; AI007–AI013 memberi bukti dialog yang selaras | Informasi profil simulasi yang baru digunakan setelah evaluasi sementara |
+
+## Dugaan awal profil target dan rencana
+
+Dugaan awal mahasiswa sebelum profil dibuka: fakta kasus ialah pertanyaan pelanggan berulang, pesanan tercecer, dan tenaga terbatas. Mahasiswa menduga kekuatan operasional belum diketahui; kelemahan mungkin pada pengelolaan informasi/pencatatan; peluang berupa perbaikan proses atau teknologi; ancaman berupa waktu, biaya, keterbatasan tenaga, serta risiko penggunaan teknologi. Dugaan ASK: Ali mungkin ragu terhadap perubahan (A), kemampuan digital staf belum diketahui (S), dan pengetahuan tentang pilihan TI/AI belum diketahui (K). Mahasiswa menyatakan perlu memvalidasi penyebab pesanan tercecer, jenis pertanyaan, proses yang berjalan, kemampuan staf, anggaran, dan kesiapan. Ini adalah laporan mahasiswa sebelum pengungkapan profil, bukan fakta objektif tentang Ali.
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Memastikan pesanan tercatat dan ditindaklanjuti tanpa menambah beban | Perlu validasi proses, penanggung jawab, biaya dan kemampuan | Pertanyaan terbuka, rangkuman dan konfirmasi | Prioritas Ali dinyatakan sendiri; indikator terukur disepakati |
+| Attention | Masalah dikenali: pesanan tercecer dan pertanyaan berulang | A: kekhawatiran; K/S belum diketahui | Mengakui keraguan, meminta gambaran proses | Ali menjelaskan alur chat dan catatan |
+| Interest | Ali tertarik jika cara sederhana dan tidak mahal | K: manfaat umum dipahami, prosedur belum jelas | Menggali masalah paling berdampak dan hambatan | Ali memilih pesanan terlewat sebagai prioritas |
+| Desire | Kesediaan mencoba secara terbatas, masih memerlukan contoh | A membaik dalam simulasi; S masih perlu dukungan | Opsi bertahap, contoh, pendampingan, penghormatan pilihan | Ali menyetujui percobaan kecil, bukan adopsi permanen |
+| Action | Kesepakatan rencana: perjelas pembagian tugas, pertahankan pencatatan yang ada dahulu, catat kejadian selama beberapa hari operasional dan tinjau bersama | Belum ada pelaksanaan di dunia nyata | Menetapkan langkah, dukungan dan indikator | Komitmen verbal AI013; pelaksanaan dan hasil belum teramati |
+
+# C) Skrip Percakapan
+
+**Transkrip aktual, bukan dialog karangan.** Transkrip yang dapat dipulihkan dari konteks percakapan tersedia di bawah. Catatan kelengkapan ada pada bagian A.
+
+## Tahap identifikasi dan perencanaan
+
+**U001 — Mahasiswa (konfirmasi identitas/modalitas)**  
+“udah, teks.”
+
+**Catatan fasilitator:** Data penugasan di paket mencantumkan Rosianna Maria Aviv Silalahi, NIM 18225083. Nama/NIM tersebut berasal dari paket, bukan verifikasi identitas independen. Kelas dan tanggal kemudian dikonfirmasi sebagai K01 dan 15 Oktober 2026.
+
+**U002 — Mahasiswa (Tahap B: Kasus dan tujuan)**
+
+> ### 1. Tujuan tindakan
+>
+> Tujuan saya adalah memahami kendala Ali dalam menangani pertanyaan pelanggan yang berulang dan pesanan yang terkadang tercecer. Saya ingin mengetahui proses kerja yang sedang digunakan, kebutuhan yang paling mendesak, serta keterbatasan waktu, biaya, dan kemampuan staf sebelum mempertimbangkan solusi TI atau AI. Saya tidak ingin langsung menawarkan teknologi, tetapi memastikan bahwa solusi yang dipilih benar-benar relevan dan dapat diterapkan.
+>
+> ### 2. Dugaan awal SWOT
+>
+> **Fakta kasus:** Ali menghadapi pertanyaan pelanggan berulang, pesanan yang terkadang tercecer, dan keterbatasan tenaga kerja.
+>
+> - **Strength (kekuatan):** Belum diketahui secara pasti. Saya menduga Ali sudah memiliki proses operasional yang berjalan, tetapi perlu memvalidasi bagian yang sudah efektif.
+> - **Weakness (kelemahan):** Pertanyaan berulang dan pesanan yang tercecer mengindikasikan kemungkinan adanya kendala dalam pengelolaan informasi atau pencatatan pesanan.
+> - **Opportunity (peluang):** Ada peluang untuk memperbaiki efisiensi pelayanan dan pencatatan melalui perbaikan proses kerja atau bantuan teknologi yang sesuai.
+> - **Threat (ancaman):** Keterbatasan tenaga, biaya, waktu untuk belajar, dan kemungkinan kesalahan penggunaan teknologi dapat menghambat penerapan solusi.
+>
+> ### 3. Dugaan awal ASK Ali
+>
+> - **Attitude (sikap):** Ali mungkin masih ragu terhadap perubahan atau belum yakin bahwa solusi yang ditawarkan akan bermanfaat. Pernyataannya, “saya belum yakin bisa melakukannya,” menunjukkan keraguan, tetapi penyebabnya belum diketahui.
+> - **Skill (keterampilan):** Kemampuan Ali dan staf dalam menggunakan aplikasi atau teknologi belum diketahui. Saya perlu mencari tahu apakah mereka sudah terbiasa menggunakan alat digital untuk melayani pelanggan dan mencatat pesanan.
+> - **Knowledge (pengetahuan):** Ali mungkin belum memahami pilihan solusi TI atau AI dan manfaatnya bagi operasional usaha. Namun, saya tidak boleh langsung menyimpulkan bahwa pengetahuannya rendah sebelum bertanya lebih lanjut.
+>
+> ### 4. Rencana pendekatan awal
+>
+> Saya akan memulai dengan sikap terbuka dan tidak menghakimi agar Ali merasa nyaman menjelaskan situasinya. Saya akan menggunakan pertanyaan terbuka untuk mengetahui bagaimana pertanyaan pelanggan biasanya ditangani, bagaimana pesanan dicatat, dan pada tahap mana masalah paling sering terjadi.
+>
+> Setelah itu, saya akan merangkum jawaban Ali untuk memastikan pemahaman saya benar, kemudian menggali prioritas dan keterbatasan yang perlu dipertimbangkan. Saya baru akan membahas kemungkinan perbaikan proses atau solusi TI/AI setelah kebutuhan Ali lebih jelas. Jika teknologi belum diperlukan atau belum sesuai dengan kemampuan dan anggarannya, saya akan mempertimbangkan alternatif yang lebih sederhana.
+>
+> Hal yang perlu saya validasi adalah penyebab utama pesanan tercecer, jenis pertanyaan pelanggan yang berulang, proses kerja yang saat ini digunakan, kemampuan staf, anggaran, dan kesiapan Ali untuk mencoba perubahan. Dengan demikian, pendekatan saya tetap berpusat pada kebutuhan Ali dan tidak didasarkan pada asumsi semata.
+
+## Tahap C — Simulasi awal
+
+**AI001 — Ali:**  
+“Terima kasih, tetapi saya belum yakin bisa melakukannya.”
+
+**U003 — Mahasiswa:**  
+“Saya mengerti, Pak Ali. Kalau usaha Bapak masih berjalan dengan baik, tentu kita tidak perlu langsung menambahkan aplikasi baru yang justru bisa membuat pekerjaan semakin rumit. Menurut saya, penggunaan teknologi seharusnya membantu meringankan pekerjaan, bukan menambah beban.  
+Saya menangkap bahwa saat ini ada dua hal yang cukup mengganggu, yaitu menjawab pertanyaan pelanggan yang sama berulang kali dan mencatat pesanan di tempat yang berbeda. Namun, saya belum ingin menyimpulkan bahwa Bapak membutuhkan AI karena mungkin ada cara yang lebih sederhana untuk mengatasinya.  
+Boleh saya tahu, dari kedua masalah tersebut, mana yang paling sering menyita waktu atau menimbulkan kesulitan bagi Bapak dan staf? Saya ingin memahami situasinya terlebih dahulu sebelum kita mempertimbangkan langkah yang paling sesuai.”
+
+**AI002 — Ali:**  
+“Kalau ditanya mana yang paling menyita waktu, sebenarnya menjawab chat itu cukup melelahkan, apalagi kalau pertanyaannya soal harga, stok, atau cara pesan. Tapi kalau pesanan tercecer, dampaknya bisa lebih serius karena pelanggan bisa tidak mendapatkan pesanannya. Saya biasanya mengandalkan ingatan dan mengecek chat satu per satu. Cuma, saya belum punya waktu untuk belajar sistem yang rumit, dan saya juga tidak mau mengeluarkan biaya kalau hasilnya belum jelas.”
+
+**U004 — Mahasiswa:**  
+“Baik, Pak Ali. Saya memahami bahwa menjawab pertanyaan yang berulang memang menghabiskan waktu, tetapi pesanan yang terlewat bisa berdampak lebih besar bagi pelanggan. Saya juga mengerti bahwa Bapak ingin solusi yang tidak rumit dan tidak membutuhkan biaya sebelum manfaatnya benar-benar terlihat.  
+Supaya saya bisa memahami proses yang berjalan sekarang, boleh saya tahu bagaimana biasanya Bapak menerima dan mencatat pesanan dari pelanggan? Misalnya, apakah pesanan langsung dicatat setelah masuk atau baru dicatat ketika Bapak punya waktu? Lalu, dalam kondisi seperti apa pesanan biasanya bisa terlewat—apakah ketika chat sedang ramai, saat Bapak melayani pelanggan lain, atau karena catatannya tersebar di beberapa tempat?  
+Saya ingin memahami alurnya terlebih dahulu agar kita bisa mengetahui bagian mana yang paling sering menimbulkan masalah, tanpa harus langsung mengubah cara kerja Bapak.”
+
+**AI003 — Ali:**  
+“Biasanya kalau pelanggan pesan lewat chat, saya baca pesannya lalu berusaha mengingat atau mencatatnya kalau sedang sempat. Kadang saya tulis di catatan biasa, tetapi kalau sedang ramai, saya harus melayani beberapa pelanggan sekaligus. Akhirnya, ada pesanan yang belum sempat saya pindahkan ke catatan. Saya juga kadang harus mencari kembali chat lama untuk memastikan detail pesanannya.  
+Sebenarnya saya ingin lebih rapi, tetapi saya khawatir kalau harus mengubah semuanya sekaligus, saya dan staf malah bingung. Saya belum tahu cara yang sederhana untuk memulainya.”
+
+**U005 — Mahasiswa:**  
+“Saya mengerti, Pak Ali. Kalau Bapak dan staf harus melayani beberapa pelanggan sekaligus, wajar jika ada pesanan yang belum sempat dicatat. Saya juga memahami kekhawatiran Bapak kalau perubahan dilakukan sekaligus, karena justru bisa membuat pekerjaan semakin membingungkan.  
+Menurut saya, kita tidak perlu langsung mengubah seluruh proses yang sudah berjalan. Kita bisa mulai dari satu bagian kecil yang paling membutuhkan perbaikan, lalu melihat apakah cara tersebut benar-benar membantu.  
+Dari cerita Bapak, saya melihat ada dua hal yang mungkin perlu diperhatikan, yaitu memastikan setiap pesanan tercatat dan memudahkan Bapak menemukan kembali detail pesanan. Kalau harus memilih salah satu untuk diperbaiki terlebih dahulu, mana yang lebih penting bagi Bapak saat ini: memastikan tidak ada pesanan yang terlewat atau mempermudah pencarian detail pesanan? Apa alasannya?  
+Saya ingin memastikan bahwa langkah awal yang dipilih benar-benar sesuai dengan kebutuhan Bapak dan tidak menambah beban kerja Bapak maupun staf.”
+
+**AI004 — Ali:**  
+“Kalau harus memilih, saya lebih ingin memastikan tidak ada pesanan yang terlewat, karena itu bisa membuat pelanggan kecewa dan merugikan usaha saya. Kalau detail pesanan sulit dicari, memang merepotkan, tetapi setidaknya saya masih bisa mencoba mencari chat-nya.  
+Saya tertarik mencoba cara yang lebih rapi, asalkan tidak terlalu rumit. Tapi saya masih bingung, apakah saya harus memakai aplikasi khusus atau sebenarnya bisa mulai dengan cara yang lebih sederhana? Saya juga tidak ingin staf saya harus mencatat hal yang sama dua kali.”
+
+**U006 — Mahasiswa:**  
+“Baik, Pak Ali. Berarti prioritas utama kita adalah memastikan setiap pesanan tercatat agar tidak ada pelanggan yang terlewat. Saya setuju bahwa cara yang dipilih sebaiknya sederhana dan tidak membuat Bapak maupun staf harus mengerjakan hal yang sama dua kali.  
+Sebelum menentukan apakah perlu aplikasi khusus atau cukup dengan cara yang lebih sederhana, saya ingin memahami alur kerja Bapak dan staf saat ini. Ketika pesanan masuk melalui chat, siapa yang biasanya bertanggung jawab mencatat dan memastikan pesanan tersebut sudah ditangani? Apakah Bapak dan staf memiliki pembagian tugas yang jelas, atau siapa pun yang sempat akan mencatatnya?  
+Lalu, menurut Bapak, apakah akan lebih membantu jika ada satu tempat pencatatan yang digunakan bersama, sehingga pesanan cukup dicatat satu kali dan bisa diperiksa oleh Bapak maupun staf? Saya ingin mengetahui apakah cara seperti itu cocok dengan kebiasaan kerja kalian sebelum mempertimbangkan pilihan lainnya.”
+
+**AI005 — Ali:**  
+“Sejujurnya, pembagian tugas kami belum terlalu jelas. Saya biasanya yang menerima sebagian besar pesanan lewat chat, tetapi kalau sedang sibuk, staf bisa ikut membantu melayani pelanggan. Masalahnya, staf kadang mengira saya sudah mencatat pesanan, sedangkan saya mengira staf yang menanganinya.  
+Kalau ada satu tempat pencatatan yang bisa kami lihat bersama, mungkin itu akan membantu. Tapi saya khawatir kalau setiap pesanan harus dipindahkan secara manual dari chat ke tempat lain, pekerjaan kami justru bertambah. Saya ingin tahu apakah ada cara yang praktis untuk mencobanya tanpa harus langsung membeli aplikasi.”
+
+**U007 — Mahasiswa:**  
+“Saya memahami kekhawatiran Bapak. Dari cerita Bapak, masalahnya bukan hanya pesanan yang belum tercatat, tetapi juga belum jelas siapa yang bertanggung jawab menanganinya. Karena itu, menurut saya, kita bisa mulai dengan memperjelas pembagian tugas dan mencoba satu tempat pencatatan bersama tanpa harus langsung membeli aplikasi.  
+Sebagai langkah awal, bagaimana jika Bapak dan staf mencoba menggunakan catatan bersama yang sudah tersedia, misalnya melalui Google Sheets jika Bapak dan staf sudah terbiasa menggunakannya, atau format pencatatan sederhana lainnya yang nyaman bagi kalian? Setiap pesanan yang masuk bisa langsung dicatat satu kali oleh orang yang menerimanya, lalu diberi tanda ketika sudah ditangani. Dengan begitu, Bapak dan staf bisa melihat status pesanan yang sama tanpa perlu membuat catatan berulang.  
+Kita bisa mencoba cara tersebut selama beberapa hari terlebih dahulu, tanpa mengubah seluruh alur kerja sekaligus. Keberhasilannya dapat dilihat dari apakah masih ada pesanan yang terlewat, apakah waktu untuk mencari status pesanan berkurang, dan apakah pencatatannya justru menambah beban kerja staf. Setelah itu, Bapak dan staf bisa mengevaluasi apakah cara tersebut cukup membantu atau perlu disesuaikan.  
+Namun, saya ingin memastikan bahwa cara ini realistis untuk usaha Bapak. Apakah Bapak dan staf sudah terbiasa menggunakan catatan digital bersama, atau Bapak lebih nyaman memulai dengan format sederhana yang bisa diakses melalui ponsel? Kita bisa memilih cara yang paling mudah diterapkan terlebih dahulu, lalu mempertimbangkan pilihan lain hanya jika memang diperlukan.”
+
+**AI006 — Ali:**  
+“Kalau catatan digital yang sederhana, saya rasa saya bisa mencoba. Saya dan staf sudah biasa memakai ponsel, meskipun kami belum pernah menggunakan Google Sheets bersama untuk mencatat pesanan.  
+Tapi saya masih punya satu kekhawatiran. Kalau sedang ramai, apakah staf benar-benar sempat mengisi catatan itu setiap kali ada pesanan masuk? Saya tidak mau pelanggan menunggu lebih lama hanya karena kami sibuk mengisi tabel. Kalau akhirnya kami lupa mengisinya juga, berarti masalahnya belum selesai.”
+
+**U008 — Mahasiswa:**  
+“Saya memahami kekhawatiran Bapak. Dari cerita Bapak, masalahnya bukan hanya pesanan yang belum tercatat, tetapi juga belum jelas siapa yang bertanggung jawab menanganinya. Karena itu, menurut saya, kita bisa mulai dengan memperjelas pembagian tugas dan mencoba satu tempat pencatatan bersama tanpa harus langsung membeli aplikasi.  
+Sebagai langkah awal, bagaimana jika Bapak dan staf mencoba menggunakan catatan bersama yang sudah tersedia, misalnya melalui Google Sheets jika Bapak dan staf sudah terbiasa menggunakannya, atau format pencatatan sederhana lainnya yang nyaman bagi kalian? Setiap pesanan yang masuk bisa langsung dicatat satu kali oleh orang yang menerimanya, lalu diberi tanda ketika sudah ditangani. Dengan begitu, Bapak dan staf bisa melihat status pesanan yang sama tanpa perlu membuat catatan berulang.  
+Kita bisa mencoba cara tersebut selama beberapa hari terlebih dahulu, tanpa mengubah seluruh alur kerja sekaligus. Keberhasilannya dapat dilihat dari apakah masih ada pesanan yang terlewat, apakah waktu untuk mencari status pesanan berkurang, dan apakah pencatatannya justru menambah beban kerja staf. Setelah itu, Bapak dan staf bisa mengevaluasi apakah cara tersebut cukup membantu atau perlu disesuaikan.  
+Namun, saya ingin memastikan bahwa cara ini realistis untuk usaha Bapak. Apakah Bapak dan staf sudah terbiasa menggunakan catatan digital bersama, atau Bapak lebih nyaman memulai dengan format sederhana yang bisa diakses melalui ponsel? Kita bisa memilih cara yang paling mudah diterapkan terlebih dahulu, lalu mempertimbangkan pilihan lain hanya jika memang diperlukan.”
+
+**AI007 — Ali:**  
+“Terima kasih, saya merasa Bapak/Ibu memahami kekhawatiran saya. Saya memang ingin memperbaiki pencatatan, tetapi saya juga tidak ingin staf merasa pekerjaan mereka bertambah.  
+Kami bisa mencoba cara sederhana melalui ponsel. Hanya saja, saya masih belum yakin bagaimana mempraktikkannya ketika pesanan datang bertubi-tubi. Saya juga belum tahu cara menggunakan catatan bersama dengan benar.  
+Kalau ada contoh langsung dan seseorang yang bisa mendampingi kami saat mencoba pertama kali, saya akan lebih tenang. Saya ingin mencoba, tetapi jangan sampai kami harus langsung mengubah seluruh cara kerja.”
+
+**U009 — Mahasiswa:**  
+“Saya senang Bapak bersedia mencoba, Pak Ali. Saya memahami bahwa mempelajari cara baru sambil melayani pelanggan yang datang bertubi-tubi bisa terasa sulit. Karena itu, kita tidak perlu langsung menerapkan sistem ini ke semua pesanan atau mengubah seluruh cara kerja Bapak dan staf.  
+Bagaimana jika kita mulai dengan contoh sederhana menggunakan satu atau dua pesanan terlebih dahulu? Saya bisa membantu mendampingi Bapak dan satu orang staf saat mencoba mencatat pesanan melalui ponsel, mulai dari memasukkan informasi penting hingga memberi tanda bahwa pesanan sudah ditangani. Setelah Bapak dan staf memahami alurnya, barulah kita mempertimbangkan apakah cara tersebut cocok untuk digunakan sehari-hari.  
+Untuk mengurangi beban kerja, kita juga bisa menentukan satu orang yang bertanggung jawab mencatat setiap pesanan yang diterimanya, sementara orang lain cukup memeriksa statusnya melalui catatan bersama. Dengan begitu, pesanan tidak perlu dicatat dua kali. Kita bisa memulai pada waktu yang tidak terlalu ramai dan membatasi uji coba pada beberapa pesanan terlebih dahulu.  
+Setelah mencoba, kita evaluasi bersama apakah ada pesanan yang terlewat, apakah pencatatan terasa lebih mudah, dan apakah ada pekerjaan tambahan bagi staf. Kalau ternyata cara ini menyulitkan, kita bisa menyesuaikannya sebelum melanjutkan.  
+Apakah Bapak bersedia memulai dengan satu atau dua pesanan bersama satu orang staf pada waktu yang relatif sepi? Jika bersedia, siapa yang menurut Bapak paling tepat untuk ikut mencoba dan mendampingi proses tersebut?”
+
+**AI008 — Ali:**  
+“Ya, saya bersedia mencoba satu atau dua pesanan dulu. Sepertinya lebih aman kalau kami belajar sedikit demi sedikit daripada langsung mengubah semuanya.  
+Mungkin staf yang paling sering membantu saya membalas chat bisa ikut mencoba. Saya akan mendampinginya supaya kami sama-sama memahami cara mencatat dan memeriksa status pesanan.  
+Tapi saya ingin memastikan satu hal: informasi apa saja yang benar-benar perlu dicatat? Kalau terlalu banyak kolom, saya khawatir kami justru menghabiskan waktu mengisi tabel. Saya ingin cara yang sederhana, mudah dipahami, dan tidak membuat pelanggan menunggu.”
+
+**U010 — Mahasiswa:**  
+“Baik, Pak Ali. Saya setuju kita perlu menjaga pencatatannya tetap sederhana supaya Bapak dan staf tidak menghabiskan terlalu banyak waktu mengisi tabel ketika pelanggan sedang menunggu. Untuk uji coba awal, kita cukup mencatat informasi yang benar-benar dibutuhkan agar setiap pesanan bisa dilacak sampai selesai.  
+
+Menurut saya, formatnya bisa seperti ini:
+
+| Informasi | Contoh | Tujuan |
+|---|---|---|
+| Nomor pesanan | P001 | Membedakan setiap pesanan |
+| Nama panggilan pelanggan | Ibu Rina | Memudahkan identifikasi pesanan |
+| Ringkasan pesanan | 2 roti cokelat | Mengetahui barang yang dipesan |
+| Waktu pesanan masuk | 10.15 | Membantu menelusuri urutan pesanan |
+| Status pesanan | Baru / Diproses / Selesai | Mengetahui pesanan yang belum ditangani |
+
+Kita tidak perlu mencatat semua isi percakapan pelanggan, nomor identitas, alamat rumah, atau informasi pribadi lainnya jika memang tidak dibutuhkan untuk memproses pesanan. Jika nantinya ada informasi tambahan yang benar-benar diperlukan untuk pengiriman, kita bisa mempertimbangkannya secara terpisah.  
+
+Untuk uji coba satu atau dua pesanan, Bapak dan staf bisa menggunakan catatan bersama yang sederhana melalui ponsel. Orang yang menerima pesanan bertanggung jawab mencatatnya satu kali, lalu memperbarui statusnya ketika pesanan diproses atau selesai. Kita juga perlu memastikan catatan hanya bisa diakses oleh orang yang memang membutuhkannya.  
+
+Setelah mencoba, kita bisa melihat apakah informasi tersebut sudah cukup untuk mencegah pesanan terlewat atau justru masih ada bagian yang membingungkan. Menurut Bapak, apakah lima informasi ini sudah cukup untuk memulai, atau ada informasi tertentu yang memang wajib dicatat sesuai proses usaha Bapak?”
+
+**AI009 — Ali:**  
+“Menurut saya, lima informasi itu sudah cukup untuk mulai mencoba. Saya suka karena formatnya tidak terlalu rumit. Mungkin kami juga perlu memastikan siapa yang terakhir memperbarui status pesanan, supaya kalau ada yang belum selesai, kami tahu siapa yang perlu menindaklanjutinya.  
+Saya bersedia mencoba dengan dua pesanan terlebih dahulu. Tetapi saya ingin tahu, setelah uji coba selesai, bagaimana kami bisa menilai apakah cara ini benar-benar lebih baik daripada cara lama? Kalau hanya melihat tabelnya terlihat rapi, belum tentu pesanan yang terlewat benar-benar berkurang.”
+
+## Tahap D — Evaluasi sementara
+
+**U011 — Mahasiswa (evaluasi sementara)**
+
+> Berikut evaluasi sementara berdasarkan percakapan dengan Ali dari AI001 sampai AI009. Evaluasi ini hanya menggunakan bukti yang sudah disampaikan Ali, bukan dugaan tentang profil internalnya.
+>
+> ## 1. Kebutuhan utama Ali
+>
+> Kebutuhan utama Ali adalah memastikan tidak ada pesanan pelanggan yang terlewat, dengan cara pencatatan yang sederhana dan tidak menambah beban kerja dirinya maupun staf.
+>
+> Bukti dari percakapan:
+>
+> - Ali menjelaskan bahwa pesanan terkadang hanya diingat atau belum sempat dipindahkan dari chat ke catatan.
+> - Ali menyatakan bahwa pesanan yang terlewat berdampak lebih serius karena dapat membuat pelanggan kecewa dan merugikan usaha.
+> - Ali mengungkapkan bahwa pembagian tanggung jawab antara dirinya dan staf belum jelas.
+> - Ali bersedia mencoba pencatatan bersama, tetapi tidak ingin staf mencatat informasi yang sama dua kali.
+>
+> Selain itu, Ali membutuhkan pendampingan awal karena belum yakin bagaimana menerapkan pencatatan ketika pesanan datang bertubi-tubi.
+>
+> Yang sudah diketahui: masalah pencatatan, pembagian tanggung jawab, dan kekhawatiran tentang beban kerja.
+>
+> Yang masih perlu diuji: apakah pencatatan bersama benar-benar mengurangi pesanan terlewat dan cocok dengan alur kerja usaha Ali.
+>
+> ## 2. Perkembangan ASK
+>
+> | Aspek | Bukti dari percakapan | Hal yang belum diketahui |
+> |---|---|---|
+> | Attitude | Ali awalnya khawatir aplikasi baru akan menambah kerepotan dan mempertanyakan kebutuhan AI. Kemudian ia bersedia mencoba dua pesanan secara bertahap. | Apakah kepercayaan dan kesediaannya bertahan setelah menghadapi kendala nyata. |
+> | Skill | Ali sudah terbiasa menerima pesanan melalui chat dan mencatatnya secara manual ketika sempat. | Kemampuannya menggunakan catatan digital bersama, memperbarui status, dan menjalankan alur baru saat ramai belum terbukti. |
+> | Knowledge | Ali dapat mengidentifikasi masalah utama dan menyetujui lima informasi minimum untuk pencatatan. Ia juga menyadari pentingnya mengetahui siapa yang terakhir memperbarui status. | Apakah ia dan staf memahami serta mampu menjalankan prosedur pencatatan secara mandiri dan konsisten. |
+>
+> Perkembangan yang terlihat adalah Ali mulai beralih dari kekhawatiran terhadap perubahan menuju kesediaan mencoba solusi terbatas. Namun, kesediaan mencoba belum membuktikan bahwa keterampilan dan pengetahuannya sudah memadai.
+>
+> ## 3. Evaluasi kualitas pendekatan komunikasi
+>
+> Hal yang sudah efektif:
+>
+> - Mendengarkan dan berempati. Kekhawatiran Ali tentang biaya, kerumitan, dan beban staf ditanggapi tanpa menghakimi.
+> - Menggali kebutuhan sebelum menawarkan solusi. Percakapan dimulai dari masalah nyata, bukan langsung mengarahkan Ali menggunakan AI.
+> - Melibatkan Ali dalam pengambilan keputusan. Ali ikut menentukan prioritas, memilih uji coba terbatas, dan menyepakati informasi yang perlu dicatat.
+> - Menghormati kesiapan Ali. Uji coba dibatasi pada dua pesanan dengan pendampingan, bukan langsung mengubah seluruh proses.
+>
+> Hal yang perlu diperbaiki:
+>
+> - Beberapa pertanyaan dan penjelasan cukup panjang sehingga berpotensi memperlambat percakapan dengan pemilik usaha yang sibuk.
+> - Usulan menggunakan catatan bersama perlu disesuaikan dengan kebiasaan dan perangkat yang benar-benar digunakan Ali dan staf.
+> - Format awal belum memasukkan informasi tentang siapa yang terakhir memperbarui status. Informasi ini perlu dipertimbangkan jika memang membantu tindak lanjut tanpa menambah pekerjaan berlebihan.
+> - Pengukuran keberhasilan seharusnya disepakati sebelum uji coba, agar evaluasi tidak hanya berdasarkan kesan bahwa tabel terlihat lebih rapi.
+>
+> Secara keseluruhan, pendekatan sudah cukup berpusat pada kebutuhan komunikan. Perbaikan utamanya adalah membuat langkah berikutnya lebih konkret, singkat, dan terukur.
+>
+> ## 4. Rencana pengukuran uji coba
+>
+> Tujuan uji coba bukan membuktikan bahwa teknologi selalu lebih baik, melainkan memeriksa apakah cara pencatatan baru membantu Ali dibandingkan cara lama.
+>
+> | Indikator | Cara mengukur | Yang ingin diketahui |
+> |---|---|---|
+> | Pesanan terlewat | Cocokkan seluruh pesanan yang masuk dengan catatan dan status akhirnya. | Apakah jumlah pesanan yang tidak tercatat atau tidak ditindaklanjuti berkurang? |
+> | Waktu pencatatan | Ukur waktu yang dibutuhkan sejak pesanan diterima sampai tercatat. | Apakah pencatatan menjadi lebih cepat atau justru lebih lama? |
+> | Beban kerja staf | Minta Ali dan staf mencatat hambatan serta perkiraan tambahan waktu. | Apakah proses baru menambah pekerjaan atau mengurangi kebingungan? |
+> | Ketepatan status | Periksa apakah status pesanan sesuai dengan kondisi sebenarnya. | Apakah Ali dan staf dapat mengetahui pesanan yang belum selesai? |
+>
+> ### Cara menjalankan evaluasi
+>
+> 1. Catat kondisi awal. Gunakan catatan yang tersedia untuk melihat bagaimana pesanan ditangani dengan cara lama. Jika data sebelumnya tidak lengkap, nyatakan keterbatasan tersebut dan jangan menganggap jumlah pesanan terlewat sudah diketahui secara pasti.
+> 2. Lakukan uji coba dua pesanan. Catat waktu, status, dan apakah ada langkah yang membingungkan atau harus diulang.
+> 3. Bandingkan hasilnya. Periksa kelengkapan pencatatan, waktu yang dibutuhkan, dan tanggapan Ali serta staf.
+> 4. Tentukan langkah selanjutnya bersama. Pertahankan, sesuaikan, atau hentikan cara tersebut berdasarkan hasil yang benar-benar terlihat.
+>
+> Karena uji coba hanya melibatkan dua pesanan, hasilnya masih bersifat awal. Uji coba ini dapat membantu menemukan kendala penggunaan, tetapi belum cukup untuk menyimpulkan bahwa cara baru secara konsisten mengurangi pesanan terlewat.
+>
+> Kesimpulan sementara: kebutuhan Ali sudah cukup jelas dan ia telah menyetujui uji coba terbatas. Namun, manfaat pencatatan bersama, kemampuan staf menjalankannya, dan pengaruhnya terhadap beban kerja masih merupakan hal yang perlu dibuktikan melalui praktik.
+
+## Tahap E — Uji ulang
+
+**AI010 — Ali:**  
+“Baik, saya dan staf sudah mencoba mencatat dua pesanan. Kami bisa mengisi catatannya, tetapi ketika pelanggan datang bersamaan dengan pesan yang masuk lewat chat, staf saya bingung harus melayani pelanggan dulu atau memperbarui status pesanan.  
+Kemarin, ada satu pesanan yang sudah mulai diproses, tetapi statusnya masih tertulis ‘Baru’. Saya jadi khawatir catatan bersama ini terlihat rapi, tetapi informasinya justru tidak sesuai keadaan sebenarnya.  
+Saya masih ingin mencoba, tetapi saya belum tahu bagaimana membagi tugas agar pelayanan tetap lancar dan status pesanan tidak membingungkan.”
+
+**U012 — Mahasiswa:**  
+“Saya memahami kekhawatiran Bapak, dan menurut saya ini justru masukan penting dari uji coba kita. Catatan yang rapi memang belum cukup jika statusnya tidak sesuai dengan kondisi pesanan yang sebenarnya. Namun, kita juga tidak bisa mengharapkan staf selalu memperbarui catatan saat sedang melayani beberapa pelanggan sekaligus.  
+Bagaimana jika kita mencoba memperjelas pembagian tugas terlebih dahulu, tanpa menambah banyak aturan? Misalnya, orang yang menerima pesanan bertanggung jawab memastikan pesanan tersebut masuk ke catatan bersama. Setelah pesanan mulai diproses, orang yang menangani pesanan itu memperbarui statusnya ketika ada kesempatan yang aman, tanpa harus meninggalkan pelanggan yang sedang dilayani. Kita juga bisa menambahkan kolom sederhana berupa nama atau inisial orang yang terakhir memperbarui status, agar lebih mudah mengetahui siapa yang perlu menindaklanjuti jika ada informasi yang belum sesuai.  
+Untuk menghindari kebingungan, kita bisa menyepakati arti setiap status bersama-sama, misalnya ‘Baru’, ‘Diproses’, dan ‘Selesai’. Jika pembaruan status belum sempat dilakukan, staf perlu memeriksa kondisi pesanan sebelum mengambil keputusan berdasarkan catatan tersebut.  
+Saya mengusulkan agar kita mencoba pembagian tugas ini pada beberapa pesanan berikutnya, sambil mencatat apakah pembaruan status mengganggu pelayanan, berapa kali status tidak sesuai, dan apakah ada pekerjaan yang terasa berulang. Setelah itu, kita evaluasi bersama. Kalau cara ini ternyata masih menyulitkan, kita bisa menyesuaikannya, bukan langsung menganggap staf yang salah atau memaksakan sistem yang belum cocok.  
+Menurut Bapak, dengan kondisi usaha saat ramai, apakah pembagian tugas seperti ini realistis? Atau ada cara lain yang lebih sesuai dengan kebiasaan kerja Bapak dan staf?”
+
+**AI011 — Ali:**  
+“Kalau pembagian tugasnya seperti itu, saya rasa bisa dicoba. Saya setuju orang yang menerima pesanan bertanggung jawab memastikan pesanan tercatat. Tetapi kalau yang menerima pesanan sedang sibuk melayani pelanggan, saya khawatir pencatatannya tetap tertunda.  
+Mungkin kami bisa bergantian membantu, tetapi kami perlu tahu dengan jelas siapa yang sedang bertanggung jawab. Saya juga setuju menggunakan inisial untuk mengetahui siapa yang terakhir memperbarui status.  
+Saya ingin mencoba beberapa pesanan lagi. Namun, saya belum yakin apakah kami perlu langsung menggunakan catatan digital bersama atau sebaiknya memperbaiki pembagian tugas dulu dengan cara yang lebih sederhana.”
+
+**U013 — Mahasiswa:**  
+“Menurut saya, Pak Ali, kita bisa memperbaiki pembagian tugas terlebih dahulu tanpa harus langsung menambah teknologi atau aturan yang rumit. Tujuannya supaya Bapak dan staf memiliki alur kerja yang jelas sebelum memutuskan apakah catatan digital bersama memang diperlukan.  
+Sebagai langkah awal, bagaimana jika kita mencoba beberapa pesanan berikutnya dengan kesepakatan sederhana? Orang yang menerima pesanan tetap bertanggung jawab memastikan pesanan tercatat. Namun, jika ia sedang sibuk melayani pelanggan, ia bisa meminta bantuan staf lain yang tersedia untuk mencatatnya. Supaya tidak terjadi kebingungan, perlu ada konfirmasi singkat tentang siapa yang mengambil alih tanggung jawab tersebut. Dengan begitu, pesanan tidak hanya mengandalkan ingatan atau asumsi bahwa orang lain sudah mencatatnya.  
+Kita bisa memulai dengan format pencatatan sederhana yang sudah biasa digunakan, lalu menambahkan inisial orang yang terakhir memperbarui status. Setiap kali akan menindaklanjuti pesanan, Bapak dan staf perlu mencocokkan status dengan kondisi sebenarnya. Kita juga bisa melakukan pemeriksaan singkat di akhir waktu operasional untuk memastikan tidak ada pesanan yang belum tercatat atau belum selesai ditindaklanjuti.  
+Setelah beberapa pesanan dicoba, kita evaluasi apakah pembagian tugas tersebut sudah cukup membantu, apakah masih ada pesanan yang terlewat, dan apakah prosesnya mengganggu pelayanan. Jika masalahnya ternyata lebih banyak disebabkan oleh catatan yang tersebar, barulah kita mempertimbangkan catatan digital bersama sebagai langkah berikutnya.  
+Namun, saya ingin mendengar pendapat Bapak terlebih dahulu. Apakah Bapak lebih nyaman mencoba pembagian tugas dengan cara pencatatan yang sekarang selama beberapa pesanan, atau langsung menguji pembagian tugas sekaligus menggunakan catatan digital sederhana? Kita bisa memilih cara yang paling ringan bagi Bapak dan staf, lalu menilai hasilnya berdasarkan pengalaman nyata.”
+
+**AI012 — Ali:**  
+“Kalau begitu, saya lebih nyaman memperbaiki pembagian tugas dengan cara pencatatan yang sekarang terlebih dahulu. Saya khawatir kalau kami mengubah cara mencatat sekaligus, kami malah kesulitan mengetahui perubahan mana yang sebenarnya membantu.  
+Saya akan mencoba memastikan siapa yang bertanggung jawab atas setiap pesanan, dan kalau perlu mengalihkan tugas, kami akan mengonfirmasikannya secara langsung. Kami juga bisa memeriksa kembali pesanan yang belum selesai di akhir jam operasional.  
+Tetapi saya masih punya satu kekhawatiran. Kalau kami sudah mencoba cara ini dan ternyata masih ada pesanan yang terlewat, bagaimana kami menentukan apakah masalahnya berasal dari pembagian tugas, cara pencatatan, atau karena kami memang kekurangan tenaga saat ramai? Saya tidak ingin buru-buru menyimpulkan penyebabnya.”
+
+**U014 — Mahasiswa:**  
+“Menurut saya, Pak Ali, kita tidak perlu langsung menyimpulkan penyebabnya jika masih ada pesanan yang terlewat. Kita bisa mengumpulkan catatan sederhana selama uji coba agar keputusan berikutnya didasarkan pada kejadian yang benar-benar terjadi, bukan sekadar perkiraan.  
+Misalnya, setiap kali ada pesanan yang terlewat atau terlambat dicatat, kita cukup mencatat waktu kejadian, tahap ketika masalah terjadi, siapa yang sedang bertugas, dan apa yang terjadi saat itu. Kita juga bisa mencatat apakah pesanan belum dicatat sejak awal, sudah dicatat tetapi statusnya belum diperbarui, atau belum ditindaklanjuti karena Bapak dan staf sedang melayani banyak pelanggan. Kita tidak perlu mencatat informasi pribadi pelanggan yang tidak berkaitan dengan evaluasi ini.  
+Setelah beberapa pesanan dicoba, kita bisa melihat apakah masalah sering terjadi ketika pembagian tugas tidak jelas, ketika pencatatan tertunda, atau ketika jumlah pelanggan yang datang bersamaan membuat tenaga yang tersedia tidak mencukupi. Jika penyebabnya belum jelas, kita bisa mengumpulkan bukti tambahan sebelum menentukan langkah selanjutnya. Dengan begitu, kita tidak langsung menyalahkan staf atau menganggap bahwa masalah pasti dapat diselesaikan dengan teknologi.  
+Bagaimana jika kita menyepakati uji coba selama beberapa hari operasional dengan cara kerja yang sudah Bapak pilih, lalu meninjau catatan kejadian bersama di akhir periode tersebut? Kita akan mengevaluasi jumlah pesanan yang terlewat, kapan masalah terjadi, dan apakah pembagian tugas masih terasa membebani. Setelah itu, Bapak bisa menentukan apakah cukup memperbaiki alur kerja, perlu menyesuaikan cara pencatatan, atau memang membutuhkan bantuan tambahan saat jam ramai. Apakah periode uji coba seperti ini realistis untuk Bapak dan staf?”
+
+**AI013 — Ali:**  
+“Ya, saya rasa uji coba selama beberapa hari operasional cukup realistis. Saya suka kalau kita bisa melihat kejadian yang sebenarnya, bukan langsung membeli aplikasi atau menyimpulkan staf kami kurang teliti.  
+Saya akan mencoba memperjelas tanggung jawab pesanan dan mencatat kejadian yang membuat pesanan terlambat atau terlewat. Namun, saya ingin memastikan pencatatan evaluasinya juga sederhana. Kalau kami harus mengisi terlalu banyak hal setiap kali ada masalah, pekerjaan kami bisa bertambah lagi.  
+Setelah beberapa hari, saya bersedia meninjau hasilnya bersama. Saya berharap dari situ kami bisa mengetahui apakah perlu memperbaiki alur kerja, mengubah cara pencatatan, atau meminta bantuan tambahan saat jam ramai.”
+
+## Tahap F — Refleksi akhir
+
+**U015 — Mahasiswa (refleksi akhir ASK, komunikasi, solusi dan pembelajaran)**
+
+> ## 1. Perubahan ASK Ali
+>
+> **Attitude (sikap)**
+>
+> Pada awal percakapan, Ali khawatir aplikasi baru akan menambah pekerjaan, mempertanyakan kebutuhan AI, dan tidak ingin mengeluarkan biaya sebelum manfaatnya jelas. Seiring percakapan, Ali mulai terbuka untuk mencoba perubahan secara bertahap. Hal ini terlihat ketika ia menyetujui uji coba dua pesanan, melibatkan staf yang sering membantunya, dan akhirnya memilih memperbaiki pembagian tugas terlebih dahulu.
+>
+> Perubahan yang terbukti adalah meningkatnya kesediaan Ali untuk mencoba dan mengevaluasi perubahan. Namun, belum terbukti bahwa ia akan terus menggunakan cara tersebut atau merasa yakin setelah menghadapi situasi ramai.
+>
+> **Skill (keterampilan)**
+>
+> Ali sudah memiliki pengalaman menerima pesanan melalui chat dan mencatatnya secara manual. Ia juga mulai merumuskan cara kerja yang lebih terstruktur, seperti memperjelas penanggung jawab pesanan, mengonfirmasi pengalihan tugas, dan memeriksa pesanan yang belum selesai pada akhir jam operasional.
+>
+> Namun, kemampuan Ali dan staf dalam menjalankan pembagian tugas secara konsisten belum terbukti. Uji coba awal justru menunjukkan bahwa status pesanan dapat tidak sesuai dengan kondisi sebenarnya ketika staf sibuk melayani pelanggan.
+>
+> **Knowledge (pengetahuan)**
+>
+> Ali mulai memahami bahwa masalah pesanan terlewat tidak selalu disebabkan oleh ketidaktelitian staf. Penyebabnya mungkin berkaitan dengan pembagian tugas, keterlambatan pencatatan, atau keterbatasan tenaga saat ramai. Ia juga menyadari bahwa keberhasilan solusi tidak cukup dinilai dari kerapian catatan.
+>
+> Hal ini terlihat ketika Ali bertanya bagaimana membedakan penyebab masalah berdasarkan bukti. Meskipun demikian, belum diketahui apakah Ali dan staf sudah mampu menganalisis kejadian secara konsisten atau menentukan perbaikan secara mandiri.
+>
+> ## 2. Evaluasi komunikasi
+>
+> **Keberhasilan komunikasi**
+>
+> - Mendengarkan dengan empati. Kekhawatiran Ali tentang biaya, kerumitan, dan beban staf ditanggapi tanpa menyalahkan dirinya atau staf.
+> - Menggali masalah sebelum menawarkan solusi. Percakapan mengungkap bahwa masalah utamanya bukan sekadar pencatatan, tetapi juga pembagian tanggung jawab yang belum jelas.
+> - Menghormati keputusan komunikan. Ketika Ali memilih memperbaiki pembagian tugas sebelum menggunakan catatan digital bersama, pilihan tersebut diterima dan dijadikan dasar rencana selanjutnya.
+> - Mendorong evaluasi berbasis bukti. Ali diajak mencatat kejadian yang menyebabkan pesanan terlambat atau terlewat, bukan langsung menyimpulkan bahwa staf kurang teliti atau teknologi pasti diperlukan.
+>
+> Contoh konkret terlihat pada AI012–AI013. Ali mempertanyakan cara membedakan penyebab masalah, lalu respons saya mengusulkan pencatatan waktu kejadian, tahap terjadinya masalah, orang yang bertugas, dan situasi saat itu.
+>
+> **Kelemahan komunikasi**
+>
+> Beberapa respons saya cukup panjang dan mengandung banyak usulan sekaligus. Bagi Ali yang sedang menghadapi keterbatasan tenaga, penjelasan yang terlalu panjang berpotensi menambah beban pemahaman. Saya juga beberapa kali menawarkan format atau kemungkinan solusi sebelum seluruh detail alur kerja diketahui.
+>
+> Ke depan, saya perlu lebih sering mengajukan satu pertanyaan utama pada satu waktu, merangkum jawaban Ali secara singkat, dan meminta konfirmasi sebelum menambahkan langkah baru. Dengan begitu, percakapan tetap berpusat pada kebutuhan Ali, bukan pada banyaknya solusi yang dapat saya tawarkan.
+>
+> ## 3. Evaluasi solusi
+>
+> Pendekatan yang dipilih pada akhir percakapan adalah memperbaiki pembagian tugas terlebih dahulu, mempertahankan cara pencatatan yang ada, dan mengevaluasi kejadian selama beberapa hari operasional. Pendekatan ini sesuai dengan kebutuhan Ali karena tidak langsung menambah biaya, tidak mengharuskan perubahan sistem sekaligus, dan memungkinkan penyebab masalah diperiksa secara bertahap.
+>
+> Risiko yang masih tersisa adalah pesanan tetap terlambat dicatat ketika semua staf sibuk, pengalihan tanggung jawab tidak terkonfirmasi, dan catatan evaluasi justru menambah pekerjaan. Pemeriksaan akhir hari juga tidak otomatis mencegah kesalahan yang terjadi selama jam operasional.
+>
+> | Indikator | Cara memeriksa |
+> |---|---|
+> | Pesanan terlewat | Cocokkan pesanan yang diterima dengan pesanan yang tercatat dan ditindaklanjuti. |
+> | Keterlambatan pencatatan | Catat kapan pesanan diterima dan kapan mulai dicatat, jika memungkinkan tanpa mengganggu pelayanan. |
+> | Kejelasan tanggung jawab | Periksa apakah setiap pesanan memiliki penanggung jawab yang jelas dan pengalihan tugas dikonfirmasi. |
+> | Akurasi status | Cocokkan status catatan dengan kondisi pesanan sebenarnya. |
+> | Beban kerja | Minta Ali dan staf menilai apakah langkah baru menambah waktu atau mengganggu pelayanan. |
+>
+> Pencatatan evaluasi cukup dilakukan ketika terjadi masalah, menggunakan informasi minimum seperti waktu, tahap masalah, penanggung jawab, dan penyebab yang terlihat. Tidak perlu memasukkan data pribadi pelanggan yang tidak relevan.
+>
+> Belum ada bukti bahwa pendekatan ini berhasil mengurangi pesanan terlewat karena uji coba lanjutan belum dilakukan. Hasil evaluasi nanti dapat menunjukkan apakah pembagian tugas perlu diperbaiki lagi, pencatatan perlu disesuaikan, atau bantuan tambahan diperlukan saat jam ramai.
+>
+> ## 4. Pembelajaran dan perbaikan
+>
+> Jika menghadapi kasus serupa lagi, saya ingin mempertahankan kebiasaan mendengarkan kebutuhan komunikan, memvalidasi pemahamannya, dan melibatkan komunikan dalam memilih solusi. Saya juga akan mempertahankan prinsip bahwa teknologi, termasuk AI, tidak perlu dijadikan pilihan pertama jika masalahnya mungkin dapat ditangani melalui perbaikan proses kerja yang lebih sederhana.
+>
+> Hal yang ingin saya perbaiki adalah membuat komunikasi lebih ringkas, menggali alur kerja secara lebih terarah, dan menyepakati indikator keberhasilan sejak awal. Saya juga akan lebih berhati-hati membedakan fakta, dugaan penyebab, dan hasil yang benar-benar sudah diamati.
+>
+> Dalam kasus Ali, pelajaran terpenting bagi saya adalah bahwa solusi yang baik bukan sekadar membuat proses terlihat lebih teratur, melainkan membantu pekerjaan menjadi lebih andal tanpa menambah beban secara tidak perlu. Kesediaan Ali mencoba merupakan kemajuan dalam komunikasi, tetapi manfaat solusi tetap harus dibuktikan melalui uji coba nyata.
+
+**U016 — Mahasiswa (refleksi relasional)**
+
+> ### Refleksi Relasional
+>
+> Menurut saya, tindakan yang paling membantu Ali merasa dipahami adalah ketika saya menanggapi kekhawatirannya tanpa langsung memaksakan penggunaan aplikasi atau AI. Saya berusaha memahami bahwa masalah Ali bukan hanya pesanan yang terlewat, tetapi juga keterbatasan waktu, pembagian tugas yang belum jelas, dan kekhawatiran bahwa perubahan justru menambah beban staf.
+>
+> Bukti yang terlihat dalam percakapan adalah pada AI007, ketika Ali mengatakan, “Terima kasih, saya merasa Bapak/Ibu memahami kekhawatiran saya.” Setelah itu, Ali bersedia mencoba pencatatan sederhana bersama staf dan meminta contoh praktik serta pendampingan. Pada AI009, Ali juga menyatakan bersedia mencoba dua pesanan terlebih dahulu. Respons tersebut menunjukkan bahwa Ali mulai bersedia terlibat dalam proses mencari solusi. Saya menafsirkan hal ini sebagai tanda meningkatnya kepercayaan, meskipun belum membuktikan bahwa ia sepenuhnya yakin terhadap solusi yang ditawarkan.
+>
+> Tindakan lain yang menurut saya membantu membangun kepercayaan adalah ketika saya menghormati keputusan Ali pada AI012 untuk memperbaiki pembagian tugas terlebih dahulu tanpa langsung mengubah cara pencatatan. Ali kemudian bersedia melakukan uji coba selama beberapa hari operasional dan meninjau hasilnya bersama. Hal ini menunjukkan bahwa ia masih bersedia melanjutkan proses evaluasi dengan pendekatan yang sesuai dengan kenyamanannya.
+>
+> Di sisi lain, bagian komunikasi yang mungkin menghambat adalah ketika saya memberikan penjelasan panjang dan menawarkan beberapa langkah sekaligus. Walaupun maksudnya membantu, cara tersebut berpotensi membuat Ali kesulitan menentukan tindakan yang paling penting, terutama karena ia sudah menjelaskan bahwa waktu dan tenaga staf terbatas. Saya juga perlu berhati-hati agar usulan seperti penggunaan catatan bersama tidak terkesan sebagai solusi yang pasti berhasil sebelum diuji dalam kondisi kerja nyata.
+>
+> Bukti yang terlihat adalah Ali beberapa kali menyampaikan kekhawatiran tentang kerumitan dan tambahan pekerjaan, serta meminta cara yang sederhana. Namun, saya tidak dapat menyimpulkan bahwa kekhawatiran tersebut muncul akibat cara komunikasi saya; bisa jadi kekhawatiran itu memang sudah ada sejak awal. Karena itu, saya menilai bagian tersebut sebagai kemungkinan kelemahan komunikasi, bukan dampak yang sudah terbukti.
+>
+> Dari pengalaman ini, saya belajar bahwa membangun kepercayaan bukan berarti membuat komunikan langsung menyetujui saran kita. Kepercayaan lebih terlihat ketika komunikan merasa cukup nyaman untuk menyampaikan keraguan, mengoreksi usulan, dan ikut menentukan langkah berikutnya. Jika menghadapi situasi serupa lagi, saya akan menggunakan pertanyaan yang lebih singkat, memberi ruang bagi komunikan untuk memilih, dan memastikan setiap usulan benar-benar menjawab kebutuhannya.
+
+## Tahap G — Konfirmasi laporan
+
+**AI014 — Fasilitator (ringkasan untuk konfirmasi):**  
+Ringkasan yang diajukan untuk konfirmasi: identitas mahasiswa sesuai penugasan paket, kelas K01, tanggal 15 Oktober 2026, modalitas teks. Kebutuhan Ali adalah mencegah pesanan terlewat dengan alur yang sederhana; pada akhir simulasi ia memilih memperbaiki pembagian tugas lebih dahulu dan mencatat kejadian selama beberapa hari operasional. Ali menyatakan merasa dipahami (AI007) dan bersedia meninjau hasil, tetapi pelaksanaan lanjutan belum terjadi. Skor enam dimensi tetap BT bila bukti tidak cukup atau memerlukan moderasi dosen; nilai sesi belum sah dihitung dan nilai akhir UTS tetap “Belum dihitung”. Tidak ada klaim pengiriman ke portal.
+
+**U017 — Mahasiswa (konfirmasi identitas tambahan):**  
+“KELAS K01 dan tanggal 15 Oktober 2026”
+
+**Catatan status:** Kelas dan tanggal telah diberikan. Konfirmasi ini melengkapi data identitas; ia tidak menyatakan bahwa uji coba nyata telah selesai atau bahwa laporan telah diunggah ke portal.
+
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+**Hasil tujuan: tercapai sebagian dalam simulasi.** Prioritas Ali teridentifikasi sebagai pencegahan pesanan terlewat; ia memilih memperbaiki pembagian tugas dahulu, mempertahankan cara pencatatan saat ini, dan meninjau catatan kejadian selama beberapa hari operasional. Bukti: AI004, AI012 dan AI013. Kesepakatan tersebut merupakan komitmen dalam dialog simulasi, bukan bukti pelaksanaan nyata. Manfaat operasional belum teruji.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Awal: dugaan kekuatan berupa proses usaha yang berjalan; kelemahan berupa catatan tersebar; peluang perbaikan proses/teknologi; ancaman waktu, biaya dan kemampuan staf. | Akhir: perbaikan proses dan pembagian tugas dipilih sebelum teknologi; dugaan penyebab tetap perlu diuji. | U002; AI005; AI012–AI013 | Dugaan mahasiswa dan respons simulasi, bukan audit usaha |
+| Attitude | Ragu pada aplikasi/AI dan khawatir beban tambahan. | Kesediaan mencoba langkah kecil dan mengevaluasi; belum ada bukti adopsi berkelanjutan. | AI001, AI007–AI009, AI012–AI013 | Perubahan sikap dalam simulasi; bukan pengukuran psikologis |
+| Knowledge | Belum mengetahui prosedur sederhana dan cara menilai hasil. | Mampu membahas beberapa kemungkinan penyebab dan indikator, tetapi pemahaman mandiri belum diuji. | AI009, AI012–AI013 | Dialog menunjukkan pertanyaan/refleksi; bukan tes pengetahuan formal |
+| Skill | Kemampuan digital bersama belum diketahui. | Tidak ada demonstrasi keterampilan nyata mahasiswa atau Ali yang dapat diverifikasi; dalam skenario AI010, dua pesanan dicoba dan satu status tidak diperbarui. | AI006, AI010 | AI010 adalah peristiwa dalam simulasi; tidak menjadi bukti dunia nyata |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| AI001–AI004 | Status awal: ragu; mengungkap beban chat dan pesanan tercecer | U003: “saya belum ingin menyimpulkan bahwa Bapak membutuhkan AI” | AI002–AI004 menyebut keterbatasan waktu, biaya, dan prioritas pesanan | Empati dan pertanyaan terbuka membantu kebutuhan muncul; belum menutup hambatan prosedural | Gali alur dan prioritas sebelum solusi |
+| AI005–AI006 | Pembagian tugas kabur; belum pernah memakai Sheets bersama | U006–U007: bertanya siapa mencatat dan menawarkan opsi pencatatan bersama | AI005–AI006 mengakui kemungkinan catatan bersama, tetapi khawatir kerja bertambah | Minat tumbuh, keterampilan masih perlu dukungan | Batasi percobaan, jangan menjanjikan otomatisasi |
+| AI007–AI009 | Relasi lebih terbuka; perlu contoh dan ukuran sukses | U009–U010: menawarkan pendampingan dan format minimum | AI007 menyatakan merasa dipahami; AI009 menyetujui dua pesanan dan meminta pengukuran | Bukti rasa dipahami dan kemauan; bukan keberhasilan operasional | Sepakati indikator sebelum menilai hasil |
+| AI010–AI013 | Uji ulang mengungkap status tidak akurat saat ramai; Ali memilih memperbaiki pembagian tugas dulu | U012–U014: mengusulkan tanggung jawab, konfirmasi pengalihan, pencatatan kejadian dan evaluasi | AI012 memilih cara lama dahulu; AI013 setuju uji coba beberapa hari | Adaptasi responsif dan menghormati pilihan; uji coba lanjutan belum terjadi | Tinjau data, beban kerja dan status; lanjutkan hanya jika layak |
+
+Perbandingan dilakukan pada subbagian “Profil target setelah pengungkapan”; dugaan awal mahasiswa dipertahankan sebagaimana ditulis pada bagian B dan tidak ditulis ulang secara retrospektif.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U003 / AI007 | U003: “penggunaan teknologi seharusnya membantu meringankan pekerjaan, bukan menambah beban.” | AI007: “saya merasa Bapak/Ibu memahami kekhawatiran saya.” | Rasa dipahami/kepercayaan: bukti awal yang jelas berupa pernyataan eksplisit; kesediaan membuka kebutuhan meningkat | Mendukung inferensi relasional dalam simulasi, bukan kepastian motif batin atau perubahan jangka panjang |
+| U009 / AI008–AI009 | Menawarkan contoh satu-dua pesanan dan pendampingan | AI008 menyetujui percobaan dan menyebut staf yang sering membalas chat; AI009 bersedia mencoba dua pesanan | Kesediaan membuka informasi dan mempertimbangkan langkah naik | Dukungan konkret lebih meyakinkan daripada pujian umum; kemampuan masih belum terbukti |
+| U013 / AI012–AI013 | Menghormati pilihan untuk memperbaiki pembagian tugas dahulu | AI012 memilih cara pencatatan saat ini; AI013 setuju meninjau hasil setelah beberapa hari | Pilihan dihormati dan dialog berlanjut | Tidak mengubah keraguan menjadi persetujuan otomatis; rencana belum dilaksanakan |
+
+Ungkapan hangat tampak pada pengakuan keraguan dan pengurangan tekanan; bantuan konkret tampak pada tawaran mendampingi langkah kecil; konsistensi tampak ketika pilihan Ali untuk memperbaiki pembagian tugas dihormati. Ketulusan dinilai hanya melalui perilaku yang terlihat, bukan motif batin. Refleksi mahasiswa menekankan kepedulian profesional sambil menjaga tujuan dan tanggung jawab.
+
+## Profil target setelah pengungkapan — untuk evaluasi saja
+
+Informasi berikut berasal dari `profil_komunikan.md` dalam paket versi 2.0 dan tidak termasuk pengetahuan mahasiswa pada tahap evaluasi sementara.
+
+- **SWOT subjektif awal Ali:** peluang dipandang ada; Ali merasa belum mampu sepenuhnya. Kekuatan yang dirasakan adalah kemampuan langkah dasar; kelemahan/kendala ialah kebutuhan demo dan pelatihan kecil; ancaman ialah kekhawatiran staf tidak sanggup.
+- **ASK awal:** A — ingin berkembang namun takut gagal; K — punya gambaran manfaat, tetapi prosedur belum dipahami; S — mampu langkah dasar dan memerlukan latihan.
+- **Hambatan khusus:** takut staf tidak sanggup; belum memahami TI/AI dan batasnya; membutuhkan demonstrasi dan dukungan.
+- **Preferensi dan konteks fiktif:** profil mencantumkan INFP sebagai parameter tokoh (bukan diagnosis), kecenderungan pada makna personal, pertanyaan lembut dan waktu berpikir; Ali menjaga harmoni dan enggan mempermalukan orang.
+
+**Perbandingan dengan dugaan awal mahasiswa:** dugaan mahasiswa bahwa Ali ragu, perlu validasi dan mungkin membutuhkan langkah sederhana selaras secara umum dengan profil. Kebutuhan demo/pelatihan kecil menjadi lebih jelas saat Ali meminta contoh dan pendampingan (AI007–AI008). Kemampuan nyata tetap belum dapat disimpulkan; skenario AI010 hanya menyatakan dua pesanan dicoba dan status salah satu belum diperbarui. Profil ini adalah konfigurasi tokoh fiktif, bukan asesmen psikologis orang nyata.
+
+## Uji ulang dan pembelajaran
+
+Uji ulang menghadirkan kondisi ramai dan status pesanan yang tertinggal pada “Baru” walau pesanan mulai diproses (AI010). Mahasiswa merespons dengan mengakui masalah, mengusulkan kejelasan tanggung jawab, konfirmasi pengalihan, pencocokan status dengan kondisi sebenarnya dan pencatatan kejadian. Ketika Ali memilih mempertahankan cara lama dahulu (AI012), pilihan itu dihormati. Indikator perbaikan yang diajukan: jumlah pesanan terlewat, tahap/waktu masalah, tanggung jawab, akurasi status, dan beban kerja. Transfer ke perilaku nyata belum teramati.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 3 (usulan AI) | U002: “memahami kendala Ali… sebelum mempertimbangkan solusi TI atau AI”; AI004 memilih prioritas pesanan terlewat | Tujuan berpusat pada kebutuhan dan konteks digali; ukuran sukses dan cakupan baru makin jelas sepanjang percakapan. Memerlukan moderasi dosen. |
+| Persepsi dan validasi profil/status | 3 (usulan AI) | U003 memvalidasi keraguan; AI007 menyatakan merasa dipahami; AI012 memilih pendekatan lebih sederhana | Respons menunjukkan validasi dan penghormatan pilihan, tetapi beberapa dugaan kemampuan tetap belum diverifikasi. Memerlukan moderasi dosen. |
+| Pemilihan dan urutan repertoar | 3 (usulan AI) | U003–U007 menggali kebutuhan sebelum mengusulkan catatan bersama; U013 kembali ke pembagian tugas setelah kendala | Urutan umumnya sesuai, namun usulan digital muncul sebelum semua hambatan operasional jelas dan respons sering panjang. Memerlukan moderasi dosen. |
+| Eksekusi jelas, peduli dan konsisten | 3 (usulan AI) | U003: “tidak perlu langsung menambahkan aplikasi baru”; U013: “kita tidak perlu langsung menyimpulkan penyebabnya” | Nada menghormati pilihan dan tidak menyalahkan; penjelasan kadang bertele-tele. Kepedulian dinilai dari perilaku yang terlihat, bukan motif batin. Memerlukan moderasi dosen. |
+| Evaluasi dan adaptasi | 3 (usulan AI) | U011 menyusun pengukuran; U014 mengusulkan catatan kejadian; AI012–AI013 menerima rencana uji coba | Adaptasi dan indikator disusun, tetapi evaluasi pascauji coba belum terjadi; tidak ada klaim keberhasilan. Memerlukan moderasi dosen. |
+| Refleksi dan lesson learned | 3 (usulan AI) | U011, U015–U016 mengidentifikasi kekuatan, kelemahan, bukti relasional dan batas inferensi | Refleksi spesifik dan mengakui keterbatasan; perubahan ASK mahasiswa sendiri tidak dieksplorasi secara formal. Memerlukan moderasi dosen. |
+
+Skor di atas adalah **usulan AI awal**, bukan nilai resmi. Keenam dimensi memiliki skor sementara 3 sehingga secara aritmetika jumlahnya 18/24 × 100 = 75. Nilai sesi ini tidak boleh dianggap sah sebelum moderasi dosen. Bila dosen menilai bukti pada salah satu dimensi belum cukup, dimensi tersebut harus menjadi BT dan nilai sesi tidak dihitung sampai keenam skor sah tersedia. Hasil tujuan (tercapai sebagian dalam simulasi) terpisah dari nilai proses.
+
+## Refleksi dan lesson learned mahasiswa
+
+Mahasiswa menilai empati, pertanyaan terbuka, pelibatan Ali dalam keputusan, dan penghormatan atas pilihannya sebagai bagian yang efektif. Ia menilai responsnya kadang terlalu panjang dan berisi terlalu banyak usulan. Bukti relasional utama ialah AI007 yang menyatakan merasa dipahami; kesediaan mencoba berikutnya mendukung interpretasi bahwa Ali lebih terbuka, tetapi tidak membuktikan kepercayaan jangka panjang. Mahasiswa ingin memakai pertanyaan lebih singkat, memisahkan fakta dari dugaan, dan menyepakati indikator sejak awal. Perubahan ASK mahasiswa sendiri, preferensi penerimaan informasi, dan pengaruh budaya pribadinya tidak dinilai secara formal pada sesi ini; BT/tidak teramati.
+
+## Tindak lanjut dan batas bukti
+
+Rencana simulasi: selama beberapa hari operasional, Ali dan staf memperjelas penanggung jawab pesanan, mengonfirmasi pengalihan tugas, mempertahankan metode pencatatan yang sekarang terlebih dahulu, dan mencatat kejadian bermasalah dengan data minimum (waktu, tahap masalah, penanggung jawab, situasi). Mereka meninjau jumlah pesanan terlewat, status yang tidak akurat, keterlambatan pencatatan dan beban kerja. Dukungan yang disebut: Ali mendampingi staf; evaluasi dilakukan bersama setelah periode percobaan. **Status:** rencana disepakati oleh tokoh simulasi, belum dilaksanakan atau diverifikasi di dunia nyata. Transkrip teks tidak memberi bukti prosodi atau bahasa tubuh; perubahan jangka panjang belum dibuktikan.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2b | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3b | 18% | Jumlah enam skor / 24 × 100 |
+| **Total** | **100%** | |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.
+
+Nilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia.
+
+Rata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.
+
+Rubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen.
