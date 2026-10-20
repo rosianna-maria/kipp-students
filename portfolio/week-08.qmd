@@ -1,76 +1,93 @@
 ---
-title: "Desire-State Communication"
-week: 9
+title: "Portfolio Minggu 8 — UTS KIPP"
+week: 8
 status: "Siap dinilai"
-self_score: "—"
-assessor_score: "—"
-description: "Current state, desired state, value, evidence, dan risk."
-categories: [TAIDA, Desire]
+description: "Makalah pra-UTS dan lima laporan kasus individual."
+categories: [UTS]
 ---
 
 ## Kompetensi target
 
-Membangun desired state bersama target dan menghubungkannya dengan solution secara kredibel.
+Menjalankan percakapan person-centered pada lima kasus UTS, mengevaluasi stimulus dan respons, serta merefleksikan adaptasi berdasarkan evidence.
 
 ## Evidence wajib
 
-- Current dan desired state milik person.
-- Feature–benefit–value–outcome chain.
-- Risk, evidence threshold, response, dan adaptation.
+- Makalah pra-UTS (`paper.qmd`) yang menjawab empat pertanyaan MBTI dan PASK.
+- Lima laporan sesi (1, 2a, 2b, 3a, 3b) dengan bagian A–D dan transkrip.
+- Indeks, rekap nilai, dan refleksi lintas sesi pada halaman ini.
 
-## 1. Person dan Current State
+Halaman ini merupakan indeks dan refleksi; transkrip lengkap berada dalam masing-masing laporan di folder `portfolio/UTS`.
 
-Person yang dianalisis adalah Ali, pengelola usaha kecil dalam simulasi komunikasi KIPP. Ali menghadapi pertanyaan pelanggan yang berulang, risiko pesanan terlewat, dan keterbatasan jumlah staf.
+## 1. Identitas dan Status Paket
 
-Kondisi tersebut menunjukkan bahwa proses pelayanan dan pengelolaan pesanan masih menghadapi tantangan. Sebelum menentukan solusi, saya perlu memahami proses kerja Ali, masalah yang paling sering muncul, serta keterbatasan biaya, waktu, dan kemampuan staf.
+| Elemen | Isi mahasiswa |
+|---|---|
+| Nama | Rosianna Maria Aviv Silalahi |
+| NIM | '18225083' |
+| Kelas | K01 |
+| Periode/tanggal pelaksanaan | Sesi 1: 14 Oktober 2026; sesi 2a, 2b, 3a, 3b: 15 Oktober 2026 |
+| Versi bank/paket aktif | Bank 2.0; paket 2.0 (tanpa password), sesuai `PENUGASAN.md` |
+| Modalitas | Teks; transkrip berasal dari percakapan teks dengan chatbox AI, bukan transkripsi audio |
+| Status pengumpulan | Sudah diunggah |
 
-## 2. Desired State
+## 2. Makalah dan Lima Laporan
 
-Kondisi yang ingin dicapai adalah proses pelayanan pelanggan dan pengelolaan pesanan yang lebih teratur dan efisien. Staf diharapkan dapat menangani pertanyaan berulang dengan lebih mudah, sementara pesanan dapat dicatat dan dipantau secara lebih sistematis.
+| Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
+|---|---|---|---|---|
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Selesai disusun | Kajian konseptual; belum ada nilai dosen. |
+| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; pembanding Dimas (K1-04) | Selesai disusun | Beberapa giliran Tahap B–C hanya ringkasan nonverbatim |
+| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | Elsa (K2-05) | Selesai disusun | Transkrip parsial: identifikasi dan sebagian Tahap B tidak tersedia verbatim |
+| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | Cyntia (K2-03) | Selesai disusun | Transkrip parsial: pesan pengantar/evaluasi singkat tidak seluruhnya verbatim |
+| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | Dimas (K3-04) | Selesai disusun | Transkrip parsial: hanya percakapan yang tersedia di sesi dicatat |
+| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | Ali (K3-01) | Selesai disusun | Transkrip parsial: respons pengantar/konfirmasi administratif awal tidak verbatim |
 
-Desired state ini perlu disepakati bersama Ali agar solusi yang ditawarkan benar-benar sesuai dengan kebutuhan dan prioritasnya.
+## 3. Bobot dan Nilai Akhir UTS
 
-## 3. Feature–Benefit–Value–Outcome Chain
+| Komponen | Bobot | Nilai komponen |
+|---|---|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2b | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3b | 18% | Jumlah enam skor / 24 × 100 |
+| **Total** | **100%** | |
 
-- **Feature:** Teknologi sederhana untuk membantu menjawab pertanyaan pelanggan yang berulang dan mencatat pesanan.
-- **Benefit:** Staf dapat mengurangi pekerjaan berulang dan memantau pesanan dengan lebih mudah.
-- **Value:** Waktu dan tenaga yang terbatas dapat digunakan secara lebih efektif.
-- **Outcome:** Pelayanan pelanggan menjadi lebih konsisten dan pengelolaan pesanan lebih teratur.
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.
 
-Rangkaian ini menjelaskan hubungan antara fitur solusi dan hasil yang diharapkan. Namun, outcome tersebut masih berupa target dan perlu dibuktikan melalui penerapan serta evaluasi.
+Nilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia.
 
-## 4. Risk dan Evidence Threshold
+Rata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.
 
-### Risk
+Rubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen.
 
-Risiko yang mungkin muncul adalah solusi tidak sesuai dengan kebutuhan Ali, biaya penerapan terlalu tinggi, staf kesulitan menggunakan teknologi, atau sistem baru justru menambah kompleksitas pekerjaan.
+## 4. Rekap Nilai Komponen
 
-### Evidence Threshold
+| Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
+|---|---|---|---|---|---|
+| Makalah | 10% | — | — | — | Belum dinilai |
+| Sesi 1 | 18% | — | 79,2 (19/24) | — | Usulan AI; menunggu moderasi dosen |
+| Sesi 2a | 18% | — | 87,5 (21/24), belum ditetapkan | — | Transkrip parsial; menunggu moderasi dosen |
+| Sesi 2b | 18% | — | 95,8 (23/24) | — | Usulan AI; menunggu moderasi dosen |
+| Sesi 3a | 18% | — | BT | — | Skor formal belum ditetapkan |
+| Sesi 3b | 18% | — | 75,0 (18/24) | — | Usulan AI; menunggu moderasi dosen |
 
-Keberhasilan solusi perlu dievaluasi berdasarkan indikator yang relevan, seperti frekuensi pesanan terlewat, waktu penanganan pertanyaan pelanggan, dan feedback dari Ali serta staf. Data kondisi awal diperlukan sebagai pembanding sebelum menyimpulkan adanya perbaikan.
+**Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.
 
-## 5. Response dan Adaptation
+## 5. Refleksi Lintas Sesi
 
-### Response
+Pada semua sesi, saya mulai dengan mendengarkan dan memvalidasi kekhawatiran lawan bicara sebelum menawarkan solusi, menghormati hak mereka untuk memutuskan, dan jujur tentang batas bukti serta janji yang tidak dapat saya jamin. Pola ini terlihat pada Dimas (sesi 1 dan 3a), Elsa (2a), Cyntia (2b), dan Ali (3b), dan respons mereka cenderung lebih terbuka setelah pengakuan tersebut.
 
-Saya akan mendengarkan kebutuhan Ali, merangkum masalah yang disampaikan, dan mengonfirmasi apakah pemahaman saya sudah tepat. Setelah itu, saya akan menjelaskan pilihan solusi beserta manfaat, keterbatasan, dan konsekuensi penerapannya.
+Beberapa kebiasaan masih perlu diperbaiki. Balasan saya kadang terlalu panjang dan memuat terlalu banyak usulan sekaligus (2a, 3b). Data dasar seperti waktu pengerjaan dan frekuensi kesalahan baru saya gali setelah percakapan berjalan (3a). Pada kasus diri sendiri, saya terlalu lama berfokus pada masalah sebelum menetapkan tindakan konkret (sesi 1).
 
-### Adaptation
+Untuk berikutnya, saya akan menyampaikan satu atau dua usulan per giliran, menanyakan data dasar sejak awal, dan menyepakati indikator keberhasilan sebelum menawarkan solusi.
 
-Apabila solusi terlalu rumit atau belum memberikan manfaat yang diharapkan, saya akan mengevaluasi kembali kebutuhan Ali dan menyesuaikan pendekatan. Penyesuaian dapat berupa penyederhanaan fitur, pengujian pada satu masalah terlebih dahulu, atau pemilihan alternatif yang lebih sesuai.
+## 6. Batasan Evidence
 
-## 6. Refleksi
-
-Saya belajar bahwa membangun desired state bukan hanya tentang menjelaskan kondisi ideal, tetapi juga memastikan bahwa kondisi tersebut relevan bagi person. Solusi perlu dihubungkan dengan manfaat yang benar-benar dibutuhkan, bukan sekadar fitur teknologi yang tersedia.
-
-Saya juga perlu membedakan antara hasil yang diharapkan dan hasil yang telah terbukti. Dengan menentukan indikator keberhasilan, mempertimbangkan risiko, dan terbuka terhadap feedback, saya dapat menyampaikan solusi secara lebih kredibel dan menyesuaikannya berdasarkan kebutuhan person.
-
-## 7. Batasan Evidence
-
-Analisis ini menggunakan kasus simulasi Ali. Belum tersedia bukti implementasi nyata maupun data pengukuran sebelum dan sesudah penerapan solusi. Karena itu, manfaat dan outcome yang dibahas masih merupakan target yang perlu diuji.
+Semua percakapan adalah simulasi teks dengan tokoh fiktif. Respons yang membaik menunjukkan kemampuan komunikasi dalam simulasi, bukan bukti bahwa rencana sudah dijalankan atau hubungan nyata berubah. Transkrip pada kelima laporan sebagian parsial dan sudah ditandai di Bagian A masing-masing laporan; bagian yang hilang tidak direka. Semua skor AI bersifat usulan dan menunggu moderasi dosen.
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 9](../examples/week-09.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+[Buka contoh fiktif Minggu 8](../examples/week-08.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
 {{< include ../includes/evidence-template.md >}}
