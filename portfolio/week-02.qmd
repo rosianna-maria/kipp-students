@@ -4,7 +4,7 @@ week: 2
 status: "Siap dinilai"
 self_score: "20/20 (Lanjut)"
 assessor_score: "—"
-description: "Evidence perubahan dari reaction menuju response."
+description: "Mengubah reaksi memendam saat beban tim timpang menjadi respons asertif yang direncanakan dan dilaksanakan."
 categories: [Fondasi, Intra-Self]
 ---
 
@@ -18,37 +18,56 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 - Initial story dan sedikitnya dua alternative narratives.
 - Internal agreement dan bukti tindakan berikutnya.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
-
 **Nama Mahasiswa     :** Rosianna Maria Aviv Silalahi  
 **Tanggal Pengerjaan :** 27 September 2026
 
-## Konteks performance
+## Episode
 
-**Tanggal dan setting:** Antara Maret–Juni 2026, selama masa pengerjaan tugas besar saat beban tugas dari berbagai mata kuliah dan organisasi sedang menumpuk. Sebagian besar pengerjaan dilakukan di kost dan Student Lounge GKU 1 ITB Jatinangor, sementara momen pemicu utama (permintaan tambahan dari Rekan P) terjadi saat saya sedang beribadah di gereja.
+Identitas pihak lain disamarkan. Dua rekan satu tim tugas besar disebut Rekan P dan Rekan S.
 
-**Persons dan relationship:** Dua rekan satu tim tugas besar, disamarkan sebagai Rekan P (anggota yang meminta tambahan pekerjaan menjelang tenggat) dan Rekan S (anggota yang beberapa kali lambat merespons koordinasi tim).
+Episode berlangsung antara Maret dan Juni 2026, saat beban tugas dari berbagai mata kuliah dan organisasi sedang menumpuk. Pengerjaan sebagian besar dilakukan di kost dan Student Lounge GKU 1 ITB Jatinangor. Pemicu utamanya adalah permintaan tambahan pekerjaan dari Rekan P menjelang tenggat, yang masuk saat saya sedang beribadah di gereja. Saya kemudian mengerjakan seluruh bagian tersisa sendirian tanpa menyampaikan keberatan, dan beberapa kali menangis karena beban terasa timpang.
 
-**Objective dan initial state:** State awal — saya memendam kekesalan dan mengerjakan seluruh bagian tersisa sendirian tanpa menyampaikan keberatan, sambil beberapa kali menangis karena beban yang dirasa timpang. Saya juga memegang beberapa objective sekaligus yang saling bertegangan yaitu menyelesaikan tugas tepat waktu, menjaga waktu ibadah dan istirahat pribadi saya, dan tetap menjaga hubungan baik dengan tim. Objective - Beralih dari reaksi otomatis (memendam) menuju respons yang disengaja yaitu menyelesaikan tanggung jawab sampai akhir sambil menjaga kejernihan batin, tanpa mengorbankan salah satu objective tersebut secara diam-diam.
+Ada tiga objective yang saling bertegangan: menyelesaikan tugas tepat waktu, menjaga waktu ibadah dan istirahat pribadi, serta menjaga hubungan baik dengan tim.
 
-## Episode yang dianalisis
+## Pembedahan Lapisan Batin
 
-> **Suara reaktif (Korban):** "Semua orang di tim ini egois, aku yang selalu kena getahnya. Tidak ada gunanya aku berbicara, lebih baik aku diam saja dan mengerjakan semuanya sendirian."  
-> **Suara analitis:** "Coba dicek lagi, apa yang beneran kejadian? Rekan P minta tambahan pekerjaan saat aku sedang beribadah di gereja dan kontribusinya sendiri emang lebih sedikit dari yang dia minta ke aku. Rekan S emang beberapa kali lambat membalas pesan. Itu fakta. Tapi belum tentu mereka sengaja meremehkan aku. Mungkin saja Rekan P sedang panik sendiri soal kualitas tugas atau Rekan S ada kendala yang aku belum tahu."  
-> **Suara pertumbuhan:** "Wajar lelah dan menangis, bebannya memang berat. Tapi aku udah buktiin aku bisa menyelesaikan tanggung jawab sampai akhir. Pelajarannya adalah aku perlu menyampaikan batas waktu aku lebih awal ke tim dan berani bilang langsung kalau pembagian tugas timpang."
+| Lapisan | Catatan |
+|---|---|
+| **Event** | Rekan P mengirim permintaan tambahan pekerjaan saat saya sedang beribadah di gereja, menjelang tenggat tugas besar. |
+| **Fact** | Permintaan itu masuk saat saya beribadah. Kontribusi Rekan P pada bagiannya sendiri lebih sedikit dari yang ia minta dari saya. Rekan S beberapa kali lambat membalas pesan koordinasi. Tidak ada pernyataan dari keduanya bahwa mereka sengaja meremehkan saya. |
+| **Initial story** | "Semua orang di tim ini egois, aku yang selalu kena getahnya. Tidak ada gunanya aku berbicara." |
+| **Emotion dan body signal** | Kesal dan lelah, dada terasa berat dan rahang mengencang, dan beberapa kali menangis. |
+| **Reactive character** | Korban, yang memilih diam dan mengerjakan semuanya sendiri karena merasa bicara tidak akan mengubah apa pun. |
+| **Analytical character** | Pengecek fakta, yang memisahkan apa yang benar-benar terjadi dari tebakan tentang niat orang lain. |
+| **Desired character** | Anggota tim yang asertif, yang tetap menyelesaikan tanggung jawab tetapi menyampaikan batas waktu lebih awal dan bersuara langsung saat pembagian kerja timpang. |
+| **Uncertainty** | Saya tidak tahu apakah Rekan P sengaja mengabaikan waktu ibadah saya atau sedang panik soal kualitas tugas. Saya juga tidak tahu alasan Rekan S lambat merespons. Saya tidak punya otoritas formal untuk mengubah perilaku keduanya. |
 
-Pergeseran dari suara reaktif ke suara analitis dan pertumbuhan ini mengubah pilihan saya dari sekadar bertahan diam menjadi merancang langkah konkret untuk proyek berikutnya yaitu menyampaikan jam-jam yang tidak bisa diganggu (termasuk waktu ibadah) sejak awal proyek dan menyampaikan keberatan secara asertif saat pembagian kerja terasa timpang, alih-alih memendamnya sendirian sampai menangis.
+## Initial Story dan Alternative Narratives
 
-Ada ketidakpastian yang saya sadari sejak awal yaitu saya tidak pernah benar-benar tahu apakah Rekan P sengaja meremehkan waktu ibadah saya atau justru sedang panik sendiri menghadapi tenggat sehingga tidak sadar waktu saat mengirim pesan. Begitu juga saya tidak tahu pasti alasan Rekan S lambat merespons. Saya juga menyadari saya tidak punya otoritas formal untuk memaksa keduanya mengubah perilaku mereka. Hal yang bisa saya kendalikan hanya cara saya merespons dan menyampaikan batas saya sendiri. Trade-off yang saya ambil saat itu adalah mengorbankan waktu istirahat pribadi demi menyelesaikan tugas tepat waktu dengan risiko yang saya terima sadar karena dampak keterlambatan ke nilai kelompok dianggap lebih besar daripada risiko kelelahan pribadi saat itu. Namun saya juga sadar pola ini tidak bisa terus-menerus diulang sehingga saya merumuskan rencana perbaikan (repair) untuk proyek berikutnya alih-alih membiarkan pola yang sama terjadi lagi.
+**Initial story (Korban):** semua orang di tim egois, saya selalu menanggung akibatnya, dan lebih baik diam daripada berbicara.
 
-## Evidence
+**Alternative narrative 1 (Analitis):** fakta yang terjadi hanya dua: permintaan masuk saat saya beribadah dan Rekan S lambat membalas. Bahwa mereka sengaja meremehkan saya adalah tebakan. Rekan P mungkin sedang panik soal kualitas tugas, dan Rekan S mungkin punya kendala yang belum saya ketahui.
+
+**Alternative narrative 2 (Pertumbuhan):** lelah dan menangis itu wajar karena bebannya memang berat, tetapi saya sudah membuktikan bisa menyelesaikan tanggung jawab sampai akhir. Pelajarannya adalah menyampaikan batas waktu lebih awal dan berani bicara langsung saat pembagian tugas timpang.
+
+Ketiga narasi tidak otomatis menyatakan semuanya baik-baik saja. Narasi alternatif membuka pilihan yang bisa diuji, yaitu menyampaikan batas dan keberatan secara langsung, bukan menebak niat orang lain.
+
+## Percakapan Batin dan Internal Agreement
+
+> **Suara reaktif (Korban):** "Semua orang di tim ini egois, aku yang selalu kena getahnya. Tidak ada gunanya aku berbicara, lebih baik aku diam saja dan mengerjakan semuanya sendirian."
+>
+> **Suara analitis:** "Coba dicek lagi, apa yang beneran kejadian? Rekan P minta tambahan saat aku sedang beribadah di gereja dan kontribusinya sendiri memang lebih sedikit dari yang dia minta ke aku. Rekan S memang beberapa kali lambat membalas pesan. Itu fakta. Tapi belum tentu mereka sengaja meremehkan aku."
+>
+> **Suara pertumbuhan:** "Wajar lelah dan menangis, bebannya memang berat. Tapi aku sudah buktikan bisa menyelesaikan tanggung jawab sampai akhir. Pelajarannya, aku perlu menyampaikan batas waktuku lebih awal dan berani bilang langsung kalau pembagian tugas timpang."
+
+**Internal agreement:** saat itu saya sadar mengorbankan waktu istirahat demi tenggat adalah trade-off yang saya ambil dengan sengaja, karena dampak keterlambatan ke nilai kelompok lebih besar daripada kelelahan sesaat. Namun pola ini tidak boleh berulang. Untuk proyek berikutnya saya akan (1) menyampaikan jam-jam yang tidak bisa diganggu, termasuk waktu ibadah, sejak awal proyek, dan (2) menyampaikan keberatan secara asertif saat pembagian kerja terasa timpang, misalnya "aku bisa bantu bagian ini, tapi kontribusi kita perlu lebih seimbang". Saya hanya bisa mengendalikan cara saya merespons dan menyampaikan batas, bukan perilaku Rekan P atau Rekan S.
+
+## Evidence Tindakan
 
 ::: {.evidence-block}
-Karena episode ini bersifat proses batin (intra-self communication), tidak ada artefak eksternal seperti chat, commit, atau screenshot yang relevan untuk dilampirkan sehingga bukti utamanya adalah proses berpikir itu sendiri yang saya dokumentasikan secara tertulis dalam bentuk jurnal reflektif segera setelah kejadian.
+Episode awal ini adalah proses batin, jadi tidak ada chat, commit, atau screenshot yang relevan. Bukti utamanya adalah jurnal reflektif yang saya tulis segera setelah kejadian.
 
-**Dokumen lengkap:** [Lembar Kerja Bab 02 — Tiga Narasi atas Satu Peristiwa](../lk/lk-02.qmd), berisi pemisahan fakta objektif, interpretasi pertama, emosi dan sensasi tubuh, serta tiga narasi lengkap (Korban, Analitis, Pertumbuhan) atas peristiwa yang sama.
+**Dokumen lengkap:** [Lembar Kerja Bab 02 — Tiga Narasi atas Satu Peristiwa](../lk/lk-02.qmd), berisi pemisahan fakta objektif, interpretasi pertama, emosi dan sensasi tubuh, serta tiga narasi (Korban, Analitis, Pertumbuhan).
 
 **Cuplikan proses berpikir yang terekam:**
 
@@ -58,62 +77,57 @@ Karena episode ini bersifat proses batin (intra-self communication), tidak ada a
 >
 > Pergeseran ke narasi analitis: "Bisa saja Rekan P lagi panik sendiri soal kualitas tugas. Belum tentu mereka sengaja meremehkan saya."
 
-**Kontribusi pribadi:** Seluruh isi substantif berasal dari pengalaman saya sendiri. Fakta yang benar-benar terjadi, interpretasi pertama yang muncul di kepala saya, emosi dan sensasi tubuh yang saya rasakan, hingga pelajaran dan rencana tindakan yang saya pilih untuk ke depannya. Proses pengorganisasian cerita mentah tersebut ke dalam struktur fakta/interpretasi/tiga narasi sesuai format lembar kerja dibantu oleh AI, namun keputusan mana yang menjadi fakta, mana yang sekadar asumsi, serta narasi dan tindakan mana yang saya pilih untuk dipegang, sepenuhnya merupakan penilaian saya sendiri.
+**Kontribusi pribadi:** seluruh isi substantif berasal dari pengalaman saya: fakta, interpretasi pertama, emosi dan sensasi tubuh, pelajaran, dan rencana tindakan. AI hanya membantu menata cerita mentah ke struktur lembar kerja. Keputusan mana yang fakta, mana yang asumsi, dan narasi serta tindakan mana yang saya pegang adalah penilaian saya sendiri.
+:::
 
-**Bukti realisasi rencana (tambahan pasca-revisi):**
+**Bukti realisasi rencana.** Pada 4 Mei 2026, dalam proyek kelompok mata kuliah Literasi Data dan Inteligensi Artifisial, saya menjalankan rencana di atas. Saya proaktif menyampaikan ke grup bahwa saya punya mentoring agama yang baru selesai sekitar jam 10-11 malam, lalu menanyakan apakah jadwal diskusi malam itu masih memungkinkan ("win baru nyadar gw tuh ada mentoring agama... kayaknya kelarnya jam 10/11 gt winn, aman kahh"). Rekan kelompok (WS) awalnya kaget ("HAH malam bener"). Setelah saya konfirmasi bahwa diskusi direncanakan mulai jam 8 malam, kelompok sepakat menjadwalkan ulang diskusi ke keesokan harinya.
 
 ![Percakapan proyek kelompok Literasi Data dan Inteligensi Artifisial soal pembagian tugas](https://rosianna-maria.github.io/kipp-students/portfolio/images/week-02-diskusi-proyek.jpeg){width="50%"}
 
 ![Saya menyampaikan jadwal mentoring agama dan menanyakan kesediaan menyesuaikan jadwal diskusi, 4 Mei 2026](https://rosianna-maria.github.io/kipp-students/portfolio/images/week-02-batas-waktu.jpeg){width="50%"}
 
-Screenshot kedua menunjukkan realisasi nyata dari rencana "next practice" pada episode sebelumnya: saya secara proaktif menyampaikan batas waktu pribadi (jadwal mentoring agama) ke grup proyek Literasi Data dan Inteligensi Artifisial pada 4 Mei 2026, alih-alih memendamnya seperti pola lama. Kelompok merespons dengan menyesuaikan jadwal diskusi ke keesokan harinya.
-
-:::
-
-## Analisis komunikasi
+## Analisis Komunikasi
 
 | Elemen | Evidence dan analisis |
 |---|---|
-| Person & character | Suara batin "Korban" awalnya menilai Rekan P dan Rekan S lewat stereotype "egois" dan "sengaja menghindar". Setelah dianalisis, saya membaca ulang context dan power di baliknya yaitu Rekan P mungkin bertindak dari kecemasannya sendiri soal kualitas tugas (bukan otoritas untuk menuntut) dan saya sendiri sebenarnya juga tidak punya otoritas formal untuk menolak permintaannya begitu saja. Pemetaan ulang ini menggantikan stereotype awal dengan pembacaan power dan context yang lebih jernih. |
-| Objective & state | Saya mengelola tiga objective sekaligus yang saling bertegangan (menyelesaikan tugas, menjaga waktu ibadah/istirahat, menjaga hubungan tim), plus uncertainty soal niat sebenarnya di balik perilaku Rekan P dan Rekan S yang tidak pernah benar-benar terverifikasi. |
-| Repertoire & language | Repertoire bergeser dari diam dan memendam menjadi menyusun rencana komunikasi asertif ("aku bisa bantu bagian ini, tapi kontribusi kita perlu lebih seimbang..."); AI digunakan secara proporsional untuk merapikan struktur dengan batas dan rationale yang jelas. |
-| Response & adaptation | Sensasi tubuh (dada berat dan rahang mengencang) menjadi sinyal lemah yang saya baca sebagai tanda sedang terjebak di narasi Korban. Alih-alih mengabaikannya, saya menggunakan sinyal itu untuk menghentikan loop reaktif (diam-memendam) dan menggantinya dengan loop baru yaitu mengenali sinyal tubuh → mengecek fakta vs asumsi → memilih respons yang saya rencanakan untuk terus dipakai di proyek-proyek berikutnya. |
-| Agreement/action | Kesepakatan dengan diri sendiri eksplisit dan mempertimbangkan trade-off (waktu pribadi vs tenggat tim) serta batas otoritas saya (tidak berwenang mengubah perilaku Rekan P/Rekan S, hanya bisa mengelola respons dan batas saya sendiri), dilengkapi rencana repair konkret untuk proyek berikutnya: menyampaikan batas waktu di awal dan bersuara langsung saat pembagian kerja timpang. |
-| Relationship outcome | Dengan tidak langsung menuduh Rekan P dan Rekan S secara sepihak, ruang untuk hubungan kerja yang tetap sehat ke depannya terjaga, sekaligus kebutuhan saya sendiri soal batas waktu dan keadilan pembagian kerja tidak lagi dipendam sendirian. |
+| **Person & character** | Suara "Korban" awalnya menilai Rekan P dan Rekan S lewat stereotype "egois" dan "sengaja menghindar". Setelah dianalisis, saya membaca ulang context dan power: Rekan P mungkin bertindak dari kecemasannya sendiri, bukan dari otoritas untuk menuntut, dan saya sendiri tidak punya otoritas formal untuk mengubah perilaku keduanya. |
+| **Objective & state** | Tiga objective bertegangan: menyelesaikan tugas, menjaga waktu ibadah dan istirahat, menjaga hubungan tim. State bergerak dari kepastian reaktif ("mereka egois") menuju uncertainty yang jujur: niat Rekan P dan Rekan S tidak pernah terverifikasi. |
+| **Repertoire & language** | Repertoire bergeser dari diam dan memendam menjadi pemisahan fakta dari story, tiga narasi, dan rencana komunikasi asertif ("aku bisa bantu bagian ini, tapi kontribusi kita perlu lebih seimbang"). AI dipakai terbatas untuk menata struktur. |
+| **Response & adaptation** | Sensasi tubuh (dada berat, rahang mengencang) menjadi sinyal lemah bahwa saya sedang terjebak di narasi Korban. Sinyal itu saya pakai untuk memutus loop diam-memendam, lalu menggantinya dengan loop baru: kenali sinyal tubuh, cek fakta vs asumsi, pilih respons yang direncanakan. |
+| **Agreement, action & relationship** | Agreement dengan diri sendiri mempertimbangkan trade-off (waktu pribadi vs tenggat) dan batas otoritas. Rencana dijalankan pada 4 Mei 2026 dan direspons kelompok dengan menjadwalkan ulang diskusi. Tidak menuduh rekan secara sepihak menjaga hubungan kerja tetap sehat, sementara kebutuhan saya soal batas waktu tidak lagi dipendam sendirian. |
 
 ## Penggunaan AI
 
-- **Alat dan peran AI:** Claude digunakan sebagai reflection mirror untuk membantu memisahkan fakta dari cerita/asumsi pada pengalaman yang saya ceritakan dan merapikan struktur tiga narasi (Korban, Analitis, Pertumbuhan) dan rencana respons.
-- **Prompt/instruksi penting:** Saya menceritakan kejadian nyata secara mentah (masih bercampur emosi dan asumsi) lalu meminta bantuan memilah menjadi fakta objektif, interpretasi pertama, emosi, dan tiga versi narasi sesuai kerangka lembar kerja Bab 02.
-- **Bagian yang digunakan/diubah/ditolak:** Struktur kalimat dan pemilahan fakta-vs-interpretasi dari AI saya gunakan, tetapi seluruh isi faktual (waktu kejadian, siapa yang terlibat, apa yang benar-benar diminta/dikatakan, emosi yang dirasakan) berasal dari pengalaman saya sendiri. Saya sengaja membatasi peran AI hanya pada penyusunan struktur dan pemilahan bahasa, bukan pada penentuan narasi mana yang "benar" atau keputusan tindakan akhir, karena penilaian itu hanya bisa saya ambil sendiri.
-- **Pemeriksaan accuracy, privacy, authority:** Nama rekan tim disamarkan menjadi "Rekan P" dan "Rekan S" demi privasi, detail kejadian saya periksa ulang kesesuaiannya dengan yang benar-benar terjadi sebelum dimasukkan ke evidence.
-- **Yang tetap saya pelajari sebagai manusia:** Menyadari bahwa emosi yang saya rasakan valid, tetapi keputusan narasi mana yang mau saya pegang dan tindakan apa yang mau saya ambil ke depan tetap harus saya putuskan sendiri berdasarkan nilai dan situasi nyata saya — termasuk menimbang trade-off dan batas otoritas saya sendiri yang tidak bisa digantikan AI karena butuh kejujuran menilai posisi saya sendiri dalam relasi tim.
+Claude saya gunakan sebagai reflection mirror untuk memilah cerita mentah saya menjadi fakta objektif, interpretasi pertama, emosi, dan tiga narasi sesuai kerangka Lembar Kerja Bab 02. Struktur kalimat dan pemilahan fakta-vs-interpretasi dari AI saya pakai, tetapi seluruh isi faktual (waktu, pihak yang terlibat, apa yang diminta atau dikatakan, emosi yang saya rasakan) berasal dari saya. AI tidak menentukan narasi mana yang "benar" maupun keputusan tindakan akhir. Nama rekan disamarkan menjadi Rekan P dan Rekan S, dan detail kejadian saya periksa ulang sebelum dimasukkan sebagai evidence. Hal yang tetap saya putuskan sendiri adalah narasi mana yang saya pegang dan batas apa yang saya ambil, karena itu butuh kejujuran menilai posisi saya sendiri dalam relasi tim.
 
-## Feedback dan tindak lanjut
+## Feedback dan Tindak Lanjut
 
-**Feedback yang diterima:** Menurut orang tua saya, saya perlu lebih berani dan lebih tegas dalam menghadapi situasi seperti ini ke depannya. - Orang tua
+**Feedback:** orang tua saya menilai saya perlu lebih berani dan lebih tegas dalam situasi seperti ini ke depannya.
 
-**Adaptation/replay:** Setelah menyelesaikan tugas besar, saya menyadari bahwa memendam kekesalan sampai menangis bukan strategi yang berkelanjutan, ke depannya saya berencana menyampaikan batas dan keberatan lebih awal alih-alih menahannya sampai akhir pengerjaan.
+**Adaptation/replay:** setelah tugas besar selesai, saya menyadari memendam kekesalan sampai menangis bukan strategi yang berkelanjutan. Pada proyek berikutnya saya menyampaikan batas dan keberatan lebih awal, bukan menahannya sampai akhir pengerjaan.
 
-**Next practice (sudah direalisasikan):** Pada 4 Mei 2026, dalam proyek kelompok mata kuliah Literasi Data dan Inteligensi Artifisial, saya proaktif menyampaikan ke grup bahwa saya ada mentoring agama yang baru selesai sekitar jam 10-11 malam, dan menanyakan apakah itu masih memungkinkan untuk jadwal diskusi kelompok malam itu ("win baru nyadar gw tuh ada mentoring agama... kayaknya kelarnya jam 10/11 gt winn, aman kahh"). Rekan kelompok (WS) awalnya kaget ("HAH malam bener"), namun setelah saya konfirmasi ulang bahwa diskusi rencananya mulai jam 8 malam, kelompok akhirnya sepakat menjadwalkan ulang diskusi ke keesokan harinya. Ini merupakan eksekusi nyata dari rencana "menyampaikan jam-jam yang tidak bisa diganggu sejak awal proyek" yang saya rumuskan di episode sebelumnya dan bukan lagi sekadar niat, melainkan tindakan yang benar-benar saya lakukan dan direspons oleh tim.
+**Next practice:** rencana itu sudah dijalankan pada 4 Mei 2026 (lihat Evidence Tindakan). Ke depan saya akan terus menyampaikan jam yang tidak bisa diganggu di awal setiap proyek. Indikator berhasil: batas saya sudah diketahui tim sebelum pengerjaan dimulai, bukan baru muncul setelah saya kelelahan.
 
 ## Self-assessment
 
-| Dimensi | Skor 1–4 | Evidence singkat |
+| Dimensi | Skor 1-4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 4 | Person, character, dan power/context dibaca ulang: stereotype awal ("egois") digantikan pembacaan bahwa Rekan P mungkin bertindak dari kecemasannya sendiri, bukan otoritas formal |
-| Objective & State | 4 | Mengelola tiga objective sekaligus (tugas, batas pribadi, relasi tim) beserta uncertainty soal niat sebenarnya di balik perilaku rekan yang tidak pernah terverifikasi |
-| Repertoire, Language & AI | 4 | Repertoire beradaptasi luwes (dari diam menjadi rencana asertif) dengan batas dan rationale AI yang jelas |
-| Response & Adaptation | 4 | Sinyal lemah (sensasi tubuh) terbaca dan dipakai untuk memutus loop reaktif dan digantikan loop baru sinyal→cek fakta→pilih respons |
-| Agreement, Action & Relationship | 4 | Trade-off (waktu pribadi vs tenggat), batas otoritas, dan rencana repair untuk proyek berikutnya dikelola secara eksplisit dan realisasi nyata sudah dilakukan pada 4 Mei 2026 (lihat evidence tambahan) |
+| **Person & Character** | 4 | Stereotype awal ("egois") digantikan pembacaan power dan context; tiga suara batin dipetakan dengan objective berbeda. |
+| **Objective & State** | 4 | Tiga objective bertegangan dikelola bersama uncertainty soal niat rekan yang tidak pernah terverifikasi. |
+| **Repertoire, Language & AI** | 4 | Repertoire berubah dari diam menjadi rencana asertif; peran AI dibatasi dengan rationale yang jelas. |
+| **Response & Adaptation** | 4 | Sensasi tubuh dibaca sebagai sinyal dan dipakai untuk memutus loop reaktif. |
+| **Agreement, Action & Relationship** | 4 | Trade-off, batas otoritas, dan rencana repair dikelola eksplisit; realisasi nyata pada 4 Mei 2026 direspons tim. |
 
-**Total: 20/20 — Lanjut.** Seluruh dimensi menunjukkan analisis yang melampaui deskripsi dasar: power/otoritas, uncertainty, trade-off, dan sinyal lemah semuanya dibaca dan direspons secara sadar dalam satu episode.
+**Total: 20 / 20 - Lanjut**
 
 ::: {.assessor-only}
-### Assessment dosen
+### Assessment Dosen
 
-**Skor:** — / 20  
-**Evidence yang mendukung:** —  
-**Prioritas perbaikan:** —  
+**Skor:** - / 20
+
+**Evidence yang mendukung:** -
+
+**Prioritas perbaikan:** -
+
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
 :::
