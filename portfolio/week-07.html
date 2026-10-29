@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Penghubungan jadwal cicilan dan pembagian tugas dengan masalah penundaan di lomba Data Science sebelumnya, serta adaptasi menjadi jadwal fleksibel setelah muncul hidden concern benturan jadwal.">
+<meta name="description" content="Penghubungan spreadsheet jadwal cicilan, pembagian tugas, dan check-in progres harian dengan masalah penundaan di lomba Data Science sebelumnya, serta adaptasi menjadi pengerjaan fleksibel saat target meminta bantuan sementara.">
 
 <title>Problem–Solution Interest Pitch – Portfolio KIPP-2</title>
 <style>
@@ -298,7 +298,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div>
   <div class="description">
-    Penghubungan jadwal cicilan dan pembagian tugas dengan masalah penundaan di lomba Data Science sebelumnya, serta adaptasi menjadi jadwal fleksibel setelah muncul hidden concern benturan jadwal.
+    Penghubungan spreadsheet jadwal cicilan, pembagian tugas, dan check-in progres harian dengan masalah penundaan di lomba Data Science sebelumnya, serta adaptasi menjadi pengerjaan fleksibel saat target meminta bantuan sementara.
   </div>
 </div>
 
@@ -340,9 +340,9 @@ Buka <a href="../examples/week-07.html">contoh fiktif Minggu 7</a> untuk melihat
 </section>
 <section id="konteks-performance" class="level2">
 <h2 class="anchored" data-anchor-id="konteks-performance">Konteks performance</h2>
-<p><strong>Tanggal dan setting:</strong> Senin, 25 Mei 2026, diskusi tim lewat chat selama kurang lebih 30–60 menit, di awal lomba Data Science berikutnya yang diikuti tim yang sama.</p>
-<p><strong>Persons dan relationship:</strong> Saya dan Anggota A, rekan satu tim lomba dengan posisi setara (tanpa hubungan atasan-bawahan), bersama Anggota B. Relasi kerja tetap terjaga setelah kasus Week 6, ketika Anggota A menerima tawaran bantuan saat tenggat lomba Maret tinggal satu hari.</p>
-<p><strong>Objective dan initial state:</strong> Membangun ketertarikan (<em>Interest</em>) Anggota A terhadap jadwal cicilan dan pembagian tugas yang jelas sejak awal lomba, agar pekerjaan tidak kembali menumpuk menjelang tenggat. Initial state Anggota A: <em>Attention</em>, sudah mengakui pada Maret bahwa penundaan berdampak pada tim, tetapi belum terlihat apakah ia siap mengikuti cara kerja baru di tengah kesibukannya.</p>
+<p><strong>Tanggal dan setting:</strong> Senin, 25 Mei 2026, diskusi tim lewat chat selama kurang lebih 30–60 menit, di awal lomba Data Science berikutnya yang diikuti tim yang sama. Tenggat akhir lomba: Selasa, 9 Juni 2026.</p>
+<p><strong>Persons dan relationship:</strong> Saya (pengerjaan model di Google Colab), Anggota A (pembuatan PPT), dan Anggota B (pengembangan ide dan revisi), satu tim dengan posisi setara. Relasi kerja tetap terjaga setelah kasus Week 6, ketika Anggota A menerima tawaran bantuan saat tenggat lomba Maret tinggal satu hari.</p>
+<p><strong>Objective dan initial state:</strong> Membangun ketertarikan (<em>Interest</em>) Anggota A terhadap sistem kerja baru, yaitu spreadsheet jadwal cicilan dengan pembagian tugas dan check-in progres harian, agar pekerjaan tidak kembali menumpuk menjelang tenggat. Initial state Anggota A: <em>Attention</em>, sudah mengakui pada Maret bahwa penundaan berdampak pada tim, tetapi belum terlihat apakah ia siap mengikuti cara kerja baru di tengah kesibukannya.</p>
 </section>
 <section id="evidence" class="level2">
 <h2 class="anchored" data-anchor-id="evidence">Evidence</h2>
@@ -357,8 +357,8 @@ Buka <a href="../examples/week-07.html">contoh fiktif Minggu 7</a> untuk melihat
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Evidence dari lomba Maret 2026:</strong> pengerjaan ditunda sampai tenggat tinggal satu hari (19 Maret 2026), sehingga beberapa bagian pekerjaan hasilnya kurang maksimal dan hampir tidak ada waktu untuk memeriksa ulang serta memperbaiki hasil.</li>
-<li><strong>Solution Hypothesis:</strong> jadwal cicilan bertahap dan pembagian tugas yang dibagikan sejak awal, disertai pengecekan progres berkala, dapat mencegah penumpukan pekerjaan dan memunculkan kendala anggota lebih awal.</li>
+<li><strong>Evidence dari lomba Maret 2026:</strong> pengerjaan ditunda sampai tenggat tinggal satu hari (19 Maret 2026); kendala anggota baru terlihat di hari terakhir, sehingga beberapa bagian hasilnya kurang maksimal dan hampir tidak ada waktu untuk memeriksa ulang.</li>
+<li><strong>Solution Hypothesis:</strong> spreadsheet bersama yang memuat urutan pengerjaan, penanggung jawab, dan progres tiap tugas, ditambah check-in harian dan pengumpulan hasil kerja di spreadsheet yang sama, akan membuat progres terlihat sejak awal dan memunculkan kendala sebelum pekerjaan menumpuk.</li>
 </ul>
 <table class="caption-top table">
 <colgroup>
@@ -378,15 +378,21 @@ Buka <a href="../examples/week-07.html">contoh fiktif Minggu 7</a> untuk melihat
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">Pengerjaan ditunda sampai mendekati tenggat</td>
-<td style="text-align: left;">Jadwal cicilan bertahap dan pembagian tugas yang jelas sejak awal lomba</td>
-<td style="text-align: left;">Pekerjaan berjalan sedikit demi sedikit dan masih ada waktu memeriksa serta merevisi</td>
-<td style="text-align: left;">Anggota A tahu prioritas bagiannya dan tidak harus mengejar semuanya di hari terakhir</td>
+<td style="text-align: left;">Spreadsheet dengan urutan pengerjaan dan penanggung jawab tiap tugas (Colab, PPT, ide dan revisi)</td>
+<td style="text-align: left;">Pekerjaan dicicil bertahap dan masih ada waktu memeriksa serta merevisi</td>
+<td style="text-align: left;">Anggota A tahu posisi PPT dalam urutan kerja dan kapan bahannya dari Colab siap</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Kendala anggota baru terlihat ketika waktu hampir habis</td>
-<td style="text-align: left;">Pengecekan progres berkala dan ajakan “kabarin aja kalau sibuk”</td>
-<td style="text-align: left;">Hambatan terdeteksi lebih awal dan bantuan bisa diatur</td>
-<td style="text-align: left;">Anggota A bisa meminta bantuan sebelum pekerjaan menumpuk, tanpa harus merasa bersalah seperti di Maret</td>
+<td style="text-align: left;">Progres hanya berupa pernyataan “lagi dikerjain”</td>
+<td style="text-align: left;">Hasil kerja dikirim ke spreadsheet, bukan cukup dilaporkan lewat chat</td>
+<td style="text-align: left;">Progres bisa diperiksa bersama secara nyata</td>
+<td style="text-align: left;">Kontribusi Anggota A terlihat jelas tanpa perlu ditagih</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Kendala anggota baru terlihat di hari terakhir</td>
+<td style="text-align: left;">Check-in progres harian dan aturan “kabarin aja kalau sibuk”</td>
+<td style="text-align: left;">Hambatan terdeteksi saat masih ada waktu untuk diatur ulang</td>
+<td style="text-align: left;">Anggota A bisa meminta bantuan lebih awal tanpa harus merasa bersalah seperti di Maret</td>
 </tr>
 </tbody>
 </table>
@@ -396,21 +402,65 @@ Buka <a href="../examples/week-07.html">contoh fiktif Minggu 7</a> untuk melihat
 <blockquote class="blockquote">
 <p><em>“Guys, ini ya pembagian tugas kita. Tolong jangan mepet lagi yaa kerjainnya. Kalo semisal sibuk atau gimana, kabarin ajaa, kita saling bantu!”</em></p>
 </blockquote>
-<p>Saya membagikan pembagian tugas dan jadwal pengerjaan langsung di chat tim, sehingga setiap anggota bisa melihat bagiannya sendiri dan urutan pengerjaannya. Gaya bahasa sengaja informal agar tanggung jawab tersampaikan tanpa terasa seperti teguran.</p>
+<p>Bersama pesan itu, saya membagikan spreadsheet yang sudah saya susun dan menjelaskan cara memakainya. Strukturnya:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Urutan</th>
+<th style="text-align: left;">Tugas</th>
+<th style="text-align: left;">Penanggung jawab</th>
+<th style="text-align: left;">Progres</th>
+<th style="text-align: left;">Hasil kerja</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">Pengerjaan model dan analisis di Google Colab</td>
+<td style="text-align: left;">Saya</td>
+<td style="text-align: left;">Diperbarui harian</td>
+<td style="text-align: left;">Diunggah ke spreadsheet</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">Pengembangan ide dan revisi</td>
+<td style="text-align: left;">Anggota B</td>
+<td style="text-align: left;">Diperbarui harian</td>
+<td style="text-align: left;">Diunggah ke spreadsheet</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">Pembuatan PPT</td>
+<td style="text-align: left;">Anggota A</td>
+<td style="text-align: left;">Diperbarui harian</td>
+<td style="text-align: left;">Diunggah ke spreadsheet</td>
+</tr>
+</tbody>
+</table>
+<p>Mulai hari itu saya menanyakan progres setiap hari dan meminta tiap anggota mengirim hasil kerjanya ke spreadsheet, sehingga mekanismenya langsung dipraktikkan, bukan hanya dijanjikan.</p>
 <hr>
 </section>
 <section id="response-hidden-concern-adaptation" class="level3">
 <h3 class="anchored" data-anchor-id="response-hidden-concern-adaptation">3. Response, Hidden Concern &amp; Adaptation</h3>
 <ul>
-<li><strong>Respons Anggota A:</strong> mengungkapkan kekhawatiran bahwa jadwal pengerjaan bisa berbenturan dengan kegiatannya yang lain.</li>
-<li><strong>Identifikasi Hidden Concern:</strong> saya semula mengira masalah utamanya adalah kebiasaan menunda, sehingga fokus saya pada disiplin jadwal. Respons Anggota A menunjukkan <em>hidden concern</em> sebenarnya adalah <strong>ketersediaan waktu dan benturan dengan kegiatan lain</strong>, bukan keengganan mengerjakan.</li>
-<li><strong>Pertanyaan pengecekan:</strong> sebelum mengubah jadwal, saya menanyakan apakah Anggota A tetap akan berusaha mengikuti lomba ini, untuk membedakan kesediaan berkomitmen dari kendala waktu.</li>
-<li><strong>Adaptasi:</strong> saya tidak mempertahankan jadwal awal secara kaku. Jadwal dibuat lebih fleksibel dan pembagian tugas disesuaikan dengan ketersediaan waktu Anggota A, dengan tetap menjaga bagiannya sebagai tanggung jawabnya sendiri.</li>
-<li><strong>Hasil &amp; State Shift:</strong> Anggota A menyetujui jadwal yang sudah disesuaikan dan mulai mengerjakan bagiannya. State berpindah dari <em>Attention</em> menjadi <strong>Interest</strong>, ditunjukkan lewat persetujuan sekaligus tindakan nyata.</li>
+<li><strong>Respons Anggota A:</strong> setelah pembagian tugas dan jadwal dibahas, Anggota A menulis:<br>
+<em>“Guys, sepertinya aku lagi gabisa handle sekarang, bole diambil alih dulu? setelah ini aku bakal kerjain lagi.”</em></li>
+<li><strong>Identifikasi Hidden Concern:</strong> saya semula mengira masalah utamanya adalah kebiasaan menunda, sehingga fokus saya pada disiplin jadwal dan laporan progres. Respons Anggota A menunjukkan <em>hidden concern</em> sebenarnya adalah <strong>kapasitas waktu pada periode tertentu</strong>, bukan keengganan mengerjakan; ia tetap menyatakan akan melanjutkan bagiannya.</li>
+<li><strong>Pertanyaan pengecekan:</strong> sebelum mengubah pengaturan, saya menanyakan apakah Anggota A tetap akan berusaha mengikuti lomba ini, untuk membedakan kesediaan berkomitmen dari kendala waktu sesaat.</li>
+<li><strong>Adaptasi:</strong> saya tidak mempertahankan jadwal sebagai aturan kaku. Pengerjaan dibuat fleksibel: anggota boleh meminta bantuan sementara saat tidak bisa menangani bagiannya, kendala masing-masing dibuka di check-in harian, dan PPT tetap tercatat sebagai tanggung jawab Anggota A di spreadsheet agar kepemilikannya tidak kabur.</li>
+<li><strong>Hasil &amp; State Shift:</strong> Anggota A menyetujui jadwal yang sudah disesuaikan dan mulai mengerjakan bagiannya. State berpindah dari <em>Attention</em> menjadi <strong>Interest</strong>, ditunjukkan lewat persetujuan sekaligus tindakan nyata. Tim mengumpulkan pekerjaan tepat waktu sebelum tenggat Selasa, 9 Juni 2026.</li>
 </ul>
 </section>
 </div>
 </div>
+<p>Berbeda dengan Maret, kendala Anggota A kali ini muncul lewat jalur yang memang disediakan mekanisme (“kabarin aja”) saat masih ada waktu untuk diatur, bukan di hari terakhir.</p>
 </section>
 <section id="analisis-komunikasi" class="level2">
 <h2 class="anchored" data-anchor-id="analisis-komunikasi">Analisis komunikasi</h2>
@@ -436,33 +486,33 @@ Buka <a href="../examples/week-07.html">contoh fiktif Minggu 7</a> untuk melihat
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>Repertoire &amp; language</strong></td>
-<td style="text-align: left;">Pembagian tugas dan jadwal ditunjukkan langsung di chat, dihubungkan dengan pengalaman Maret, dan disampaikan informal dengan ajakan saling bantu.</td>
+<td style="text-align: left;">Solusi didemonstrasikan lewat spreadsheet nyata (urutan, penanggung jawab, progres, hasil kerja) dan langsung dipraktikkan lewat check-in harian, lalu dihubungkan dengan evidence lomba Maret.</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>Response &amp; adaptation</strong></td>
-<td style="text-align: left;">Kekhawatiran benturan jadwal mengubah mekanisme dari jadwal tetap menjadi jadwal fleksibel dengan pembagian tugas yang disesuaikan.</td>
+<td style="text-align: left;">Permintaan “bole diambil alih dulu?” mengubah mekanisme dari jadwal tetap menjadi pengerjaan fleksibel dengan bantuan sementara, tanpa memindahkan kepemilikan PPT.</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>Agreement/action</strong></td>
-<td style="text-align: left;">Anggota A menyetujui jadwal yang disesuaikan dan mulai mengerjakan bagiannya; progres dipantau lewat pengecekan berkala.</td>
+<td style="text-align: left;">Anggota A menyetujui jadwal yang disesuaikan dan mulai mengerjakan bagiannya; progres dipantau harian dan tim submit tepat waktu sebelum 9 Juni 2026.</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>Relationship outcome</strong></td>
-<td style="text-align: left;">Anggota A merasa kondisinya didengar, sehingga komitmen datang dari dirinya, bukan dari tekanan atau rasa bersalah.</td>
+<td style="text-align: left;">Anggota A berani menyampaikan kendala lebih awal, dan komitmennya datang dari dirinya, bukan dari tekanan atau rasa bersalah.</td>
 </tr>
 </tbody>
 </table>
 </section>
 <section id="penggunaan-ai" class="level2">
 <h2 class="anchored" data-anchor-id="penggunaan-ai">Penggunaan AI</h2>
-<p>AI (Claude) digunakan setelah kejadian untuk menyusun catatan saya ke format portofolio dan AI tidak menambahkan fakta, isi percakapan, maupun respons Anggota A, bagian-bagian itu berasal dari ingatan saya.</p>
+<p>AI (Claude) digunakan setelah kejadian untuk menyusun catatan saya ke format portofolio dan merumuskan hubungan problem–mechanism–benefit–value pada tabel solusi. AI tidak menambahkan fakta, isi percakapan, isi spreadsheet, maupun respons Anggota A; bagian-bagian itu berasal dari ingatan saya.</p>
 </section>
 <section id="feedback-dan-tindak-lanjut" class="level2">
 <h2 class="anchored" data-anchor-id="feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</h2>
 <ul>
-<li><strong>Feedback yang diterima:</strong> Anggota A menyampaikan bahwa jadwal awal berisiko berbenturan dengan kegiatannya yang lain.</li>
-<li><strong>Adaptation/replay:</strong> jadwal dibuat fleksibel dan pembagian tugas disesuaikan, lalu progres dicek secara berkala untuk melihat apakah pekerjaan berjalan dan siapa yang butuh bantuan.</li>
-<li><strong>Next practice:</strong> menanyakan ketersediaan waktu tiap anggota sebelum menyusun jadwal, bukan menunggu kekhawatiran muncul setelah jadwal dibagikan.</li>
+<li><strong>Feedback yang diterima:</strong> Anggota A menyampaikan bahwa pada periode itu ia belum bisa menangani bagiannya dan meminta bantuan sementara, sambil menyatakan akan melanjutkannya.</li>
+<li><strong>Adaptation/replay:</strong> pengerjaan dibuat fleksibel dengan bantuan sementara, check-in harian dipakai untuk membuka kendala tiap anggota, dan hasil kerja tetap dikumpulkan di spreadsheet sampai pengumpulan tepat waktu.</li>
+<li><strong>Next practice:</strong> menyepakati aturan bantuan sementara sejak awal (siapa membantu bagian apa dan sampai kapan diserahkan kembali) dan menanyakan ketersediaan waktu tiap anggota sebelum menyusun jadwal.</li>
 </ul>
 </section>
 <section id="self-assessment" class="level2">
@@ -494,17 +544,17 @@ Buka <a href="../examples/week-07.html">contoh fiktif Minggu 7</a> untuk melihat
 <tr class="odd">
 <td style="text-align: left;"><strong>Repertoire, Language &amp; AI</strong></td>
 <td style="text-align: center;">4</td>
-<td style="text-align: left;">Solusi ditunjukkan langsung di chat dan dihubungkan dengan evidence lomba Maret; AI dibatasi pada penyusunan dan pemetaan problem–solution.</td>
+<td style="text-align: left;">Spreadsheet urutan, penanggung jawab, progres, dan hasil kerja didemonstrasikan dan langsung dipraktikkan lewat check-in harian; AI dibatasi pada penyusunan dan pemetaan problem–solution.</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>Response &amp; Adaptation</strong></td>
 <td style="text-align: center;">4</td>
-<td style="text-align: left;">Kekhawatiran benturan jadwal mengubah mekanisme menjadi jadwal fleksibel dan pembagian tugas yang disesuaikan.</td>
+<td style="text-align: left;">Permintaan bantuan sementara mengubah mekanisme menjadi pengerjaan fleksibel tanpa menghilangkan kepemilikan tugas.</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>Agreement, Action &amp; Relationship</strong></td>
 <td style="text-align: center;">4</td>
-<td style="text-align: left;">Anggota A menyetujui jadwal dan mulai mengerjakan bagiannya; progres dipantau berkala dan relasi tim terjaga.</td>
+<td style="text-align: left;">Anggota A menyetujui jadwal dan mulai mengerjakan bagiannya; progres dipantau harian dan tim submit tepat waktu sebelum 9 Juni 2026.</td>
 </tr>
 </tbody>
 </table>
