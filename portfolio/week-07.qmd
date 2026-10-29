@@ -5,7 +5,7 @@ status: "Siap dinilai"
 self_score: "20/20"
 assessor_score: "—"
 categories: [TAIDA, Interest]
-description: "Penghubungan jadwal cicilan dan pembagian tugas dengan masalah penundaan di lomba Data Science sebelumnya, serta adaptasi menjadi jadwal fleksibel setelah muncul hidden concern benturan jadwal."
+description: "Penghubungan spreadsheet jadwal cicilan, pembagian tugas, dan check-in progres harian dengan masalah penundaan di lomba Data Science sebelumnya, serta adaptasi menjadi pengerjaan fleksibel saat target meminta bantuan sementara."
 ---
 
 ## Kompetensi target
@@ -25,24 +25,25 @@ Buka [contoh fiktif Minggu 7](../examples/week-07.qmd) untuk melihat tingkat kek
 
 ## Konteks performance
 
-**Tanggal dan setting:** Senin, 25 Mei 2026, diskusi tim lewat chat selama kurang lebih 30–60 menit, di awal lomba Data Science berikutnya yang diikuti tim yang sama.
+**Tanggal dan setting:** Senin, 25 Mei 2026, diskusi tim lewat chat selama kurang lebih 30–60 menit, di awal lomba Data Science berikutnya yang diikuti tim yang sama. Tenggat akhir lomba: Selasa, 9 Juni 2026.
 
-**Persons dan relationship:** Saya dan Anggota A, rekan satu tim lomba dengan posisi setara (tanpa hubungan atasan-bawahan), bersama Anggota B. Relasi kerja tetap terjaga setelah kasus Week 6, ketika Anggota A menerima tawaran bantuan saat tenggat lomba Maret tinggal satu hari.
+**Persons dan relationship:** Saya (pengerjaan model di Google Colab), Anggota A (pembuatan PPT), dan Anggota B (pengembangan ide dan revisi), satu tim dengan posisi setara. Relasi kerja tetap terjaga setelah kasus Week 6, ketika Anggota A menerima tawaran bantuan saat tenggat lomba Maret tinggal satu hari.
 
-**Objective dan initial state:** Membangun ketertarikan (*Interest*) Anggota A terhadap jadwal cicilan dan pembagian tugas yang jelas sejak awal lomba, agar pekerjaan tidak kembali menumpuk menjelang tenggat. Initial state Anggota A: *Attention*, sudah mengakui pada Maret bahwa penundaan berdampak pada tim, tetapi belum terlihat apakah ia siap mengikuti cara kerja baru di tengah kesibukannya.
+**Objective dan initial state:** Membangun ketertarikan (*Interest*) Anggota A terhadap sistem kerja baru, yaitu spreadsheet jadwal cicilan dengan pembagian tugas dan check-in progres harian, agar pekerjaan tidak kembali menumpuk menjelang tenggat. Initial state Anggota A: *Attention*, sudah mengakui pada Maret bahwa penundaan berdampak pada tim, tetapi belum terlihat apakah ia siap mengikuti cara kerja baru di tengah kesibukannya.
 
 ## Evidence
 
 ::: {.callout-note appearance="simple" icon=false}
 ### 1. Attention Evidence & Solution Hypothesis
 
-* **Evidence dari lomba Maret 2026:** pengerjaan ditunda sampai tenggat tinggal satu hari (19 Maret 2026), sehingga beberapa bagian pekerjaan hasilnya kurang maksimal dan hampir tidak ada waktu untuk memeriksa ulang serta memperbaiki hasil.
-* **Solution Hypothesis:** jadwal cicilan bertahap dan pembagian tugas yang dibagikan sejak awal, disertai pengecekan progres berkala, dapat mencegah penumpukan pekerjaan dan memunculkan kendala anggota lebih awal.
+* **Evidence dari lomba Maret 2026:** pengerjaan ditunda sampai tenggat tinggal satu hari (19 Maret 2026); kendala anggota baru terlihat di hari terakhir, sehingga beberapa bagian hasilnya kurang maksimal dan hampir tidak ada waktu untuk memeriksa ulang.
+* **Solution Hypothesis:** spreadsheet bersama yang memuat urutan pengerjaan, penanggung jawab, dan progres tiap tugas, ditambah check-in harian dan pengumpulan hasil kerja di spreadsheet yang sama, akan membuat progres terlihat sejak awal dan memunculkan kendala sebelum pekerjaan menumpuk.
 
 | Problem | Mechanism | Expected benefit | Value bagi target (Anggota A) |
 | :--- | :--- | :--- | :--- |
-| Pengerjaan ditunda sampai mendekati tenggat | Jadwal cicilan bertahap dan pembagian tugas yang jelas sejak awal lomba | Pekerjaan berjalan sedikit demi sedikit dan masih ada waktu memeriksa serta merevisi | Anggota A tahu prioritas bagiannya dan tidak harus mengejar semuanya di hari terakhir |
-| Kendala anggota baru terlihat ketika waktu hampir habis | Pengecekan progres berkala dan ajakan "kabarin aja kalau sibuk" | Hambatan terdeteksi lebih awal dan bantuan bisa diatur | Anggota A bisa meminta bantuan sebelum pekerjaan menumpuk, tanpa harus merasa bersalah seperti di Maret |
+| Pengerjaan ditunda sampai mendekati tenggat | Spreadsheet dengan urutan pengerjaan dan penanggung jawab tiap tugas (Colab, PPT, ide dan revisi) | Pekerjaan dicicil bertahap dan masih ada waktu memeriksa serta merevisi | Anggota A tahu posisi PPT dalam urutan kerja dan kapan bahannya dari Colab siap |
+| Progres hanya berupa pernyataan "lagi dikerjain" | Hasil kerja dikirim ke spreadsheet, bukan cukup dilaporkan lewat chat | Progres bisa diperiksa bersama secara nyata | Kontribusi Anggota A terlihat jelas tanpa perlu ditagih |
+| Kendala anggota baru terlihat di hari terakhir | Check-in progres harian dan aturan "kabarin aja kalau sibuk" | Hambatan terdeteksi saat masih ada waktu untuk diatur ulang | Anggota A bisa meminta bantuan lebih awal tanpa harus merasa bersalah seperti di Maret |
 
 ---
 
@@ -50,18 +51,29 @@ Buka [contoh fiktif Minggu 7](../examples/week-07.qmd) untuk melihat tingkat kek
 
 > *"Guys, ini ya pembagian tugas kita. Tolong jangan mepet lagi yaa kerjainnya. Kalo semisal sibuk atau gimana, kabarin ajaa, kita saling bantu!"*
 
-Saya membagikan pembagian tugas dan jadwal pengerjaan langsung di chat tim, sehingga setiap anggota bisa melihat bagiannya sendiri dan urutan pengerjaannya. Gaya bahasa sengaja informal agar tanggung jawab tersampaikan tanpa terasa seperti teguran.
+Bersama pesan itu, saya membagikan spreadsheet yang sudah saya susun dan menjelaskan cara memakainya. Strukturnya:
+
+| Urutan | Tugas | Penanggung jawab | Progres | Hasil kerja |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Pengerjaan model dan analisis di Google Colab | Saya | Diperbarui harian | Diunggah ke spreadsheet |
+| 2 | Pengembangan ide dan revisi | Anggota B | Diperbarui harian | Diunggah ke spreadsheet |
+| 3 | Pembuatan PPT | Anggota A | Diperbarui harian | Diunggah ke spreadsheet |
+
+Mulai hari itu saya menanyakan progres setiap hari dan meminta tiap anggota mengirim hasil kerjanya ke spreadsheet, sehingga mekanismenya langsung dipraktikkan, bukan hanya dijanjikan.
 
 ---
 
 ### 3. Response, Hidden Concern & Adaptation
 
-* **Respons Anggota A:** mengungkapkan kekhawatiran bahwa jadwal pengerjaan bisa berbenturan dengan kegiatannya yang lain.
-* **Identifikasi Hidden Concern:** saya semula mengira masalah utamanya adalah kebiasaan menunda, sehingga fokus saya pada disiplin jadwal. Respons Anggota A menunjukkan *hidden concern* sebenarnya adalah **ketersediaan waktu dan benturan dengan kegiatan lain**, bukan keengganan mengerjakan.
-* **Pertanyaan pengecekan:** sebelum mengubah jadwal, saya menanyakan apakah Anggota A tetap akan berusaha mengikuti lomba ini, untuk membedakan kesediaan berkomitmen dari kendala waktu.
-* **Adaptasi:** saya tidak mempertahankan jadwal awal secara kaku. Jadwal dibuat lebih fleksibel dan pembagian tugas disesuaikan dengan ketersediaan waktu Anggota A, dengan tetap menjaga bagiannya sebagai tanggung jawabnya sendiri.
-* **Hasil & State Shift:** Anggota A menyetujui jadwal yang sudah disesuaikan dan mulai mengerjakan bagiannya. State berpindah dari *Attention* menjadi **Interest**, ditunjukkan lewat persetujuan sekaligus tindakan nyata.
+* **Respons Anggota A:** setelah pembagian tugas dan jadwal dibahas, Anggota A menulis:  
+  *"Guys, sepertinya aku lagi gabisa handle sekarang, bole diambil alih dulu? setelah ini aku bakal kerjain lagi."*
+* **Identifikasi Hidden Concern:** saya semula mengira masalah utamanya adalah kebiasaan menunda, sehingga fokus saya pada disiplin jadwal dan laporan progres. Respons Anggota A menunjukkan *hidden concern* sebenarnya adalah **kapasitas waktu pada periode tertentu**, bukan keengganan mengerjakan; ia tetap menyatakan akan melanjutkan bagiannya.
+* **Pertanyaan pengecekan:** sebelum mengubah pengaturan, saya menanyakan apakah Anggota A tetap akan berusaha mengikuti lomba ini, untuk membedakan kesediaan berkomitmen dari kendala waktu sesaat.
+* **Adaptasi:** saya tidak mempertahankan jadwal sebagai aturan kaku. Pengerjaan dibuat fleksibel: anggota boleh meminta bantuan sementara saat tidak bisa menangani bagiannya, kendala masing-masing dibuka di check-in harian, dan PPT tetap tercatat sebagai tanggung jawab Anggota A di spreadsheet agar kepemilikannya tidak kabur.
+* **Hasil & State Shift:** Anggota A menyetujui jadwal yang sudah disesuaikan dan mulai mengerjakan bagiannya. State berpindah dari *Attention* menjadi **Interest**, ditunjukkan lewat persetujuan sekaligus tindakan nyata. Tim mengumpulkan pekerjaan tepat waktu sebelum tenggat Selasa, 9 Juni 2026.
 :::
+
+Berbeda dengan Maret, kendala Anggota A kali ini muncul lewat jalur yang memang disediakan mekanisme ("kabarin aja") saat masih ada waktu untuk diatur, bukan di hari terakhir.
 
 ## Analisis komunikasi
 
@@ -69,20 +81,20 @@ Saya membagikan pembagian tugas dan jadwal pengerjaan langsung di chat tim, sehi
 | :--- | :--- |
 | **Person & character** | Saya menghargai keterbatasan waktu Anggota A sebagai kondisi nyata, bukan menganggapnya kurang disiplin; posisi setara membuat saya memilih ajakan, bukan perintah. |
 | **Objective & state** | State Anggota A dinilai (*Attention* → *Interest*), dan saya tidak memaksakan jadwal final sebelum *hidden concern* terurai. |
-| **Repertoire & language** | Pembagian tugas dan jadwal ditunjukkan langsung di chat, dihubungkan dengan pengalaman Maret, dan disampaikan informal dengan ajakan saling bantu. |
-| **Response & adaptation** | Kekhawatiran benturan jadwal mengubah mekanisme dari jadwal tetap menjadi jadwal fleksibel dengan pembagian tugas yang disesuaikan. |
-| **Agreement/action** | Anggota A menyetujui jadwal yang disesuaikan dan mulai mengerjakan bagiannya; progres dipantau lewat pengecekan berkala. |
-| **Relationship outcome** | Anggota A merasa kondisinya didengar, sehingga komitmen datang dari dirinya, bukan dari tekanan atau rasa bersalah. |
+| **Repertoire & language** | Solusi didemonstrasikan lewat spreadsheet nyata (urutan, penanggung jawab, progres, hasil kerja) dan langsung dipraktikkan lewat check-in harian, lalu dihubungkan dengan evidence lomba Maret. |
+| **Response & adaptation** | Permintaan "bole diambil alih dulu?" mengubah mekanisme dari jadwal tetap menjadi pengerjaan fleksibel dengan bantuan sementara, tanpa memindahkan kepemilikan PPT. |
+| **Agreement/action** | Anggota A menyetujui jadwal yang disesuaikan dan mulai mengerjakan bagiannya; progres dipantau harian dan tim submit tepat waktu sebelum 9 Juni 2026. |
+| **Relationship outcome** | Anggota A berani menyampaikan kendala lebih awal, dan komitmennya datang dari dirinya, bukan dari tekanan atau rasa bersalah. |
 
 ## Penggunaan AI
 
-AI (Claude) digunakan setelah kejadian untuk menyusun catatan saya ke format portofolio dan AI tidak menambahkan fakta, isi percakapan, maupun respons Anggota A, bagian-bagian itu berasal dari ingatan saya.
+AI (Claude) digunakan setelah kejadian untuk menyusun catatan saya ke format portofolio dan merumuskan hubungan problem–mechanism–benefit–value pada tabel solusi. AI tidak menambahkan fakta, isi percakapan, isi spreadsheet, maupun respons Anggota A; bagian-bagian itu berasal dari ingatan saya.
 
 ## Feedback dan tindak lanjut
 
-* **Feedback yang diterima:** Anggota A menyampaikan bahwa jadwal awal berisiko berbenturan dengan kegiatannya yang lain.
-* **Adaptation/replay:** jadwal dibuat fleksibel dan pembagian tugas disesuaikan, lalu progres dicek secara berkala untuk melihat apakah pekerjaan berjalan dan siapa yang butuh bantuan.
-* **Next practice:** menanyakan ketersediaan waktu tiap anggota sebelum menyusun jadwal, bukan menunggu kekhawatiran muncul setelah jadwal dibagikan.
+* **Feedback yang diterima:** Anggota A menyampaikan bahwa pada periode itu ia belum bisa menangani bagiannya dan meminta bantuan sementara, sambil menyatakan akan melanjutkannya.
+* **Adaptation/replay:** pengerjaan dibuat fleksibel dengan bantuan sementara, check-in harian dipakai untuk membuka kendala tiap anggota, dan hasil kerja tetap dikumpulkan di spreadsheet sampai pengumpulan tepat waktu.
+* **Next practice:** menyepakati aturan bantuan sementara sejak awal (siapa membantu bagian apa dan sampai kapan diserahkan kembali) dan menanyakan ketersediaan waktu tiap anggota sebelum menyusun jadwal.
 
 ## Self-assessment
 
@@ -90,9 +102,9 @@ AI (Claude) digunakan setelah kejadian untuk menyusun catatan saya ke format por
 | :--- | :---: | :--- |
 | **Person & Character** | 4 | Keterbatasan waktu Anggota A dihargai sebagai kondisi nyata, bukan dianggap kurang disiplin. |
 | **Objective & State** | 4 | State digeser dari *Attention* ke *Interest* setelah *hidden concern* ditangani, tanpa memaksakan jadwal awal. |
-| **Repertoire, Language & AI** | 4 | Solusi ditunjukkan langsung di chat dan dihubungkan dengan evidence lomba Maret; AI dibatasi pada penyusunan dan pemetaan problem–solution. |
-| **Response & Adaptation** | 4 | Kekhawatiran benturan jadwal mengubah mekanisme menjadi jadwal fleksibel dan pembagian tugas yang disesuaikan. |
-| **Agreement, Action & Relationship** | 4 | Anggota A menyetujui jadwal dan mulai mengerjakan bagiannya; progres dipantau berkala dan relasi tim terjaga. |
+| **Repertoire, Language & AI** | 4 | Spreadsheet urutan, penanggung jawab, progres, dan hasil kerja didemonstrasikan dan langsung dipraktikkan lewat check-in harian; AI dibatasi pada penyusunan dan pemetaan problem–solution. |
+| **Response & Adaptation** | 4 | Permintaan bantuan sementara mengubah mekanisme menjadi pengerjaan fleksibel tanpa menghilangkan kepemilikan tugas. |
+| **Agreement, Action & Relationship** | 4 | Anggota A menyetujui jadwal dan mulai mengerjakan bagiannya; progres dipantau harian dan tim submit tepat waktu sebelum 9 Juni 2026. |
 
 **Total: 20/20 - Lanjut.**
 
@@ -104,4 +116,3 @@ AI (Claude) digunakan setelah kejadian untuk menyusun catatan saya ke format por
 **Prioritas perbaikan:** —  
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
 :::
-
