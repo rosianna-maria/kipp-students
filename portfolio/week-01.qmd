@@ -5,7 +5,7 @@ status: "Siap dinilai"
 self_score: "20/20"
 assessor_score: "—"
 categories: [Fondasi, Person]
-description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship saat membantu rekan tim yang tertahan di modul Tugas Besar."
+description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship saat berpindah dari character Koordinator ke Teman Seangkatan dalam rapat tim Analisis Data Peserta."
 ---
 
 ## Kompetensi target
@@ -25,91 +25,87 @@ Buka [contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kek
 
 ## Lima character
 
-Personality saya relatif menetap: terstruktur, teliti, dan cepat masuk ke mode mencari solusi. Character adalah peran yang saya pilih sesuai relationship dan situasi, sehingga orang yang sama bisa menerima *language* yang berbeda dari saya.
+Personality saya relatif menetap: terstruktur, teliti, dan cepat masuk ke mode mencari solusi. Character adalah peran yang saya pilih sesuai relationship dan situasi, sehingga orang yang sama bisa menerima *language* yang berbeda dari saya, bahkan dalam satu rapat.
 
 | Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
 | :--- | :--- | :--- | :--- | :--- |
-| **Akademik** - Anggota Tim Proyek | Rekan kelompok Tugas Besar Algoritma dan Pemrograman 1 | Menyelesaikan bagian tugas tepat waktu dan terintegrasi dengan modul rekan | Laporan progres, pertanyaan spesifik, *commit message* rapi, istilah *test case* dan *dependency* | Terkesan dingin karena fokus hasil; latihan: buka diskusi dengan satu pertanyaan personal sebelum bahas tugas |
-| **Komunitas** - Anggota GDGOC ITB, URO, HMIF | Sesama anggota di tiga organisasi | Berkontribusi ide dan berkolaborasi dengan gaya kerja yang berbeda | *Brainstorming* terbuka, mendengarkan sebelum menyimpulkan | Menyodorkan solusi terlalu cepat; latihan: tunggu dua pendapat lain sebelum bicara |
-| **Publik** - Mentor OSKM ITB | Mentee OSKM ITB | Membimbing dengan jujur dan menyesuaikan komunikasi dengan kebutuhan mentee | Mendengarkan aktif, pertanyaan terbuka, contoh pengalaman tanpa menggurui | Terlalu banyak instruksi; latihan: tanya "menurutmu gimana?" sebelum memberi saran |
+| **Akademik** - Koordinator Tim Proyek | Lima anggota tim Analisis Data Peserta | Membagi tugas dengan jelas, memantau progres, dan memastikan proyek selesai sesuai deadline | Arahan ringkas, pembagian tugas tertulis, pengingat deadline di grup WhatsApp | Terlalu fokus target sehingga kondisi anggota terlewat; latihan: tanya kendala tiap anggota sebelum mengunci deadline |
+| **Peer** - Teman Seangkatan | Sesama mahasiswa STI ITB 2025 | Memahami kondisi teman dan menjaga hubungan setara di luar urusan tugas | Mendengarkan, validasi ("aku paham"), tawaran bantuan tanpa menghakimi | Langsung memberi solusi sebelum teman selesai bercerita; latihan: rangkum cerita teman dulu sebelum menawarkan bantuan |
+| **Komunitas** - Mentor OSKM ITB | Mentee OSKM ITB | Membimbing dengan jujur dan menyesuaikan komunikasi dengan kebutuhan mentee | Pertanyaan terbuka, contoh pengalaman tanpa menggurui | Terlalu banyak instruksi; latihan: tanya "menurutmu gimana?" sebelum memberi saran |
 | **Domestik** - Anak Rantau | Orang tua di Batam | Menjaga kedekatan tanpa membuat khawatir, tetap jujur soal kesulitan | *Video call* rutin, cerita ringan, mendengarkan kabar rumah | Menyembunyikan kesulitan karena terbiasa mandiri; latihan: ceritakan satu kesulitan nyata tiap minggu |
-| **Intra-Self** - Pembelajar Mandiri | Diri sendiri saat menghadapi *bug* atau materi sulit | Memisahkan kesalahan teknis dari identitas dan tetap termotivasi | *Journaling* singkat, *self-talk*: "Bagian mana yang bisa aku perbaiki?" | Terlalu keras menilai diri; latihan: catat satu keberhasilan sebelum evaluasi kekurangan |
+| **Intra-Self** - Pembelajar Mandiri | Diri sendiri saat menghadapi tekanan tugas | Memisahkan kesalahan teknis dari identitas dan tetap termotivasi | *Journaling* singkat, *self-talk*: "Bagian mana yang bisa aku perbaiki?" | Terlalu keras menilai diri; latihan: catat satu keberhasilan sebelum evaluasi kekurangan |
 
 ## Konteks performance
 
-**Tanggal dan setting:** Rabu, 3 Juni 2026, dua hari sebelum tenggat Jumat, 5 Juni 2026. Tatap muka di Student Lounge GKU 1 ITB Jatinangor, di tengah pengerjaan Tugas Besar Algoritma dan Pemrograman 1 yang berjalan sejak 27 April 2026 dan sebagian besar dikerjakan mandiri di kost.
+**Tanggal dan setting:** Sabtu, 24 Oktober 2026, rapat tim lewat Google Meet selama kurang lebih satu jam, membahas pembagian tugas dan deadline proyek Analisis Data Peserta.
 
-**Persons dan relationship:** Saya dan Mitra K, sesama anggota tim (setara, tanpa hubungan atasan-bawahan). Tim terdiri dari saya, Mitra A, Mitra D, Mitra K, dan Mitra N. Modul Mitra K adalah *dependency* langsung dari bagian saya.
+**Persons dan relationship:** Saya sebagai koordinator dan lima anggota tim dari STI ITB 2025, termasuk Anggota A. Di luar proyek, kami adalah teman seangkatan yang setara; posisi koordinator memberi saya kuasa informal untuk mengarahkan keputusan.
 
-**Objective dan initial state:** State awal: modul Mitra K belum selesai dan saya sempat berasumsi ia "kurang disiplin". Objective: (1) modul selesai sebelum tenggat, (2) mengganti asumsi dengan hambatan yang sebenarnya, (3) menjaga relasi kerja tanpa melampaui wewenang saya. *Uncertainty*: penyebabnya belum jelas, apakah waktu, kemampuan, atau hal lain.
+**Objective dan initial state:** State awal: saya memimpin rapat dalam character Koordinator dengan target mengunci pembagian tugas dan deadline tiga hari. Objective: (1) setiap anggota punya tanggung jawab jelas, (2) proyek selesai tepat waktu, (3) keputusan tidak mengabaikan kondisi anggota yang punya kendala.
 
 ## Evidence
 
 ::: {.callout-note appearance="simple" icon=false}
-**Rekonstruksi percakapan tatap muka (catatan pribadi, berdasarkan ingatan, nama disamarkan):**
+**Rekonstruksi percakapan Google Meet (catatan pribadi, nama disamarkan):**
 
-**Saya (Anggota Tim ke Mitra K):** *"Sebelum kita atur ulang jadwal, boleh cerita apa yang bikin bagian ini masih tertahan?"*
+**Saya (Koordinator ke tim):** *"Kita perlu menentukan pembagian tugas dan deadline supaya semua pekerjaan bisa selesai tepat waktu."*
 
-**Mitra K:** *"Aku masih bingung di bagian penanganan error-nya, coba beberapa kali masih gagal test case."*
+*(Trigger: saat deadline tiga hari dibahas, Anggota A menyampaikan bahwa memuat dan memeriksa dataset butuh waktu, sementara ia juga punya kegiatan akademik lain)*
 
-*(Non-verbal trigger: kalimat "masih bingung" diucapkan dengan nada lebih pelan)*
+*(Action: berhenti mendorong keputusan cepat, memberi ruang Anggota A menjelaskan kendalanya, lalu beralih dari mengarahkan ke mendengarkan)*
 
-*(Action: menunda pembahasan jadwal, mengganti niat awal menagih progres menjadi mengecek pemahaman)*
+**Saya (Teman Seangkatan ke Anggota A):** *"Aku paham kalau bagian ini membutuhkan waktu. Kalau nanti ada kesulitan, kabari grup saja supaya kita bisa saling membantu."*
 
-**Saya:** *"Oke, berarti hambatannya di logic error handling, bukan soal waktu ya?"*
+**Anggota A:** menjelaskan kendalanya lebih rinci.
 
-**Mitra K:** *"Iya, betul."*
+**Anggota lain:** ikut menimbang solusi bersama.
 
-**Saya:** *"Aku bisa bantu review bagian itu malam ini atau kita pair programming sebentar. Mana yang lebih membantu?"*
-
-*(Action: Mitra K memilih pair programming; sesi sekitar dua jam, Mitra K menjelaskan konteks bug dan memvalidasi test case, saya menyusun ulang logic error handling. Modul selesai sebelum tenggat, lalu saya melapor ke ketua kelompok.)*
+*(Action: kembali ke character Koordinator untuk merangkum keputusan: deadline tiga hari dipertahankan, anggota yang kesulitan wajib mengabari grup, anggota lain boleh membantu, dan saya memantau progres. Seluruh anggota mengumpulkan pekerjaan tepat waktu pada 26 Oktober 2026.)*
 :::
-
-Kontribusi saya terbatas pada perbaikan logic *error handling*, bukan keseluruhan modul. Sesi tidak direkam dan repository Tugas Besar sudah tidak dapat diakses, jadi evidence ini adalah catatan pribadi, bukan transkrip terverifikasi.
 
 ## Analisis komunikasi
 
 | Elemen | Evidence dan analisis |
 | :--- | :--- |
-| **Person & character** | Mitra K awalnya saya lihat lewat *stereotype* "kurang disiplin"; setelah bertanya, yang muncul hambatan teknis. Karena relasi setara dan saya tak punya otoritas atas tenggat, saya memilih character rekan yang membantu, bukan penagih. |
-| **Objective & state** | Tiga objective (tenggat, kejelasan hambatan, relasi tim) dikelola bersamaan; *uncertainty* penyebab diatasi dengan bertanya sebelum bertindak. |
-| **Repertoire & language** | Bergeser dari menagih progres ke klarifikasi, *paraphrase*, lalu dua opsi bantuan agar Mitra K tetap memegang kendali atas cara dibantu. |
-| **Response & adaptation** | Nada pelan pada "masih bingung" adalah sinyal lemah yang mengubah rencana; *paraphrase* "bukan soal waktu ya?" menjadi loop pengecekan sebelum bertindak. |
-| **Agreement/action** | Kesepakatan eksplisit *pair programming* dua jam, hasil dicek lewat *test case*, dan dilaporkan ke ketua kelompok karena batas wewenang saya. |
-| **Relationship outcome** | Masalah diselesaikan bersama tanpa teguran sepihak, kepercayaan tim terjaga, dan asumsi awal saya terkoreksi oleh fakta. |
+| **Person & character** | Person yang sama (Anggota A) menerima dua character dari saya dalam satu rapat: Koordinator yang mengejar target, lalu Teman Seangkatan yang mendengarkan kendalanya. |
+| **Objective & state** | Dua objective dikelola bersamaan: deadline proyek dan kondisi anggota; state rapat bergeser dari mengunci keputusan ke memahami kendala. |
+| **Repertoire & language** | Bahasa berubah dari arahan ("kita perlu menentukan…") menjadi validasi dan tawaran bantuan ("aku paham… kabari grup saja"). |
+| **Response & adaptation** | Keberatan A mengubah cara saya memimpin: berhenti mendorong keputusan cepat dan memberi ruang mendengar sebelum memutuskan. |
+| **Agreement/action** | Deadline dipertahankan dengan tiga pengaman (lapor kendala, saling bantu, pemantauan progres); hasilnya semua anggota mengumpulkan tepat waktu. |
+| **Relationship outcome** | Kendala A didengar tanpa membuatnya terlihat menolak tugas, dan relasi setara antarteman tetap terjaga di tengah posisi saya sebagai koordinator. |
 
 ## Perubahan language antar character
 
-Situasi yang sama (pekerjaan belum selesai) menghasilkan *language* berbeda tergantung *character* yang aktif:
+Situasi yang sama (deadline tiga hari yang terasa berat) menghasilkan *language* berbeda tergantung *character* yang aktif:
 
-* **Sebagai Anggota Tim Proyek:** *"Bagian ini butuh selesai sebelum integrasi, hambatannya di mana?"* — fokus pada fakta, tenggat, dan kebutuhan integrasi.
-* **Sebagai Mentor OSKM:** *"Menurutmu bagian mana yang paling bikin stuck?"* — fokus membimbing mentee menemukan jawabannya sendiri.
-* **Sebagai Pembelajar Mandiri:** *"Ini macet karena aku belum paham konsepnya, atau karena aku belum istirahat?"* — fokus mengaudit asumsi ke diri sendiri tanpa menghakimi.
+* **Sebagai Koordinator Tim Proyek:** *"Kita perlu menentukan pembagian tugas dan deadline supaya semua pekerjaan bisa selesai tepat waktu."* — fokus pada target, kejelasan tugas, dan jadwal.
+* **Sebagai Teman Seangkatan:** *"Aku paham kalau bagian ini membutuhkan waktu. Kalau nanti ada kesulitan, kabari grup saja supaya kita bisa saling membantu."* — fokus pada memahami kondisi teman dan memberi rasa aman.
+* **Sebagai Pembelajar Mandiri:** *"Deadline ini berat karena bagiannya memang sulit, atau karena aku belum membaginya dengan baik?"* — fokus mengaudit keputusan sendiri sebagai koordinator.
 
 ## Penggunaan AI
 
-AI (Claude) digunakan setelah episode selesai untuk dua hal:
+AI (Claude) digunakan setelah rapat untuk dua hal:
 
-1. **Merapikan kalimat draf:** konteks performance, evidence, dan analisis kontras peran.
-2. **Menguji kelengkapan terhadap rubrik:** mengecek apakah tiap dimensi sudah didukung evidence.
+1. **Memisahkan fakta dan interpretasi:** memilah kronologi rapat (apa yang diucapkan dan diputuskan) dari penilaian saya tentang perubahan character.
+2. **Menyusun struktur portofolio:** merapikan tabel lima character dan analisis agar sesuai format.
 
-**Output AI yang diubah atau ditolak:** AI sempat menulis detail organisasi dan penamaan Mitra yang tidak konsisten; saya koreksi agar sesuai keadaan nyata (GDGOC, URO, HMIF, OSKM ITB) dan nama rekan tetap disamarkan. Seluruh fakta episode, isi percakapan, dan skor self-assessment berasal dari saya, termasuk membedakan *story* ("kurang disiplin") dari *fact* (modul belum masuk sesuai jadwal).
+**Output AI yang ditolak:** AI tidak saya pakai untuk menambahkan kutipan atau respons anggota yang tidak terjadi; respons Anggota A dan anggota lain ditulis sebatas yang saya ingat.
 
 ## Feedback dan tindak lanjut
 
-* **Feedback yang diterima:** Mitra K menilai saya sekarang lebih sering bertanya dulu sebelum memberi saran, tetapi masih suka memotong pembicaraan saat ia belum selesai cerita, terutama pada topik teknis.
-* **Adaptation/replay:** Pada situasi serupa saya tetap mulai dari pertanyaan klarifikasi, tetapi memberi waktu lebih lama bagi lawan bicara menjelaskan sebelum masuk ke solusi.
-* **Next practice:** Pola **tanya → dengarkan → rangkum → baru tawarkan solusi**; menahan diri tidak memberi solusi di menit pertama, lalu merangkum dan mengonfirmasi. Indikator berhasil: tidak ada lagi komentar bahwa saya memotong pembicaraan.
+* **Feedback yang diterima:** anggota tim menyampaikan bahwa pembagian tugas dan arahan saya sudah jelas.
+* **Adaptation/replay:** setelah rapat, saya memantau progres di grup WhatsApp dan memastikan anggota yang kesulitan mendapat bantuan sesuai kesepakatan.
+* **Next practice:** sebelum mengunci deadline sebagai koordinator, tanyakan dulu kendala tiap anggota, supaya perpindahan ke character Teman Seangkatan terjadi sejak awal, bukan setelah ada keberatan.
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 | :--- | :---: | :--- |
-| **Person & Character** | 4 | Lima character lintas domain; pada episode utama membaca relasi setara, batas otoritas, dan mengoreksi *stereotype* awal. |
-| **Objective & State** | 4 | Tiga objective dan *uncertainty* penyebab dikelola bersamaan dengan state awal yang konkret. |
-| **Repertoire, Language & AI** | 4 | Repertoire bergeser dari menagih ke klarifikasi dan dua opsi bantuan; AI dibatasi pada penyuntingan dan cek rubrik. |
-| **Response & Adaptation** | 4 | Sinyal lemah (nada pelan) dan *paraphrase* pengecekan mengubah tindakan menjadi *pair programming*. |
-| **Agreement, Action & Relationship** | 4 | Kesepakatan eksplisit, *trade-off* waktu, pelaporan ke ketua kelompok, review lewat *test case*, dan latihan lanjutan terukur. |
+| **Person & Character** | 4 | Lima character lintas domain; pada episode utama saya berpindah dari Koordinator ke Teman Seangkatan sambil membaca kuasa informal koordinator. |
+| **Objective & State** | 4 | Objective target proyek dan kondisi anggota dikelola bersamaan; perubahan state rapat dijelaskan konkret. |
+| **Repertoire, Language & AI** | 4 | Language berubah dari arahan ke validasi dan tawaran bantuan; AI dibatasi pada pemisahan fakta dan struktur. |
+| **Response & Adaptation** | 4 | Keberatan Anggota A mengubah cara memimpin dari mendorong keputusan ke mendengarkan dulu. |
+| **Agreement, Action & Relationship** | 4 | Deadline dipertahankan dengan tiga pengaman, hasil tepat waktu, dan relasi setara tetap terjaga. |
 
 **Total: 20/20 - Lanjut.** Seluruh dimensi mencapai level 4.
 
