@@ -5,7 +5,7 @@ status: "Siap dinilai"
 self_score: "20/20"
 assessor_score: "—"
 categories: [TAIDA, Action]
-description: "Desire–action gap, authority map, negosiasi opsi timeline, agreement eksplisit dengan owner dan tenggat internal, serta spreadsheet pembagian tugas sebagai action evidence untuk lomba Interactive Dashboard Creation."
+description: "Desire–action gap, authority map termasuk panitia lomba, negosiasi opsi timeline, agreement eksplisit, serta bukti aksi: spreadsheet yang diadaptasi ke output dashboard, tiga update progres tanpa keterlambatan, evaluasi 2 November, dan pendaftaran tim."
 ---
 
 ## Kompetensi target
@@ -25,96 +25,90 @@ Buka [contoh fiktif Minggu 10](../examples/week-10.qmd) untuk melihat tingkat ke
 
 ## Konteks performance
 
-**Tanggal dan setting:** Kamis, 29 Oktober 2026, diskusi di chat grup tim lomba Data Science, sebagai lanjutan percakapan pribadi dengan Anggota A pada hari yang sama (Week 9).
+**Tanggal dan setting:** Kamis, 29 Oktober 2026, diskusi di chat grup tim, sebagai lanjutan percakapan pribadi dengan Anggota A pada hari yang sama (Week 9). Pelaksanaan kesepakatan dipantau lewat grup WhatsApp hingga evaluasi Senin, 2 November 2026, dan pendaftaran Jumat, 6 November 2026.
 
-**Persons dan relationship:** Saya (analisis di Google Colab), Anggota A (PPT), dan Anggota B (ide dan revisi), satu tim dengan posisi setara. Tim sudah dua kali lomba bersama (Maret dan Mei–Juni 2026).
+**Persons dan relationship:** Saya, Anggota A, dan Anggota B, satu tim dengan posisi setara yang sudah dua kali lomba bersama. Panitia lomba Interactive Dashboard Creation menjadi pihak luar yang menentukan syarat pendaftaran dan ketentuan output.
 
-**Objective dan initial state:** Mengubah keinginan bersama untuk "kerja lebih terstruktur tapi fleksibel" menjadi rencana aksi dengan lomba yang pasti, owner, tenggat internal, aturan saat rencana meleset, dan jadwal review. Initial state: *Desire* dari Anggota A sudah terbentuk di Week 9, tetapi belum ada keputusan lomba, belum ada tenggat internal yang disepakati seluruh tim, dan Anggota B belum terlibat.
+**Objective dan initial state:** Mengubah keinginan bersama untuk "kerja lebih terstruktur tapi fleksibel" menjadi aksi nyata dengan lomba yang pasti, owner, tenggat internal, stop rule, dan jadwal review. Initial state: *Desire* dari Anggota A sudah terbentuk di Week 9, tetapi belum ada keputusan lomba, belum ada tenggat yang disepakati seluruh tim, dan Anggota B belum terlibat.
 
 ## Evidence
 
 ::: {.callout-note appearance="simple" icon=false}
 ### 1. Desire–Action Gap & Authority Map
 
-Anggota A sudah ingin cara kerja baru dijalankan, tetapi aksi tertahan oleh beberapa hambatan yang masing-masing punya pemegang keputusan berbeda:
-
 | Barrier / Hambatan | Person dengan Authority | Respons & Syarat |
 | :--- | :--- | :--- |
-| **Pemilihan lomba dan deadline resmi** | **Seluruh tim (konsensus)** | Dipilih berdasarkan kemampuan tim dan waktu pengerjaan: Interactive Dashboard Creation, deadline Sabtu, 28 November 2026. |
-| **Pendaftaran tim** | **Saya** | Mendaftarkan tim paling lambat Jumat, 30 Oktober 2026. |
-| **Kerangka ide awal dan review** | **Anggota B** | Kerangka ide H-5; review hasil analisis dan PPT tiap 2 hari. |
-| **Hasil analisis Colab** | **Saya** | Hasil yang dibutuhkan PPT tersedia H-5. |
-| **Draft dan revisi PPT** | **Anggota A** | Draft H-3, revisi berdasarkan masukan B paling lambat H-2. |
+| **Pemilihan lomba** | **Seluruh tim (konsensus)** | Dipilih Interactive Dashboard Creation, deadline Sabtu, 28 November 2026, berdasarkan kemampuan tim dan waktu pengerjaan. |
+| **Syarat output dan pengumpulan** | **Panitia lomba (guidebook)** | Output utama wajib berupa dashboard interaktif, bukan PPT; rencana dan pembagian kerja tim harus menyesuaikan. |
+| **Pendaftaran tim** | **Saya** | Target internal paling lambat Jumat, 30 Oktober 2026. |
+| **Pembagian dan tenggat tiap bagian** | **Masing-masing owner bagian** | Setiap anggota menetapkan dan menyetujui tenggat bagiannya sendiri. |
 
 ---
 
 ### 2. Negosiasi Opsi & Trade-off
 
-1. **Target final H-1 vs H-2.** H-1 memberi waktu kerja lebih panjang tetapi tidak menyisakan cadangan. **Dipilih H-2** (usulan Anggota A), dengan H-1 khusus untuk cek akhir dan submit.
-2. **Hasil Colab H-3 vs H-5.** Usulan awal Anggota A adalah Colab H-3 dan draft PPT H-2, tetapi itu hanya menyisakan satu hari untuk PPT. **Dipilih H-5**, sehingga draft PPT bisa H-3 dan revisi H-2.
-3. **Pembagian tugas tetap vs rotasi.** Rotasi memberi pengalaman baru tetapi butuh adaptasi. **Dipilih tetap** (Colab, PPT, ide dan revisi) karena tiap anggota sudah tahu tugasnya dan lebih efisien.
+1. **Target final H-1 vs H-2.** H-1 memberi waktu kerja lebih panjang tetapi tanpa cadangan. **Dipilih H-2** (usulan Anggota A), dengan H-1 khusus cek akhir dan submit.
+2. **Bahan untuk bagian berikutnya H-3 vs H-5.** Usulan awal A menyisakan hanya satu hari untuk bagian berikutnya. **Dipilih H-5**, agar tiap bagian punya waktu yang cukup dari bagian sebelumnya.
+3. **Pembagian tugas tetap vs rotasi.** **Dipilih tetap** karena tiap anggota sudah tahu perannya, dengan syarat disesuaikan bila ketentuan lomba menuntut perubahan.
 
 ---
 
-### 3. Agreement Eksplisit
-
-Seluruh anggota menyetujui kesepakatan berikut di chat grup:
+### 3. Agreement Eksplisit (29 Oktober 2026)
 
 * **Scope:** lomba Interactive Dashboard Creation, deadline resmi Sabtu, 28 November 2026.
-* **Pendaftaran:** saya mendaftarkan tim paling lambat Jumat, 30 Oktober 2026.
-* **Owners & tenggat internal:**
-
-| Tugas | Penanggung jawab | Tenggat | Status |
-| :--- | :--- | :--- | :--- |
-| Kerangka ide awal | Anggota B | H-5 (Senin, 23 Nov 2026) | Belum dimulai |
-| Hasil analisis Colab | Saya | H-5 (Senin, 23 Nov 2026) | Belum dimulai |
-| Draft PPT | Anggota A | H-3 (Rabu, 25 Nov 2026) | Belum dimulai |
-| Review ide dan hasil | Anggota B | H-2 (Kamis, 26 Nov 2026) | Belum dimulai |
-| Finalisasi seluruh hasil | Semua anggota | H-2 (Kamis, 26 Nov 2026) | Belum dimulai |
-| Pengecekan akhir dan submit | Anggota yang ditunjuk | H-1 (Jumat, 27 Nov 2026) | Belum dimulai |
-
-* **Update dan review:** update progres tiap 2 hari dengan format satu baris (sudah apa, sedang apa, ada kendala atau tidak), sekaligus menjadi jadwal review bersama.
-* **Stop rule:** jika hasil Colab belum siap pada tenggatnya, saya mengabarkan di grup dan PPT mulai disusun dari hasil sementara yang sudah valid, lalu diperbarui setelah analisis final selesai. Jika timeline ternyata tidak realistis, tim mengevaluasinya bersama pada review berikutnya.
+* **Pendaftaran:** saya mendaftarkan tim paling lambat 30 Oktober 2026.
+* **Owner dan tenggat:** setiap bagian punya penanggung jawab dan tenggat internal di spreadsheet bersama, dengan target final H-2 (Kamis, 26 November 2026) dan H-1 (Jumat, 27 November 2026) untuk cek akhir dan submit.
+* **Update dan review:** update progres tiap 2 hari dengan format satu baris (sudah apa, sedang apa, ada kendala atau tidak).
+* **Stop rule:** jika satu bagian belum siap pada tenggatnya, owner mengabarkan di grup dan bagian berikutnya mulai dari hasil sementara yang valid; jika timeline tidak realistis, tim mengevaluasinya bersama pada review berikutnya.
 
 ---
 
 ### 4. Action Evidence & Adaptation
 
-* **Temuan saat merangkum:** usulan Anggota A berisi dua konflik: target final H-2 tetapi finalisasi "H-2 sampai H-1", dan draft PPT H-2 hanya sehari setelah Colab H-3, padahal di Week 9 ia butuh waktu menyusun PPT tanpa buru-buru.
-* **Tindakan / Adaptasi:** saya merangkum ulang dan mengusulkan H-1 khusus cek akhir, serta memajukan Colab ke H-5 agar PPT punya waktu. Anggota A menyetujui dan menyesuaikan tenggatnya; Anggota B menyetujui tenggat H-5 untuk kerangka ide.
-* **Evidence tangible:** spreadsheet pembagian tugas dengan enam tugas, penanggung jawab, tenggat internal, dan status (tabel di atas) sudah dibuat dan dibagikan; Anggota B mengonfirmasi bagiannya di grup; pesan finalisasi lomba dikirim ke grup dan pendaftaran dijadwalkan paling lambat 30 Oktober 2026.
+* **Adaptasi saat merangkum (29 Oktober):** usulan A berisi konflik tenggat (final H-2 tetapi finalisasi "H-2 sampai H-1", dan bagian berikutnya hanya punya satu hari). Saya merangkum ulang, memisahkan H-1 untuk cek akhir, dan memajukan tenggat bahan ke H-5; A dan B menyetujui.
+* **Adaptasi setelah memeriksa guidebook (30 Oktober):** ketentuan panitia menunjukkan output berubah dari PPT menjadi **dashboard interaktif**. Tim menimbang alternatif teknologi (Tableau, Power BI, Looker Studio, Streamlit), memilih Streamlit, dan menegosiasikan ulang pembagian kerja (lihat Week 11). Spreadsheet diperbarui:
+
+| Tugas | Penanggung jawab | Status |
+| :--- | :--- | :--- |
+| Integrasi dashboard, struktur tampilan, dan interaksi di Streamlit | Saya | Selesai |
+| Pemeriksaan kualitas data, pengolahan data, dan visualisasi | Anggota A | Selesai |
+| Analisis, penentuan informasi utama, dan uji kemudahan penggunaan | Anggota B | Selesai |
+
+* **Update progres:** **tiga kali** update satu baris masuk di grup WhatsApp, dan **tidak ada anggota yang terlambat** dari tenggat bagiannya, sehingga stop rule tidak perlu dipakai.
+* **Review (Senin, 2 November 2026):** evaluasi memeriksa pembersihan data, struktur dashboard Streamlit, dan rancangan visualisasi dari Anggota B; seluruh tugas dinyatakan selesai.
+* **Pendaftaran (Jumat, 6 November 2026):** tim terdaftar di lomba Interactive Dashboard Creation. Pendaftaran ini **lewat seminggu dari target internal 30 Oktober** yang saya pegang sendiri. Saya mencatatnya sebagai satu-satunya komitmen dalam kesepakatan yang tidak tepat waktu, dan bagian tanggung jawab saya ini yang paling perlu diperbaiki.
 :::
 
 ## Analisis komunikasi
 
 | Elemen | Evidence dan analisis |
 | :--- | :--- |
-| **Person & character** | Setiap hambatan dipetakan ke pemegang keputusannya; pilihan lomba tidak saya putuskan sendiri karena itu wewenang seluruh tim, sedangkan pendaftaran saya ambil sebagai owner. |
-| **Objective & state** | Keinginan abstrak dari Week 9 diubah menjadi struktur aksi: lomba dan deadline pasti, owner, tenggat internal bertanggal, update, review, dan stop rule. |
-| **Repertoire & language** | Opsi dan trade-off dibahas terbuka, lalu saya merangkum ulang agar semua anggota membaca kesepakatan yang sama. |
-| **Response & adaptation** | Konflik H-2/H-1 dan sempitnya waktu PPT saya tangkap dari usulan A sendiri, lalu tenggat Colab dimajukan ke H-5. |
-| **Agreement/action** | Kesepakatan eksplisit disetujui ketiga anggota, dituangkan dalam spreadsheet bertanggal, dengan pendaftaran sebagai aksi pertama paling lambat 30 Oktober 2026. |
-| **Relationship outcome** | Anggota A dan B ikut mengusulkan tenggat dan aturan sendiri, sehingga rencana terasa milik bersama, bukan perintah dari saya. |
+| **Person & character** | Authority dipetakan sampai ke pihak luar: panitia lomba lewat guidebook, bukan hanya anggota tim; keputusan lomba tetap wewenang bersama, pendaftaran saya ambil sebagai owner. |
+| **Objective & state** | Keinginan dari Week 9 diubah menjadi aksi bertanggal yang benar-benar dijalankan, dari update progres, evaluasi 2 November, sampai pendaftaran. |
+| **Repertoire & language** | Opsi dan trade-off dibahas terbuka, lalu dirangkum ulang agar semua anggota membaca kesepakatan yang sama. |
+| **Response & adaptation** | Rencana diadaptasi dua kali: konflik tenggat dari usulan A diluruskan, lalu output, tools, pembagian kerja, dan spreadsheet diubah setelah guidebook menuntut dashboard interaktif. |
+| **Agreement/action** | Kesepakatan eksplisit dengan owner, tenggat, update, dan stop rule; tiga update tanpa keterlambatan, evaluasi, dan tugas selesai; keterlambatan pendaftaran dari pihak saya dicatat terbuka. |
+| **Relationship outcome** | A dan B ikut menetapkan tenggat dan peran mereka sendiri, termasuk saat rencana harus berubah; dengan mengakui keterlambatan saya sendiri, standar yang saya minta dari tim juga berlaku untuk saya. |
 
 ## Penggunaan AI
 
-AI (Claude) digunakan untuk menyusun draf pesan rangkuman ke grup dan merapikan hasil diskusi ke format portofolio. Usulan tenggat, pilihan opsi, stop rule, pilihan lomba, dan persetujuan berasal dari diskusi tim. Keputusan lomba dan pendaftaran tidak diserahkan ke AI karena itu wewenang tim.
+AI (Claude) digunakan untuk menyusun draf pesan rangkuman ke grup dan merapikan hasil diskusi ke format portofolio. Pilihan lomba, tenggat, stop rule, pembagian kerja, dan persetujuan berasal dari tim. Tanggal pendaftaran dan jumlah update saya cek sendiri dari email dan riwayat grup, bukan dari AI.
 
 ## Feedback dan tindak lanjut
 
-* **Feedback yang diterima:** Anggota A menyampaikan bahwa rangkuman membuat pembagian dan target lebih jelas; Anggota B berkomitmen mengabarkan temuan atau kendala di grup agar rencana bisa disesuaikan bersama.
-* **Adaptation/replay:** spreadsheet dibagikan ke grup agar Anggota A memasukkan tenggat PPT-nya dan setiap anggota memperbarui status tiap 2 hari.
-* **Next practice:** setiap kali merangkum kesepakatan, cek konsistensi antar-tenggat (apakah tiap bagian punya cukup waktu dari bagian sebelumnya) sebelum meminta persetujuan.
+* **Feedback yang diterima:** Anggota A menyampaikan bahwa rangkuman membuat pembagian dan target lebih jelas; Anggota B berkomitmen mengabarkan temuan atau kendala di grup.
+* **Adaptation/replay:** setelah guidebook dibaca, kesepakatan tidak dipertahankan secara kaku; peran dan spreadsheet diubah sesuai output dashboard, lalu ditinjau pada evaluasi 2 November.
+* **Next practice:** (1) baca ketentuan resmi lomba sebelum menyusun pembagian tugas, supaya kesepakatan awal tidak perlu dirombak; (2) tugas administratif yang saya pegang (seperti pendaftaran) dimasukkan ke spreadsheet dan update progres yang sama, agar ikut terpantau seperti tugas anggota lain.
 
 ## Self-assessment
 
 | Dimensi | Skor 1-4 | Evidence singkat |
 | :--- | :---: | :--- |
-| **Person & Character** | 4 | Authority map memisahkan keputusan tim, pendaftaran, dan tiap bagian kerja sesuai pemegangnya. |
-| **Objective & State** | 4 | *Desire–action gap* dijembatani dengan lomba dan deadline pasti, owner, tenggat bertanggal, update, review, dan stop rule. |
-| **Repertoire, Language & AI** | 4 | Tiga opsi dan trade-off dibahas terbuka; AI dibatasi pada draf rangkuman. |
-| **Response & Adaptation** | 4 | Konflik tenggat dari usulan target ditangkap dan diubah menjadi Colab H-5, draft PPT H-3, revisi H-2. |
-| **Agreement, Action & Relationship** | 4 | Kesepakatan disetujui tiga anggota, dituangkan dalam spreadsheet bertanggal, dengan owner pendaftaran, stop rule, dan jadwal review eksplisit. |
+| **Person & Character** | 4 | Authority map mencakup tim, owner tiap bagian, dan panitia lomba sebagai penentu syarat output. |
+| **Objective & State** | 4 | *Desire–action gap* dijembatani sampai aksi nyata: update progres, evaluasi, tugas selesai, dan pendaftaran. |
+| **Repertoire, Language & AI** | 4 | Tiga opsi dan trade-off dibahas terbuka; AI dibatasi pada draf rangkuman, data aksi dicek sendiri. |
+| **Response & Adaptation** | 4 | Rencana diadaptasi dua kali: konflik tenggat diluruskan dan output, tools, serta pembagian kerja diubah mengikuti guidebook. |
+| **Agreement, Action & Relationship** | 4 | Agreement eksplisit dengan owner, tenggat, stop rule, dan review; tiga update tanpa keterlambatan, evaluasi 2 November, tugas selesai, dan keterlambatan pendaftaran dari pihak saya diakui dengan rencana perbaikan. |
 
 **Total: 20/20 - Lanjut.**
 
