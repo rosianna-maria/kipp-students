@@ -80,7 +80,7 @@ Saya membagikan layar di Google Meet dan menunjukkan prototipe awal dashboard se
 
 ## Penggunaan AI
 
-AI (Claude) digunakan setelah kejadian untuk menyusun catatan saya ke format portofolio dan memetakan hubungan problem–mechanism–benefit–value. AI tidak menambahkan kutipan, reaksi A dan B, maupun detail prototipe; semuanya berasal dari kejadian yang saya alami.
+AI (Claude) digunakan setelah kejadian untuk menyusun catatan saya ke format portofolio. AI tidak menambahkan kutipan, reaksi A dan B, maupun detail prototipe; semuanya berasal dari kejadian yang saya alami.
 
 ## Feedback dan tindak lanjut
 
