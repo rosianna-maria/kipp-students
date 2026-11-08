@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Penghubungan spreadsheet jadwal cicilan, pembagian tugas, dan check-in progres harian dengan masalah penundaan di lomba Data Science sebelumnya, serta adaptasi menjadi pengerjaan fleksibel saat target meminta bantuan sementara.">
+<meta name="description" content="Demonstrasi prototipe dashboard Streamlit kepada dua rekan tim lomba IDC, penanganan hidden concern soal waktu coding dan kemudahan memilih data, serta adaptasi berupa penambahan filter dan perbaikan tampilan.">
 
 <title>Problem–Solution Interest Pitch – Portfolio KIPP-2</title>
 <style>
@@ -299,7 +299,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div>
   <div class="description">
-    Penghubungan spreadsheet jadwal cicilan, pembagian tugas, dan check-in progres harian dengan masalah penundaan di lomba Data Science sebelumnya, serta adaptasi menjadi pengerjaan fleksibel saat target meminta bantuan sementara.
+    Demonstrasi prototipe dashboard Streamlit kepada dua rekan tim lomba IDC, penanganan hidden concern soal waktu coding dan kemudahan memilih data, serta adaptasi berupa penambahan filter dan perbaikan tampilan.
   </div>
 </div>
 
@@ -341,9 +341,9 @@ Buka <a href="../examples/week-07.html">contoh fiktif Minggu 7</a> untuk melihat
 </section>
 <section id="konteks-performance" class="level2">
 <h2 class="anchored" data-anchor-id="konteks-performance">Konteks performance</h2>
-<p><strong>Tanggal dan setting:</strong> Senin, 25 Mei 2026, diskusi tim lewat chat selama kurang lebih 30–60 menit, di awal lomba Data Science berikutnya yang diikuti tim yang sama. Tenggat akhir lomba: Selasa, 9 Juni 2026.</p>
-<p><strong>Persons dan relationship:</strong> Saya (pengerjaan model di Google Colab), Anggota A (pembuatan PPT), dan Anggota B (pengembangan ide dan revisi), satu tim dengan posisi setara. Relasi kerja tetap terjaga setelah kasus Week 6, ketika Anggota A menerima tawaran bantuan saat tenggat lomba Maret tinggal satu hari.</p>
-<p><strong>Objective dan initial state:</strong> Membangun ketertarikan (<em>Interest</em>) Anggota A terhadap sistem kerja baru, yaitu spreadsheet jadwal cicilan dengan pembagian tugas dan check-in progres harian, agar pekerjaan tidak kembali menumpuk menjelang tenggat. Initial state Anggota A: <em>Attention</em>, sudah mengakui pada Maret bahwa penundaan berdampak pada tim, tetapi belum terlihat apakah ia siap mengikuti cara kerja baru di tengah kesibukannya.</p>
+<p><strong>Tanggal dan setting:</strong> Sabtu, 31 Oktober 2026, malam hari, lewat Google Meet, sehari setelah tim memutuskan Streamlit sebagai tools utama lomba Interactive Dashboard Creation (deadline 28 November 2026).</p>
+<p><strong>Persons dan relationship:</strong> Saya (integrasi dashboard di Streamlit), Anggota A (pengolahan data dan visualisasi), dan Anggota B (analisis dan pengujian kemudahan penggunaan), satu tim dengan posisi setara. Pada diskusi sehari sebelumnya, A menerima Streamlit dengan syarat, dan B masih lebih menyukai Looker Studio karena dianggap lebih praktis.</p>
+<p><strong>Objective dan initial state:</strong> Membangun ketertarikan (<em>Interest</em>) A dan B terhadap Streamlit lewat bukti nyata, bukan sekadar argumen. Initial state: keduanya ada di <em>Attention</em>: sudah menerima keputusan, tetapi A masih khawatir soal waktu coding dan B belum melihat bahwa Streamlit bisa sepraktis Looker Studio.</p>
 </section>
 <section id="evidence" class="level2">
 <h2 class="anchored" data-anchor-id="evidence">Evidence</h2>
@@ -358,8 +358,8 @@ Buka <a href="../examples/week-07.html">contoh fiktif Minggu 7</a> untuk melihat
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Evidence dari lomba Maret 2026:</strong> pengerjaan ditunda sampai tenggat tinggal satu hari (19 Maret 2026); kendala anggota baru terlihat di hari terakhir, sehingga beberapa bagian hasilnya kurang maksimal dan hampir tidak ada waktu untuk memeriksa ulang.</li>
-<li><strong>Solution Hypothesis:</strong> spreadsheet bersama yang memuat urutan pengerjaan, penanggung jawab, dan progres tiap tugas, ditambah check-in harian dan pengumpulan hasil kerja di spreadsheet yang sama, akan membuat progres terlihat sejak awal dan memunculkan kendala sebelum pekerjaan menumpuk.</li>
+<li><strong>Evidence dari diskusi 30 Oktober 2026:</strong> A bertanya siapa yang akan mengerjakan coding dan khawatir pekerjaan menumpuk di satu orang; B menilai Looker Studio lebih praktis dan ingin tim fokus pada isi dashboard.</li>
+<li><strong>Solution Hypothesis:</strong> prototipe awal dashboard Streamlit yang sudah jadi dapat menunjukkan bahwa tim tidak memulai dari nol, sekaligus menjadi bahan uji kemudahan penggunaan sebelum fitur ditambah.</li>
 </ul>
 <table class="caption-top table">
 <colgroup>
@@ -373,27 +373,27 @@ Buka <a href="../examples/week-07.html">contoh fiktif Minggu 7</a> untuk melihat
 <th style="text-align: left;">Problem</th>
 <th style="text-align: left;">Mechanism</th>
 <th style="text-align: left;">Expected benefit</th>
-<th style="text-align: left;">Value bagi target (Anggota A)</th>
+<th style="text-align: left;">Value bagi target</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">Pengerjaan ditunda sampai mendekati tenggat</td>
-<td style="text-align: left;">Spreadsheet dengan urutan pengerjaan dan penanggung jawab tiap tugas (Colab, PPT, ide dan revisi)</td>
-<td style="text-align: left;">Pekerjaan dicicil bertahap dan masih ada waktu memeriksa serta merevisi</td>
-<td style="text-align: left;">Anggota A tahu posisi PPT dalam urutan kerja dan kapan bahannya dari Colab siap</td>
+<td style="text-align: left;">Coding Streamlit dikhawatirkan memakan waktu lama (A)</td>
+<td style="text-align: left;">Prototipe awal yang sudah saya buat dijadikan dasar pengembangan</td>
+<td style="text-align: left;">Tim tinggal mengembangkan, tidak membangun dari nol</td>
+<td style="text-align: left;">A bisa fokus pada pengolahan data dan visualisasi tanpa terbebani coding dari awal</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Progres hanya berupa pernyataan “lagi dikerjain”</td>
-<td style="text-align: left;">Hasil kerja dikirim ke spreadsheet, bukan cukup dilaporkan lewat chat</td>
-<td style="text-align: left;">Progres bisa diperiksa bersama secara nyata</td>
-<td style="text-align: left;">Kontribusi Anggota A terlihat jelas tanpa perlu ditagih</td>
+<td style="text-align: left;">Streamlit dianggap kurang praktis dibanding Looker Studio (B)</td>
+<td style="text-align: left;">Filter untuk memilih data yang ingin ditampilkan</td>
+<td style="text-align: left;">Pengguna dashboard bisa memilih data dengan mudah</td>
+<td style="text-align: left;">Kebutuhan B akan dashboard yang praktis tetap terpenuhi di tools yang dipilih tim</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Kendala anggota baru terlihat di hari terakhir</td>
-<td style="text-align: left;">Check-in progres harian dan aturan “kabarin aja kalau sibuk”</td>
-<td style="text-align: left;">Hambatan terdeteksi saat masih ada waktu untuk diatur ulang</td>
-<td style="text-align: left;">Anggota A bisa meminta bantuan lebih awal tanpa harus merasa bersalah seperti di Maret</td>
+<td style="text-align: left;">Tampilan awal belum rapi</td>
+<td style="text-align: left;">Perbaikan susunan grafik, ukuran teks dan judul, warna, dan tata letak</td>
+<td style="text-align: left;">Dashboard lebih mudah dibaca</td>
+<td style="text-align: left;">Hasil kerja A dan B tampil lebih jelas di dashboard akhir</td>
 </tr>
 </tbody>
 </table>
@@ -401,67 +401,28 @@ Buka <a href="../examples/week-07.html">contoh fiktif Minggu 7</a> untuk melihat
 <section id="pitch-demonstration" class="level3">
 <h3 class="anchored" data-anchor-id="pitch-demonstration">2. Pitch &amp; Demonstration</h3>
 <blockquote class="blockquote">
-<p><em>“Guys, ini ya pembagian tugas kita. Tolong jangan mepet lagi yaa kerjainnya. Kalo semisal sibuk atau gimana, kabarin ajaa, kita saling bantu!”</em></p>
+<p><em>“Aku coba bikin prototipe dashboard pakai Streamlit. Ini gambaran hasilnya.”</em></p>
 </blockquote>
-<p>Bersama pesan itu, saya membagikan spreadsheet yang sudah saya susun dan menjelaskan cara memakainya. Strukturnya:</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Urutan</th>
-<th style="text-align: left;">Tugas</th>
-<th style="text-align: left;">Penanggung jawab</th>
-<th style="text-align: left;">Progres</th>
-<th style="text-align: left;">Hasil kerja</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">1</td>
-<td style="text-align: left;">Pengerjaan model dan analisis di Google Colab</td>
-<td style="text-align: left;">Saya</td>
-<td style="text-align: left;">Diperbarui harian</td>
-<td style="text-align: left;">Diunggah ke spreadsheet</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">2</td>
-<td style="text-align: left;">Pengembangan ide dan revisi</td>
-<td style="text-align: left;">Anggota B</td>
-<td style="text-align: left;">Diperbarui harian</td>
-<td style="text-align: left;">Diunggah ke spreadsheet</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">3</td>
-<td style="text-align: left;">Pembuatan PPT</td>
-<td style="text-align: left;">Anggota A</td>
-<td style="text-align: left;">Diperbarui harian</td>
-<td style="text-align: left;">Diunggah ke spreadsheet</td>
-</tr>
-</tbody>
-</table>
-<p>Mulai hari itu saya menanyakan progres setiap hari dan meminta tiap anggota mengirim hasil kerjanya ke spreadsheet, sehingga mekanismenya langsung dipraktikkan, bukan hanya dijanjikan.</p>
+<p>Saya membagikan layar di Google Meet dan menunjukkan prototipe awal dashboard secara keseluruhan, sehingga A dan B melihat langsung hasil Streamlit, bukan hanya mendengar penjelasan kelebihannya.</p>
 <hr>
 </section>
 <section id="response-hidden-concern-adaptation" class="level3">
 <h3 class="anchored" data-anchor-id="response-hidden-concern-adaptation">3. Response, Hidden Concern &amp; Adaptation</h3>
 <ul>
-<li><strong>Respons Anggota A:</strong> setelah pembagian tugas dan jadwal dibahas, Anggota A menulis:<br>
-<em>“Guys, sepertinya aku lagi gabisa handle sekarang, bole diambil alih dulu? setelah ini aku bakal kerjain lagi.”</em></li>
-<li><strong>Identifikasi Hidden Concern:</strong> saya semula mengira masalah utamanya adalah kebiasaan menunda, sehingga fokus saya pada disiplin jadwal dan laporan progres. Respons Anggota A menunjukkan <em>hidden concern</em> sebenarnya adalah <strong>kapasitas waktu pada periode tertentu</strong>, bukan keengganan mengerjakan; ia tetap menyatakan akan melanjutkan bagiannya.</li>
-<li><strong>Pertanyaan pengecekan:</strong> sebelum mengubah pengaturan, saya menanyakan apakah Anggota A tetap akan berusaha mengikuti lomba ini, untuk membedakan kesediaan berkomitmen dari kendala waktu sesaat.</li>
-<li><strong>Adaptasi:</strong> saya tidak mempertahankan jadwal sebagai aturan kaku. Pengerjaan dibuat fleksibel: anggota boleh meminta bantuan sementara saat tidak bisa menangani bagiannya, kendala masing-masing dibuka di check-in harian, dan PPT tetap tercatat sebagai tanggung jawab Anggota A di spreadsheet agar kepemilikannya tidak kabur.</li>
-<li><strong>Hasil &amp; State Shift:</strong> Anggota A menyetujui jadwal yang sudah disesuaikan dan mulai mengerjakan bagiannya. State berpindah dari <em>Attention</em> menjadi <strong>Interest</strong>, ditunjukkan lewat persetujuan sekaligus tindakan nyata. Tim mengumpulkan pekerjaan tepat waktu sebelum tenggat Selasa, 9 Juni 2026.</li>
+<li><strong>Reaksi awal:</strong> A dan B memberi respons positif setelah melihat tampilan prototipe.</li>
+<li><strong>Kekhawatiran A:</strong> <em>“Kalau pakai Streamlit, takutnya coding-nya bakal makan waktu lama.”</em></li>
+<li><strong>Identifikasi Hidden Concern:</strong> demonstrasi saya berfokus pada tampilan hasil. Respons A menunjukkan yang sebenarnya ia khawatirkan bukan tampilan, melainkan <strong>beban waktu membangun dashboard dari awal</strong>. Usulan B menunjukkan kebutuhannya adalah <strong>kemudahan memilih data</strong>, alasan yang sama dengan preferensinya pada Looker Studio.</li>
+<li><strong>Adaptasi:</strong>
+<ol type="1">
+<li>Saya menjelaskan bahwa prototipe ini menjadi dasar pengembangan, sehingga tim tidak mulai dari nol. A merespons: <em>“Oh, kalau sudah ada prototype-nya berarti kita tinggal mengembangkan dari sini, ya.”</em></li>
+<li>B mengusulkan: <em>“Bisa ditambah filter supaya data yang mau dilihat lebih gampang dipilih?”</em> Saya menerima usulan itu dan menambahkan filter ke prototipe.</li>
+<li>Saya memperbaiki tampilan: susunan dan posisi grafik dirapikan, ukuran tulisan dan judul diperbesar, warna dan desain disesuaikan, dan tata letak keseluruhan diperbaiki.</li>
+</ol></li>
+<li><strong>Hasil &amp; State Shift:</strong> A menjadi lebih yakin memakai Streamlit, dan B aktif memberi masukan pengembangan. Versi terbaru ditunjukkan kembali di rapat berikutnya dan dibagikan lewat WhatsApp; A dan B menilai tampilannya lebih baik dan memberi masukan lanjutan. State keduanya bergeser dari <em>Attention</em> ke <strong>Interest</strong>, terlihat dari keyakinan A dan kontribusi aktif B terhadap pengembangan.</li>
 </ul>
 </section>
 </div>
 </div>
-<p>Berbeda dengan Maret, kendala Anggota A kali ini muncul lewat jalur yang memang disediakan mekanisme (“kabarin aja”) saat masih ada waktu untuk diatur, bukan di hari terakhir.</p>
 </section>
 <section id="analisis-komunikasi" class="level2">
 <h2 class="anchored" data-anchor-id="analisis-komunikasi">Analisis komunikasi</h2>
@@ -479,41 +440,41 @@ Buka <a href="../examples/week-07.html">contoh fiktif Minggu 7</a> untuk melihat
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><strong>Person &amp; character</strong></td>
-<td style="text-align: left;">Saya menghargai keterbatasan waktu Anggota A sebagai kondisi nyata, bukan menganggapnya kurang disiplin; posisi setara membuat saya memilih ajakan, bukan perintah.</td>
+<td style="text-align: left;">Dua target dengan keberatan berbeda dibaca terpisah: A soal waktu coding, B soal kepraktisan; keduanya diperlakukan sebagai rekan setara yang ikut menentukan arah dashboard.</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>Objective &amp; state</strong></td>
-<td style="text-align: left;">State Anggota A dinilai (<em>Attention</em> → <em>Interest</em>), dan saya tidak memaksakan jadwal final sebelum <em>hidden concern</em> terurai.</td>
+<td style="text-align: left;">State A dan B dinilai dari <em>Attention</em> ke <em>Interest</em>; saya tidak menganggap keputusan 30 Oktober sudah otomatis berarti mereka tertarik.</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>Repertoire &amp; language</strong></td>
-<td style="text-align: left;">Solusi didemonstrasikan lewat spreadsheet nyata (urutan, penanggung jawab, progres, hasil kerja) dan langsung dipraktikkan lewat check-in harian, lalu dihubungkan dengan evidence lomba Maret.</td>
+<td style="text-align: left;">Pitch memakai demonstrasi langsung lewat share screen, lalu dihubungkan dengan kekhawatiran yang muncul di diskusi sebelumnya.</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>Response &amp; adaptation</strong></td>
-<td style="text-align: left;">Permintaan “bole diambil alih dulu?” mengubah mekanisme dari jadwal tetap menjadi pengerjaan fleksibel dengan bantuan sementara, tanpa memindahkan kepemilikan PPT.</td>
+<td style="text-align: left;">Kekhawatiran A dijawab dengan menjadikan prototipe dasar pengembangan; usulan B mengubah mekanisme solusi dengan penambahan filter; tampilan diperbaiki dan ditunjukkan ulang.</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>Agreement/action</strong></td>
-<td style="text-align: left;">Anggota A menyetujui jadwal yang disesuaikan dan mulai mengerjakan bagiannya; progres dipantau harian dan tim submit tepat waktu sebelum 9 Juni 2026.</td>
+<td style="text-align: left;">A menerima Streamlit dengan lebih yakin, filter ditambahkan, versi terbaru dibagikan di WhatsApp, dan masukan lanjutan dicatat untuk pengembangan berikutnya.</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>Relationship outcome</strong></td>
-<td style="text-align: left;">Anggota A berani menyampaikan kendala lebih awal, dan komitmennya datang dari dirinya, bukan dari tekanan atau rasa bersalah.</td>
+<td style="text-align: left;">B, yang sebelumnya lebih menyukai Looker Studio, ikut membentuk dashboard lewat usulannya sendiri, sehingga keputusan tools terasa milik bersama.</td>
 </tr>
 </tbody>
 </table>
 </section>
 <section id="penggunaan-ai" class="level2">
 <h2 class="anchored" data-anchor-id="penggunaan-ai">Penggunaan AI</h2>
-<p>AI (Claude) digunakan setelah kejadian untuk menyusun catatan saya ke format portofolio dan merumuskan hubungan problem–mechanism–benefit–value pada tabel solusi. AI tidak menambahkan fakta, isi percakapan, isi spreadsheet, maupun respons Anggota A; bagian-bagian itu berasal dari ingatan saya.</p>
+<p>AI (Claude) digunakan setelah kejadian untuk menyusun catatan saya ke format portofolio. AI tidak menambahkan kutipan, reaksi A dan B, maupun detail prototipe; semuanya berasal dari kejadian yang saya alami.</p>
 </section>
 <section id="feedback-dan-tindak-lanjut" class="level2">
 <h2 class="anchored" data-anchor-id="feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</h2>
 <ul>
-<li><strong>Feedback yang diterima:</strong> Anggota A menyampaikan bahwa pada periode itu ia belum bisa menangani bagiannya dan meminta bantuan sementara, sambil menyatakan akan melanjutkannya.</li>
-<li><strong>Adaptation/replay:</strong> pengerjaan dibuat fleksibel dengan bantuan sementara, check-in harian dipakai untuk membuka kendala tiap anggota, dan hasil kerja tetap dikumpulkan di spreadsheet sampai pengumpulan tepat waktu.</li>
-<li><strong>Next practice:</strong> menyepakati aturan bantuan sementara sejak awal (siapa membantu bagian apa dan sampai kapan diserahkan kembali) dan menanyakan ketersediaan waktu tiap anggota sebelum menyusun jadwal.</li>
+<li><strong>Feedback yang diterima:</strong> B mengusulkan filter agar data lebih mudah dipilih; setelah melihat versi terbaru, A dan B memberi masukan perbaikan tampilan dan menilai dashboard menjadi lebih baik.</li>
+<li><strong>Adaptation/replay:</strong> filter ditambahkan, tampilan diperbaiki, versi terbaru ditunjukkan di rapat berikutnya dan dibagikan lewat WhatsApp, dan masukan tambahan dicatat untuk tahap pengembangan selanjutnya.</li>
+<li><strong>Next practice:</strong> sebelum demonstrasi, tanyakan dulu apa yang paling dikhawatirkan tiap anggota, supaya demo langsung menjawab kekhawatiran itu, bukan hanya menunjukkan tampilan.</li>
 </ul>
 </section>
 <section id="self-assessment" class="level2">
@@ -535,27 +496,27 @@ Buka <a href="../examples/week-07.html">contoh fiktif Minggu 7</a> untuk melihat
 <tr class="odd">
 <td style="text-align: left;"><strong>Person &amp; Character</strong></td>
 <td style="text-align: center;">4</td>
-<td style="text-align: left;">Keterbatasan waktu Anggota A dihargai sebagai kondisi nyata, bukan dianggap kurang disiplin.</td>
+<td style="text-align: left;">Kekhawatiran A (waktu coding) dan kebutuhan B (kepraktisan) dibaca terpisah dan dihubungkan dengan posisi mereka di diskusi sebelumnya.</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>Objective &amp; State</strong></td>
 <td style="text-align: center;">4</td>
-<td style="text-align: left;">State digeser dari <em>Attention</em> ke <em>Interest</em> setelah <em>hidden concern</em> ditangani, tanpa memaksakan jadwal awal.</td>
+<td style="text-align: left;">State A dan B digeser dari <em>Attention</em> ke <em>Interest</em> lewat bukti, bukan dengan menganggap keputusan tim sudah cukup.</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>Repertoire, Language &amp; AI</strong></td>
 <td style="text-align: center;">4</td>
-<td style="text-align: left;">Spreadsheet urutan, penanggung jawab, progres, dan hasil kerja didemonstrasikan dan langsung dipraktikkan lewat check-in harian; AI dibatasi pada penyusunan dan pemetaan problem–solution.</td>
+<td style="text-align: left;">Demonstrasi prototipe langsung lewat share screen; AI dibatasi pada penyusunan dan pemetaan problem–solution.</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>Response &amp; Adaptation</strong></td>
 <td style="text-align: center;">4</td>
-<td style="text-align: left;">Permintaan bantuan sementara mengubah mekanisme menjadi pengerjaan fleksibel tanpa menghilangkan kepemilikan tugas.</td>
+<td style="text-align: left;">Kekhawatiran A dijawab dengan prototipe sebagai dasar; usulan filter dari B langsung diterapkan; tampilan diperbaiki dan ditunjukkan ulang.</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>Agreement, Action &amp; Relationship</strong></td>
 <td style="text-align: center;">4</td>
-<td style="text-align: left;">Anggota A menyetujui jadwal dan mulai mengerjakan bagiannya; progres dipantau harian dan tim submit tepat waktu sebelum 9 Juni 2026.</td>
+<td style="text-align: left;">A lebih yakin, B aktif memberi masukan, versi baru dibagikan, dan masukan lanjutan dicatat untuk pengembangan.</td>
 </tr>
 </tbody>
 </table>
