@@ -1,11 +1,11 @@
 ---
 title: "Capstone Performance Portfolio"
 week: 15
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20/20"
 assessor_score: "—"
-description: "Integrated person-centered communication performance."
 categories: [Assessment, Capstone]
+description: "Rapat final tim lomba Interactive Dashboard Creation yang diamati mentor: pemetaan person dan state, perubahan rekomendasi prioritas fitur setelah masukan anggota, keputusan dengan owner, perbaikan bug, submit 8 November 2026, feedback observer, kritik AI, dan refleksi rangkaian Week 6–14."
 ---
 
 ## Kompetensi target
@@ -14,12 +14,106 @@ Mengintegrasikan person, character, objective, state, repertoire, language, resp
 
 ## Evidence wajib
 
-- Person/character/state map dan performance plan.
-- Rekaman/transcript, observer feedback, serta decisive adaptation.
-- Agreement/action atau specific disagreement, relationship outcome, AI critique, dan reflection.
+* Person/character/state map dan performance plan.
+* Rekaman/transcript, observer feedback, serta decisive adaptation.
+* Agreement/action atau specific disagreement, relationship outcome, AI critique, dan reflection.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 15](../examples/week-15.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+::: {.callout-note appearance="simple"}
+💡 **Lihat contoh pengisian**  
+Buka [contoh fiktif Minggu 15](../examples/week-15.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks performance
+
+**Tanggal dan setting:** Sabtu, 7 November 2026, rapat final tim lomba Interactive Dashboard Creation lewat Google Meet, lebih dari satu jam, diamati oleh seorang mentor sebagai observer. Rapat tidak direkam; evidence berasal dari catatan rapat saya dan feedback langsung mentor.
+
+**Persons dan relationship:** Saya (integrasi dashboard di Streamlit, fasilitator rapat), Anggota A (pengolahan data dan visualisasi), Anggota B (analisis dan pengujian kemudahan penggunaan), dan mentor sebagai observer yang tidak ikut mengambil keputusan. Rapat ini menutup rangkaian kerja tim sejak lomba Maret 2026 (Week 6) sampai pemilihan tools dan demo prototipe (Week 7 dan 11).
+
+**Objective dan initial state:** Memutuskan versi final dashboard sebelum pengumpulan: fitur yang dipertahankan, perbaikan yang masih wajib, pembagian tugas akhir, dan siapa yang mengecek serta mengirim hasil, tanpa membuat anggota terbebani di akhir.
+
+## Evidence
+
+::: {.callout-note appearance="simple" icon=false}
+### 1. Person, Character & State Map
+
+| Person | Character dalam rapat | Kepentingan | State awal |
+| :--- | :--- | :--- | :--- |
+| **Saya** | Fasilitator dan penanggung jawab integrasi Streamlit | Dashboard berjalan stabil dan sesuai hasil olah data | Membawa rekomendasi awal soal fitur |
+| **Anggota A** | Pemilik bagian data dan visualisasi | Perubahan akhir tidak merusak data dan visual yang sudah siap | Siap menyampaikan masukan dari sisi data |
+| **Anggota B** | Pemilik analisis dan uji kemudahan penggunaan | Dashboard mudah dipakai pengguna | Membawa catatan dari pengujian |
+| **Mentor** | Observer | Menilai cara saya memimpin diskusi | Tidak ikut memutuskan |
+
+**Performance plan:** menunjukkan kondisi dashboard, menyampaikan rekomendasi awal, meminta pendapat A dan B dari sisi tanggung jawab masing-masing, membedakan perbaikan wajib dan tambahan, lalu menutup dengan keputusan eksplisit dan pertanyaan apakah masih ada yang belum setuju.
+
+---
+
+### 2. Decisive Adaptation
+
+* Saya membuka rapat dengan rekomendasi awal mengenai fitur dashboard.
+* A dan B menyampaikan masukan berdasarkan bagian yang mereka pegang, yaitu data dan visualisasi serta hasil pengujian kemudahan penggunaan.
+* Masukan itu membuat saya **mengubah rekomendasi awal**: tim memprioritaskan fitur utama dan menunda fitur tambahan yang belum menjadi prioritas, dengan mempertimbangkan kebutuhan pengguna, kondisi pengerjaan, dan waktu yang tersisa.
+
+Rapat tidak direkam, sehingga bagian ini berasal dari catatan rapat saya, bukan transkrip.
+
+---
+
+### 3. Agreement & Action
+
+* **Keputusan:** fitur utama dipertahankan, fitur tambahan ditunda, pembagian tugas dan tenggat akhir ditetapkan, dan saya ditunjuk sebagai penanggung jawab submit.
+* **Persetujuan:** seluruh anggota menyetujui keputusan rapat.
+* **Action setelah rapat:** tim mengecek dashboard bersama dan menemukan beberapa bug. Perbaikan dibagi sesuai sumber masalah masing-masing, dan seluruh bug selesai diperbaiki pada **8 November 2026**.
+* **Hasil akhir:** dashboard dan PPT selesai, lalu saya submit hasil akhir IDC pada **8 November 2026**, jauh sebelum deadline 28 November 2026. Screenshot bukti pengumpulan saya simpan.
+* **Fitur yang ditunda:** dicatat sebagai prioritas pengembangan berikutnya, bukan dihapus dari daftar.
+
+---
+
+### 4. Observer Feedback
+
+Mentor memberikan feedback langsung setelah rapat: saya sudah mampu mengarahkan diskusi dan menjaga pembahasan tetap fokus pada tujuan rapat.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+| :--- | :--- |
+| **Person & character** | Saya memegang dua character sekaligus, fasilitator dan pemilik bagian teknis, sehingga perlu menahan diri agar rekomendasi saya tidak otomatis menjadi keputusan. |
+| **Objective & state** | Objective menyelesaikan dashboard tepat waktu dijaga bersamaan dengan objective tidak membebani anggota di akhir. |
+| **Repertoire & language** | Rapat dimulai dari kondisi dashboard, lalu rekomendasi, lalu putaran pendapat sesuai tanggung jawab tiap anggota. |
+| **Response & adaptation** | Masukan A dan B mengubah rekomendasi awal saya menjadi prioritas fitur utama dan penundaan fitur tambahan. |
+| **Agreement/action** | Keputusan dengan owner dan penanggung jawab submit; bug ditemukan dan diperbaiki; hasil disubmit 8 November 2026 dengan bukti. |
+| **Relationship outcome** | Usulan yang ditunda tetap dicatat untuk pengembangan berikutnya, sehingga anggota yang mengusulkannya tidak merasa diabaikan. |
+
+## Penggunaan AI
+
+AI (Claude) digunakan setelah rapat untuk merapikan dokumentasi menjadi format portofolio. Keputusan prioritas fitur, pembagian tugas, dan penyelesaian proyek ditentukan dalam diskusi tim. Satu saran AI tidak saya pakai karena tidak sesuai dengan kondisi dan kebutuhan tim.
+
+## Feedback dan tindak lanjut
+
+* **Feedback yang diterima:** mentor menilai saya sudah mampu mengarahkan diskusi dan menjaga fokus rapat.
+* **Adaptation/replay:** jika mengulang rapat, saya akan membedakan perubahan wajib dan perubahan tambahan sejak awal, sebelum menyampaikan rekomendasi, agar diskusi tidak menghabiskan waktu pada fitur yang tidak penting menjelang deadline.
+* **Next practice:** meminta observer menyebut satu momen ketika saya terlalu mengarahkan, bukan hanya yang sudah berjalan baik.
+
+## Refleksi capstone
+
+Rangkaian Week 6–15 menunjukkan perubahan cara saya berkomunikasi dalam tim. Di lomba Maret, saya baru berbicara ketika tenggat tinggal sehari. Di Week 7 dan 9, saya belajar bahwa solusi yang saya anggap tepat (check-in harian, jadwal kaku) perlu diubah setelah mendengar kondisi anggota, termasuk ketika hambatan anggota ternyata berasal dari bagian saya sendiri. Di Week 10 dan 11, saya belajar memetakan siapa yang berwenang dan mencatat ketidaksetujuan, bukan menutupinya, termasuk mengakui keterlambatan pendaftaran yang menjadi tanggung jawab saya. Di rapat final ini, kemampuan terpenting bukan membuat rekomendasi yang meyakinkan, melainkan mengizinkan masukan anggota mengubah rekomendasi itu sambil tetap menutup rapat dengan keputusan yang jelas.
+
+## Self-assessment
+
+| Dimensi | Skor 1-4 | Evidence singkat |
+| :--- | :---: | :--- |
+| **Person & Character** | 4 | Person, character, kepentingan, dan peran observer dipetakan; dua character saya disadari. |
+| **Objective & State** | 4 | Objective penyelesaian dan beban anggota dikelola bersamaan. |
+| **Repertoire, Language & AI** | 4 | Struktur rapat, putaran pendapat, dan AI dibatasi pada dokumentasi. |
+| **Response & Adaptation** | 4 | Masukan anggota mengubah rekomendasi awal menjadi prioritas fitur utama. |
+| **Agreement, Action & Relationship** | 4 | Keputusan disetujui semua, bug diperbaiki, hasil disubmit 8 November dengan bukti, usulan yang ditunda tetap dicatat. |
+
+**Total: 20/20 - Lanjut.**
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
